@@ -18,7 +18,10 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of teref is to provide certain reference tables, such as showing the correspondence between country and city names and codes across different databases and sources. In this package, some of these tables are referred to as code books.
+The goal of teref is to provide certain reference tables, such as showing the correspondence between country and city names and codes across different databases and sources. This package contains three reference tables:
+* __ctry_code_book:__ Country names and codes across databases. 
+* __city_code_book:__ City names and codes across databases.
+* __var_code_book_oegtc:__ Variable codes and descriptions to use with the Global City Travel database.
 
 ## Installation
 

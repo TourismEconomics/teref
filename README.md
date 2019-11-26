@@ -9,8 +9,11 @@
 
 The goal of teref is to provide certain reference tables, such as
 showing the correspondence between country and city names and codes
-across different databases and sources. In this package, some of these
-tables are referred to as code books.
+across different databases and sources. This package contains three
+reference tables: \* **ctry\_code\_book:** Country names and codes
+across databases. \* **city\_code\_book:** City names and codes across
+databases. \* **var\_code\_book\_oegtc:** Variable codes and
+descriptions to use with the Global City Travel database.
 
 ## Installation
 
