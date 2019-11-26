@@ -1,0 +1,5 @@
+var,oe_var,sh_description,oe_description
+vr,TOURRSTAY,Domestic overnight visits,Domestic overnight visits
+vf,TOURFSTAY,International overnight visits,International overnight visits
+spendd,DSPEND!$,Domestic travel spend,Total domestic travel spend (US$ mn)
+spendi,XFVS!$,Inbound travel spend,Total inbound travel spend (US$ mn)
