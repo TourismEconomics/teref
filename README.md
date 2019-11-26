@@ -7,13 +7,14 @@
 
 <!-- badges: end -->
 
-The goal of teref is to provide certain reference tables, such as
-showing the correspondence between country and city names and codes
-across different databases and sources. This package contains three
-reference tables: \* **ctry\_code\_book:** Country names and codes
-across databases. \* **city\_code\_book:** City names and codes across
-databases. \* **var\_code\_book\_oegtc:** Variable codes and
-descriptions to use with the Global City Travel database.
+This package provides reference tables, such as showing the
+correspondence between country and city names and codes across different
+databases and sources. This package contains three reference tables:
+
+  - **ctry\_code\_book:** Country names and codes across databases.
+  - **city\_code\_book:** City names and codes across databases.
+  - **var\_code\_book\_oegtc:** Variable codes and descriptions to use
+    with the Global City Travel database.
 
 ## Installation
 
@@ -28,12 +29,3 @@ devtools::install_github("TourismEconomics/teref")
 
 The tables, or code books, are stored as Rdata files in the “data”
 directory.
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-#library(teref)
-## basic example code
-```
