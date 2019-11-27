@@ -22,6 +22,7 @@ This package provides reference tables, such as showing the correspondence betwe
 
 * __ctry_code_book:__ Country names and codes across databases. 
 * __city_code_book:__ City names and codes across databases.
+* __ctry_code_book_oegtc:__ Country names, codes and regions used in the Global City Travel database.
 * __var_code_book_oegtc:__ Variable codes and descriptions to use with the Global City Travel database.
 
 ## Installation

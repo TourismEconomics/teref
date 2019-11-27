@@ -41,6 +41,21 @@
 #' \item{oe_gct_location_code}{Oxford Economics Global City Travel location code}}
 "city_code_book"
 
+#' Country codes for Global City Travel data
+#'
+#' The origin country codes and regions used in Global City Travel
+#'
+#' @format A tibble:
+#' \describe{
+#' \item{orig_ctry_code}{Three-letter upper-case codes used in variables in GCT}
+#' \item{country_name}{Straightforward name for country. Useful to join with ctry_code_book}
+#' \item{oegtc_country_name}{country name used in GCT descriptions}
+#' \item{type}{Type of geography (global, region, country)}
+#' \item{oegtc_region_midlev}{Mid-level regions used in GCT}
+#' \item{oegtc_region_highlev}{High-level regions used in GCT}}
+
+"ctry_code_book_oegtc"
+
 #' Variable codes for Global City Travel data
 #'
 #' Short, lower-case variable codes to use with Global City Travel data.
@@ -53,3 +68,5 @@
 #' \item{oe_description}{Description of indicator in database}}
 
 "var_code_book_oegct"
+
+
