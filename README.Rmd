@@ -20,10 +20,10 @@ knitr::opts_chunk$set(
 
 This package provides reference tables, such as showing the correspondence between country and city names and codes across different databases and sources. This package contains three reference tables:  
 
-* __ctry_code_book:__ Country names and codes across databases. 
-* __city_code_book:__ City names and codes across databases.
-* __ctry_code_book_oegtc:__ Country names, codes and regions used in the Global City Travel database.
-* __var_code_book_oegtc:__ Variable codes and descriptions to use with the Global City Travel database.
+* __cb_ctry:__ Country names and codes across databases. 
+* __cb_city:__ City names and codes across databases.
+* __cb_ctry_oegtc:__ Country names, codes and regions used in the Global City Travel database.
+* __cb_var_oegtc:__ Variable codes and descriptions to use with the Global City Travel database.
 
 ## Installation
 

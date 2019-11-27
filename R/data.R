@@ -19,7 +19,7 @@
 #' \item{oegts_region_highlev}{Oxford Economics Global Travel Service high-level region. These include: Europe, Africa and Middle East, Americas, Asia Pacific, and NA.}
 #' \item{oegts_origin_code}{Oxford Economics Global Travel Service origin code}
 #' \item{note}{Note}}
-"ctry_code_book"
+"cb_ctry"
 
 #' City codes
 #'
@@ -39,7 +39,7 @@
 #' \item{mkt_geocode_friendly}{Market name that works well in geocoding scripts, such as Google API}
 #' \item{oe_gct_name}{Oxford Economics Global City Travel city name}
 #' \item{oe_gct_location_code}{Oxford Economics Global City Travel location code}}
-"city_code_book"
+"cb_city"
 
 #' Country codes for Global City Travel data
 #'
@@ -53,7 +53,7 @@
 #' \item{type}{Type of geography (global, region, country)}
 #' \item{oegtc_region_midlev}{Mid-level regions used in GCT}
 #' \item{oegtc_region_highlev}{High-level regions used in GCT}}
-"ctry_code_book_oegtc"
+"cb_ctry_oegtc"
 
 #' Variable codes for Global City Travel data
 #'
@@ -65,6 +65,6 @@
 #' \item{oe_var}{Variable code in database (includes special characters such as $)}
 #' \item{sh_description}{Short description of indicator}
 #' \item{oe_description}{Description of indicator in database}}
-"var_code_book_oegct"
+"cb_var_oegct"
 
 
