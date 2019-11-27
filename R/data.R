@@ -53,7 +53,6 @@
 #' \item{type}{Type of geography (global, region, country)}
 #' \item{oegtc_region_midlev}{Mid-level regions used in GCT}
 #' \item{oegtc_region_highlev}{High-level regions used in GCT}}
-
 "ctry_code_book_oegtc"
 
 #' Variable codes for Global City Travel data
@@ -66,7 +65,6 @@
 #' \item{oe_var}{Variable code in database (includes special characters such as $)}
 #' \item{sh_description}{Short description of indicator}
 #' \item{oe_description}{Description of indicator in database}}
-
 "var_code_book_oegct"
 
 
