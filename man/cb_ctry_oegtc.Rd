@@ -6,10 +6,17 @@
 \title{Country codes for Global City Travel data}
 \format{A tibble:
 \describe{
-\item{orig_ctry_code}{Three-letter upper-case codes used in variables in GCT}
-\item{country_name}{Straightforward name for country. Useful to join with ctry_code_book}
-\item{oegtc_country_name}{country name used in GCT descriptions}
-\item{type}{Type of geography (global, region, country)}
+\item{orig_ctry_code}{Three-letter upper-case codes used in variables in GCT.
+Populated for all rows.}
+\item{geo_name}{Straightforward name for the geograph. Populated for all rows.}
+\item{country_name}{Straightforward name for country. Useful to join with
+ctry_code_book. Populated for countries only.}
+\item{oegtc_country_name}{Country name used in GCT descriptions}
+\item{geotype}{Type of geography (global, continent (only Africa), region,
+partial region, country). Africa is categorized as a continent to help show
+that it shouldn't be summed with the other regions, as there is also a North
+Africa and Sub-Saharan Africa. The partial regions are rows such as "Rest of
+Oceania" that are similar in a sense to countries.}
 \item{oegtc_region_midlev}{Mid-level regions used in GCT}
 \item{oegtc_region_highlev}{High-level regions used in GCT}}}
 \usage{
@@ -17,5 +24,9 @@ cb_ctry_oegtc
 }
 \description{
 The origin country codes and regions used in Global City Travel
+}
+\details{
+Hints: Filtering geotype to country and partial region may make sense. Alternatively,
+filtering to region or global.
 }
 \keyword{datasets}
