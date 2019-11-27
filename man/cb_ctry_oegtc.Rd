@@ -12,7 +12,7 @@ Populated for all rows.}
 \item{country_name}{Straightforward name for country. Useful to join with
 ctry_code_book. Populated for countries only.}
 \item{oegtc_country_name}{Country name used in GCT descriptions}
-\item{geotype}{Type of geography (global, continent (only Africa), region,
+\item{geo_type}{Type of geography (global, continent (only Africa), region,
 partial region, country). Africa is categorized as a continent to help show
 that it shouldn't be summed with the other regions, as there is also a North
 Africa and Sub-Saharan Africa. The partial regions are rows such as "Rest of
