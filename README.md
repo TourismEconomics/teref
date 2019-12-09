@@ -15,6 +15,8 @@ databases and sources. This package contains three reference tables:
   - **cb\_city:** City names and codes across databases.
   - **cb\_ctry\_oegtc:** Country names, codes and regions used in the
     Global City Travel database.
+  - **cb\_var\_oegc:** Variable codes and descriptions to use with the
+    Global Cities database.
   - **cb\_var\_oegtc:** Variable codes and descriptions to use with the
     Global City Travel database.
 
