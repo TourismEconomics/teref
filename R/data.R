@@ -67,6 +67,19 @@
 #' \item{oegtc_region_highlev}{High-level regions used in GCT}}
 "cb_ctry_oegtc"
 
+#' Variable codes for Global Cities data
+#'
+#' Short, lower-case variable codes to use with Global Cities data.
+#'
+#' @format A tibble:
+#' \describe{
+#' \item{var}{Short, lower-case variable code (no special chracters)}
+#' \item{oe_var}{Variable code in database (includes special characters such as $)}
+#' \item{sh_description}{Short description of indicator}
+#' \item{oe_description}{Description of indicator in database}}
+"cb_var_oegc"
+
+
 #' Variable codes for Global City Travel data
 #'
 #' Short, lower-case variable codes to use with Global City Travel data.
