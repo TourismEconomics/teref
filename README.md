@@ -11,7 +11,7 @@ This package provides reference tables, such as showing the
 correspondence between country and city names and codes across different
 databases and sources. This package contains three reference tables:
 
-  - **cb\_ctry:** Country names and codes across databases.
+  - **cb\_ctry:** Country names and codes across databases.  
   - **cb\_city:** City names and codes across databases.
   - **cb\_ctry\_oegtc:** Country names, codes and regions used in the
     Global City Travel database.
@@ -33,3 +33,10 @@ devtools::install_github("TourismEconomics/teref")
 
 The tables, or code books, are stored as Rdata files in the “data”
 directory.
+
+## Suggestions
+
+When using the cb\_ctry or the cb\_city with the Global Cities database,
+it is advisable to join based on the oegc\_loc\_code, rather than the
+location name, because some city-country situations have the same
+location name (e.g. Singapore, Luxembourg, Hong Kong, Macao).
