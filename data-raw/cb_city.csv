@@ -128,7 +128,6 @@ Chongqing,,China,CHN,Chongqing,CHNM,China,,Chongqing,Chongqing (CN),CHN_CKG
 "Heze, Shandong",,China,CHN,"Heze, Shandong",CHNFH,China,,"Heze, Shandong",,
 "Hohhot, Inner Mongolia",,China,CHN,"Hohhot, Inner Mongolia",CHN51,China,,"Hohhot, Inner Mongolia",,
 Hong Kong,hngkn,China,CHN,Hong Kong,HKG,China,Hong Kong SAR,Hong Kong,"Hong Kong, China (HK)",HKG_TOT
-"Hong Kong, China",,China,CHN,"Hong Kong, China",HKG2,China,,"Hong Kong, China","Hong Kong, China (HK)",HKG_TOT
 "Huaian, Jiangsu",,China,CHN,"Huaian, Jiangsu",CHNA8,China,,"Huaian, Jiangsu",,
 "Huaihua, Hunan",,China,CHN,"Huaihua, Hunan",CHNIC,China,,"Huaihua, Hunan",,
 "Huanggang, Hubei",,China,CHN,"Huanggang, Hubei",CHNHA,China,,"Huanggang, Hubei",,
@@ -636,7 +635,7 @@ Riyadh,,Saudi Arabia,SAU,Riyadh,SAU003,Saudi Arabia,,Riyadh,Riyadh (SA),SAU_RUH
 Dakar,,Senegal,SEN,Dakar,SEN001,Senegal,,Dakar,,
 Belgrade,,Serbia,SRB,Belgrade - Metro,RS_01,Serbia,,Belgrade,Belgrade (RS),SRB_BEG
 Freetown,,Sierra Leone,SLE,Freetown,SLE001,Sierra Leone,,Freetown,,
-Singapore,sngpr,Singapore,SGP,Singapore,SGP2,Singapore,Singapore,Singapore,Singapore (SG),SGP_TOT
+Singapore,sngpr,Singapore,SGP,Singapore,SGP,Singapore,Singapore,Singapore,Singapore (SG),SGP_TOT
 Bratislava,,Slovakia,SVK,Bratislava - Metro,SK_01,Slovakia,,Bratislava,,
 Ljubljana,,Slovenia,SVN,Ljubljana - Metro,SI_01,Slovenia,,Ljubljana,,
 Bloemfontein,,South Africa,ZAF,Bloemfontein,ZAF003,South Africa,,Bloemfontein,,
