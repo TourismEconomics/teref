@@ -5,7 +5,7 @@ Aberdeen,,United Kingdom,GBR,Aberdeen - Metro,UK_17,United Kingdom,,Aberdeen,Abe
 Abidjan,,Cote d'Ivoire,CIV,Abidjan,CIV001,Côte d'Ivoire,,Abidjan,,
 Abu Dhabi,abdhb,United Arab Emirates,ARE,Abu Dhabi,ARE1C,UAE,Abu Dhabi,Abu Dhabi,Abu Dhabi (AE),ARE_AUH
 Abuja,,Nigeria,NGA,Abuja,NGA004,Nigeria,,Abuja,Abuja (NG),NGA_ABV
-Acapulco,,Mexico,MEX,,,,,,Acapulco (MX),MEX_ACA
+Acapulco,,Mexico,MEX,Acapulco,MEXGC,Mexico,,,Acapulco (MX),MEX_ACA
 Accra,,Ghana,GHA,Accra,GHA001,Ghana,,Accra,,
 Adana,,Turkey,TUR,Adana - Metro,TR_05,Turkey,,Adana,,
 Addis Ababa,,Ethiopia,ETH,Addis Ababa,ETH001,Ethiopia,,Addis Ababa,,
@@ -121,7 +121,7 @@ Calgary,,Canada,CAN,Calgary,CANA_1,Canada,,Calgary,Calgary (CA),CAN_CAL
 Campo Grande,,Brazil,BRA,Campo Grande,BRAC1,Brazil,,Campo Grande,,
 Can Tho,,Viet Nam,VNM,Can Tho,VNM5,Vietnam,,Can Tho,,
 Canberra,,Australia,AUS,Canberra,AUS_06,Australia,,Canberra,Canberra (AU),AUS_CBR
-Cancun,,Mexico,MEX,,,,,,Cancún (MX),MEX_CUN
+Cancun,,Mexico,MEX,Cancún,MEXNC,Mexico,,,Cancún (MX),MEX_CUN
 "Cangzhou, Hebei",,China,CHN,"Cangzhou, Hebei",CHN39,China,,"Cangzhou, Hebei",,
 Cape Town,,South Africa,ZAF,Cape Town,ZAF002,South Africa,,Cape Town,Cape Town (ZA),ZAF_CPT
 Caracas,,Venezuela,VEN,Caracas,VEN1C,Venezuela,,Caracas,Caracas (VE),VEN_CCS
@@ -181,7 +181,7 @@ Yaoundé,,Cameroon,CMR,Yaoundé,CMR002,Cameroon,,Yaoundé,,
 Dnipropetrovsk,,Ukraine,UKR,Dnipropetrovsk,UR_04,Ukraine,,Dnipropetrovsk,,
 N'Djaména,,Chad,TCD,N'Djaména,TCD001,Chad,,N'Djaména,,
 Doha,,Qatar,QAT,Doha,QAT001,Qatar,,Doha,Doha (QA),QAT_DOH
-Dongguan,,China,CHN,,,,,,"Dongguan, Guangdong (CN)",CHN_DGG
+"Dongguan, Guangdong",,China,CHN,"Dongguan, Guangdong",CHNJH,China,,"Dongguan, Guangdong","Dongguan, Guangdong (CN)",CHN_DGG
 "Dongying, Shandong",,China,CHN,"Dongying, Shandong",CHNF5,China,,"Dongying, Shandong",,
 Dortmund,,Germany,DEU,Dortmund - Metro,DE_08,Germany,,Dortmund,Dortmund (DE),DEU_DTM
 Concepción,,Chile,CHL,Concepción,CHL8C,Chile,,Concepción,,
@@ -651,7 +651,7 @@ Bergen,,Norway,NOR,,,,,,Bergen (NO),NOR_BGO
 Turin,,Italy,ITA,Turin - Metro,IT_04,Italy,,Turin,Turin (IT),ITA_TRN
 Tyumen,,Russian Federation,RUS,Tyumen,RU_24,Russia,,Tyumen,,
 Ufa,,Russian Federation,RUS,Ufa,RU_11,Russia,,Ufa,,
-Denpasar,,Indonesia,IDN,,,,,,Denpasar (ID),IDN_DPS
+Denpasar,,Indonesia,IDN,Denpasar,IDNHC,Indonesia,,,Denpasar (ID),IDN_DPS
 Ulsan,,South Korea,KOR,Ulsan,KOR7,South Korea,,Ulsan,,
 Ulyanovsk,,Russian Federation,RUS,Ulyanovsk,RU_19,Russia,,Ulyanovsk,,
 "Urumqi, Xinjiang",,China,CHN,"Urumqi, Xinjiang",CHNU1,China,,"Urumqi, Xinjiang",,
@@ -697,18 +697,18 @@ Xalapa,,Mexico,MEX,Xalapa,MEXUC2,Mexico,,Xalapa,,
 "Xuzhou, Jiangsu",,China,CHN,"Xuzhou, Jiangsu",CHNA3,China,,"Xuzhou, Jiangsu",,
 Honolulu,,United States,USA,,,,,,"Honolulu, HI (US)",USA_HNL
 "Yancheng, Jiangsu",,China,CHN,"Yancheng, Jiangsu",CHNA9,China,,"Yancheng, Jiangsu",,
-Lima,,Peru,PER,,,,,,Lima (PE),PER_LIM
+Lima,,Peru,PER,Lima,PERF,Peru,,,Lima (PE),PER_LIM
 "Yantai, Shandong",,China,CHN,"Yantai, Shandong",CHNF6,China,,"Yantai, Shandong","Yantai, Shandong (CN)",CHN_YTP
 Miyagi,,Japan,JPN,,,,,,Miyagi (JP),JPN_SDJ
 Yaroslavl,,Russian Federation,RUS,Yaroslavl,RU_22,Russia,,Yaroslavl,,
-Santiago,,Chile,CHL,,,,,,Santiago (CL),CHL_SCL
+Santiago,,Chile,CHL,Santiago,CHLD,Chile,,,Santiago (CL),CHL_SCL
 "Yichang, Hubei",,China,CHN,"Yichang, Hubei",CHNH4,China,,"Yichang, Hubei",,
 "Yichun, Jiangxi",,China,CHN,"Yichun, Jiangxi",CHNE9,China,,"Yichun, Jiangxi",,
 "Yueyang, Hunan",,China,CHN,"Yueyang, Hunan",CHNI6,China,,"Yueyang, Hunan",,
 "Yulin, Shaanxi",,China,CHN,"Yulin, Shaanxi",CHNQ8,China,,"Yulin, Shaanxi",,
 "Yuncheng, Shanxi",,China,CHN,"Yuncheng, Shanxi",CHN48,China,,"Yuncheng, Shanxi",,
 Zagreb,,Croatia,HRV,Zagreb - Metro,HR_01,Croatia,,Zagreb,Zagreb (HR),HRV_ZAG
-Surabaya,,Indonesia,IDN,,,,,,Surabaya (ID),IDN_SUB
+Surabaya,,Indonesia,IDN,Surabaya,IDNGC,Indonesia,,,Surabaya (ID),IDN_SUB
 Zamboanga City,,Philippines,PHL,Zamboanga City,PHL12C,Philippines,,Zamboanga City,,
 "Zaozhuang, Shandong",,China,CHN,"Zaozhuang, Shandong",CHNF4,China,,"Zaozhuang, Shandong",,
 Zaporizhzhya,,Ukraine,UKR,Zaporizhzhya,UR_06,Ukraine,,Zaporizhzhya,,
@@ -724,3 +724,76 @@ Venice,,Italy,ITA,,,,,,Venice (IT),ITA_VCE
 "Zibo, Shandong",,China,CHN,"Zibo, Shandong",CHNF3,China,,"Zibo, Shandong",,
 "Zunyi, Guizhou",,China,CHN,"Zunyi, Guizhou",CHNO3,China,,"Zunyi, Guizhou",,
 Zurich,zurch,Switzerland,CHE,Zurich - Metro,CH_01,Switzerland,Zurich,Zurich,Zurich (CH),CHE_ZRH
+Mendoza,,Argentina,ARG,Mendoza,ARGDC,Argentina,,,,
+Rosario,,Argentina,ARG,Rosario,ARGLC,Argentina,,,,
+Salta,,Argentina,ARG,Salta,ARGHC,Argentina,,,,
+San Miguel De Tucumán,,Argentina,ARG,San Miguel De Tucumán,ARGOC,Argentina,,,,
+Curitiba RM,,Brazil,BRA,Curitiba RM,BRAGA,Brazil,,,,
+"Binzhou, Shandong",,China,CHN,"Binzhou, Shandong",CHNFG,China,,"Binzhou, Shandong",,
+"Bozhou, Anhui",,China,CHN,"Bozhou, Anhui",CHNCF,China,,"Bozhou, Anhui",,
+"Chenzhou, Hunan",,China,CHN,"Chenzhou, Hunan",CHNIA,China,,"Chenzhou, Hunan",,
+"Dazhou, Sichuan",,China,CHN,"Dazhou, Sichuan",CHNNF,China,,"Dazhou, Sichuan",,
+"Dezhou, Shandong",,China,CHN,"Dezhou, Shandong",CHNFE,China,,"Dezhou, Shandong",,
+"Dongguan, Guangdong",,China,CHN,"Dongguan, Guangdong",CHNJH,China,,"Dongguan, Guangdong",,
+"Fuyang, Anhui",,China,CHN,"Fuyang, Anhui",CHNCB,China,,"Fuyang, Anhui",,
+"Heze, Shandong",,China,CHN,"Heze, Shandong",CHNFH,China,,"Heze, Shandong",,
+"Huaihua, Hunan",,China,CHN,"Huaihua, Hunan",CHNIC,China,,"Huaihua, Hunan",,
+"Huanggang, Hubei",,China,CHN,"Huanggang, Hubei",CHNHA,China,,"Huanggang, Hubei",,
+"Huizhou, Guangdong",,China,CHN,"Huizhou, Guangdong",CHNJB,China,,"Huizhou, Guangdong",,
+"Jieyang, Guangdong",,China,CHN,"Jieyang, Guangdong",CHNJK,China,,"Jieyang, Guangdong",,
+"Liaocheng, Shandong",,China,CHN,"Liaocheng, Shandong",CHNFF,China,,"Liaocheng, Shandong",,
+"Linyi, Shandong",,China,CHN,"Linyi, Shandong",CHNFD,China,,"Linyi, Shandong",,
+"Liuan, Anhui",,China,CHN,"Liuan, Anhui",CHNCE,China,,"Liuan, Anhui",,
+"Nanchong, Sichuan",,China,CHN,"Nanchong, Sichuan",CHNNB,China,,"Nanchong, Sichuan",,
+"Nanyang, Henan",,China,CHN,"Nanyang, Henan",CHNGD,China,,"Nanyang, Henan",,
+"Qingyuan, Guangdong",,China,CHN,"Qingyuan, Guangdong",CHNJG,China,,"Qingyuan, Guangdong",,
+"Rizhao, Shandong",,China,CHN,"Rizhao, Shandong",CHNFB,China,,"Rizhao, Shandong",,
+"Shangqiu, Henan",,China,CHN,"Shangqiu, Henan",CHNGE,China,,"Shangqiu, Henan",,
+"Shangrao, Jiangxi",,China,CHN,"Shangrao, Jiangxi",CHNEB,China,,"Shangrao, Jiangxi",,
+"Suqian, Jiangsu",,China,CHN,"Suqian, Jiangsu",CHNAD,China,,"Suqian, Jiangsu",,
+"Suzhou, Anhui",,China,CHN,"Suzhou, Anhui",CHNCC,China,,"Suzhou, Anhui",,
+"Taizhou, Jiangsu",,China,CHN,"Taizhou, Jiangsu",CHNAC,China,,"Taizhou, Jiangsu",,
+"Taizhou, Zhejiang",,China,CHN,"Taizhou, Zhejiang",CHNBA,China,,"Taizhou, Zhejiang",,
+"Weihai, Shandong",,China,CHN,"Weihai, Shandong",CHNFA,China,,"Weihai, Shandong",,
+"Xinyang, Henan",,China,CHN,"Xinyang, Henan",CHNGF,China,,"Xinyang, Henan",,
+"Xuchang, Henan",,China,CHN,"Xuchang, Henan",CHNGA,China,,"Xuchang, Henan",,
+"Yangzhou, Jiangsu",,China,CHN,"Yangzhou, Jiangsu",CHNAA,China,,"Yangzhou, Jiangsu",,
+"Yibin, Sichuan",,China,CHN,"Yibin, Sichuan",CHNND,China,,"Yibin, Sichuan",,
+"Yongzhou, Hunan",,China,CHN,"Yongzhou, Hunan",CHNIB,China,,"Yongzhou, Hunan",,
+"Zhaoqing, Guangdong",,China,CHN,"Zhaoqing, Guangdong",CHNJA,China,,"Zhaoqing, Guangdong",,
+"Zhenjiang, Jiangsu",,China,CHN,"Zhenjiang, Jiangsu",CHNAB,China,,"Zhenjiang, Jiangsu",,
+"Zhongshan, Guangdong",,China,CHN,"Zhongshan, Guangdong",CHNJI,China,,"Zhongshan, Guangdong",,
+"Zhoukou, Henan",,China,CHN,"Zhoukou, Henan",CHNGG,China,,"Zhoukou, Henan",,
+"Zhumadian, Henan",,China,CHN,"Zhumadian, Henan",CHNGH,China,,"Zhumadian, Henan",,
+"Ziyang, Sichuan",,China,CHN,"Ziyang, Sichuan",CHNNI,China,,"Ziyang, Sichuan",,
+Macao,,China,CHN,Macao,MAC,China,,Macao,,
+Bucaramanga,,Colombia,COL,Bucaramanga,COLLC,Colombia,,Bucaramanga,,
+Cali,,Colombia,COL,Cali,COLOC,Colombia,,Cali,,
+Cúcuta,,Colombia,COL,Cúcuta,COLIC,Colombia,,Cúcuta,,
+Ibagué,,Colombia,COL,Ibagué,COLNC,Colombia,,Ibagué,,
+Bandar Lampung,,Indonesia,IDN,Bandar Lampung,IDNAC,Indonesia,,,,
+Bandjarmasin,,Indonesia,IDN,Bandjarmasin,IDNKC,Indonesia,,,,
+Bandung,,Indonesia,IDN,Bandung,IDNCC,Indonesia,,,,
+Denpasar,,Indonesia,IDN,Denpasar,IDNHC,Indonesia,,,,
+Jakarta,,Indonesia,IDN,Jakarta,IDNBC,Indonesia,,,,
+Makassar,,Indonesia,IDN,Makassar,IDNOQC,Indonesia,,,,
+Pontianak,,Indonesia,IDN,Pontianak,IDNIC,Indonesia,,,,
+Samarinda,,Indonesia,IDN,Samarinda,IDNLC,Indonesia,,,,
+Semarang,,Indonesia,IDN,Semarang,IDNEC,Indonesia,,,,
+Surabaya,,Indonesia,IDN,Surabaya,IDNGC,Indonesia,,,,
+Yogyakarta,,Indonesia,IDN,Yogyakarta,IDNFC,Indonesia,,,,
+Chihuahua,,Mexico,MEX,Chihuahua,MEXEC,Mexico,,,,
+Cuernavaca,,Mexico,MEX,Cuernavaca,MEXJC,Mexico,,,,
+Culiacán,,Mexico,MEX,Culiacán,MEXPC,Mexico,,,,
+Hermosillo,,Mexico,MEX,Hermosillo,MEXQC,Mexico,,,,
+Mérida,,Mexico,MEX,Mérida,MEXVC,Mexico,,,,
+Morelia,,Mexico,MEX,Morelia,MEXIC,Mexico,,,,
+Oaxaca,,Mexico,MEX,Oaxaca,MEXLC,Mexico,,,,
+Querétaro,,Mexico,MEX,Querétaro,MEXMC,Mexico,,,,
+Saltillo,,Mexico,MEX,Saltillo,MEXBC,Mexico,,,,
+San Luis Potosí,,Mexico,MEX,San Luis Potosí,MEXOC,Mexico,,,,
+Tampico,,Mexico,MEX,Tampico,MEXSC,Mexico,,,,
+Tuxtla Gutiérrez,,Mexico,MEX,Tuxtla Gutiérrez,MEXDC,Mexico,,,,
+Veracruz,,Mexico,MEX,Veracruz,MEXUC,Mexico,,,,
+Chiclayo,,Peru,PER,Chiclayo,PEREC,Peru,,,,
+Trujillo,,Peru,PER,Trujillo,PERDC,Peru,,,,
