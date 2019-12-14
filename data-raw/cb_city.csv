@@ -1,794 +1,794 @@
-﻿mkt_name,mkt_sh,country_name,iso3166_1a3,oe_globalcity_name,oegc_loc_code,oegc_ctry_name,str_text,mkt_geocode_friendly,oe_gct_name,oe_gct_location_code
-Kabul,,Afghanistan,AFG,Kabul,AFG001,Afghanistan,,Kabul,,
-Tirana,,Albania,ALB,Tirana,ALB001,Albania,,Tirana,,
-Algiers,,Algeria,DZA,Algiers,DZA001,Algeria,,Algiers,,
-Constantine,,Algeria,DZA,Constantine,DZA003,Algeria,,Constantine,,
-Oran,,Algeria,DZA,Oran,DZA002,Algeria,,Oran,,
-Huambo,,Angola,AGO,Huambo,AGO002,Angola,,Huambo,,
-Luanda,,Angola,AGO,Luanda,AGO001,Angola,,Luanda,Luanda (AO),AGO_LAD
+mkt_name,mkt_sh,country_name,iso3166_1a3,oe_globalcity_name,oegc_loc_code,oegc_ctry_name,str_text,mkt_geocode_friendly,oe_gct_name,oe_gct_location_code
+Kabul,NA,Afghanistan,AFG,Kabul,AFG001,Afghanistan,NA,Kabul,NA,NA
+Tirana,NA,Albania,ALB,Tirana,ALB001,Albania,NA,Tirana,NA,NA
+Algiers,NA,Algeria,DZA,Algiers,DZA001,Algeria,NA,Algiers,NA,NA
+Constantine,NA,Algeria,DZA,Constantine,DZA003,Algeria,NA,Constantine,NA,NA
+Oran,NA,Algeria,DZA,Oran,DZA002,Algeria,NA,Oran,NA,NA
+Huambo,NA,Angola,AGO,Huambo,AGO002,Angola,NA,Huambo,NA,NA
+Luanda,NA,Angola,AGO,Luanda,AGO001,Angola,NA,Luanda,Luanda (AO),AGO_LAD
 Buenos Aires,bnsrs,Argentina,ARG,Buenos Aires,ARG1C,Argentina,Buenos Aires,Buenos Aires,Buenos Aires (AR),ARG_BUE
-Córdoba,,Argentina,ARG,Córdoba,ARG6C,Argentina,,Córdoba,,
-La Plata,,Argentina,ARG,La Plata,ARG2C,Argentina,,La Plata,,
-Mendoza,,Argentina,ARG,Mendoza,ARGDC,Argentina,,,,
-Rosario,,Argentina,ARG,Rosario,ARGLC,Argentina,,,,
-Salta,,Argentina,ARG,Salta,ARGHC,Argentina,,,,
-San Miguel De Tucumán,,Argentina,ARG,San Miguel De Tucumán,ARGOC,Argentina,,,,
-Yerevan,,Armenia,ARM,Yerevan,ARM001,Armenia,,Yerevan,,
-Adelaide,,Australia,AUS,Adelaide,AUS_05,Australia,,Adelaide,Adelaide (AU),AUS_ADL
-Brisbane,,Australia,AUS,Brisbane,AUS_03,Australia,,Brisbane,Brisbane (AU),AUS_BNE
-Canberra,,Australia,AUS,Canberra,AUS_06,Australia,,Canberra,Canberra (AU),AUS_CBR
-Melbourne,,Australia,AUS,Melbourne,AUS_02,Australia,,Melbourne,Melbourne (AU),AUS_MEL
-Perth,,Australia,AUS,Perth,AUS_04,Australia,,Perth,Perth (AU),AUS_PER
+Córdoba,NA,Argentina,ARG,Córdoba,ARG6C,Argentina,NA,Córdoba,NA,NA
+La Plata,NA,Argentina,ARG,La Plata,ARG2C,Argentina,NA,La Plata,NA,NA
+Mendoza,NA,Argentina,ARG,Mendoza,ARGDC,Argentina,NA,Mendoza,NA,NA
+Rosario,NA,Argentina,ARG,Rosario,ARGLC,Argentina,NA,Rosario,NA,NA
+Salta,NA,Argentina,ARG,Salta,ARGHC,Argentina,NA,Salta,NA,NA
+San Miguel De Tucumán,NA,Argentina,ARG,San Miguel De Tucumán,ARGOC,Argentina,NA,San Miguel De Tucumán,NA,NA
+Yerevan,NA,Armenia,ARM,Yerevan,ARM001,Armenia,NA,Yerevan,NA,NA
+Adelaide,NA,Australia,AUS,Adelaide,AUS_05,Australia,NA,Adelaide,Adelaide (AU),AUS_ADL
+Brisbane,NA,Australia,AUS,Brisbane,AUS_03,Australia,NA,Brisbane,Brisbane (AU),AUS_BNE
+Canberra,NA,Australia,AUS,Canberra,AUS_06,Australia,NA,Canberra,Canberra (AU),AUS_CBR
+Melbourne,NA,Australia,AUS,Melbourne,AUS_02,Australia,NA,Melbourne,Melbourne (AU),AUS_MEL
+Perth,NA,Australia,AUS,Perth,AUS_04,Australia,NA,Perth,Perth (AU),AUS_PER
 Sydney,sydny,Australia,AUS,Sydney,AUS_01,Australia,Greater Sydney,Sydney,Sydney (AU),AUS_SYD
 Vienna,vienn,Austria,AUT,Vienna - Metro,AT_01,Austria,Vienna,Vienna,Vienna (AT),AUT_VIE
-Baku,,Azerbaijan,AZE,Baku,AZE001,Azerbaijan,,Baku,,
-Nassau,,Bahamas,BHS,Nassau,BHS001,Bahamas,,Nassau,,
-Manama,,Bahrain,BHR,Manama,BHR001,Bahrain,,Manama,,
-Chittagong,,Bangladesh,BGD,Chittagong,BGD001,Bangladesh,,Chittagong,,
-Dhaka,,Bangladesh,BGD,Dhaka,BGD002,Bangladesh,,Dhaka,Dhaka (BD),BGD_DAC
-Khulna,,Bangladesh,BGD,Khulna,BGD003,Bangladesh,,Khulna,,
-Rajshahi,,Bangladesh,BGD,Rajshahi,BGD004,Bangladesh,,Rajshahi,,
-Bridgetown,,Barbados,BRB,Bridgetown,BRB001,Barbados,,Bridgetown,,
-Gomel,,Belarus,BLR,Gomel,BLR001,Belarus,,Gomel,,
-Minsk,,Belarus,BLR,Minsk,BLR002,Belarus,,Minsk,,
-Antwerp,,Belgium,BEL,Antwerp - Metro,BE_02,Belgium,,Antwerp,Antwerp (BE),BEL_ANR
+Baku,NA,Azerbaijan,AZE,Baku,AZE001,Azerbaijan,NA,Baku,NA,NA
+Nassau,NA,Bahamas,BHS,Nassau,BHS001,Bahamas,NA,Nassau,NA,NA
+Manama,NA,Bahrain,BHR,Manama,BHR001,Bahrain,NA,Manama,NA,NA
+Chittagong,NA,Bangladesh,BGD,Chittagong,BGD001,Bangladesh,NA,Chittagong,NA,NA
+Dhaka,NA,Bangladesh,BGD,Dhaka,BGD002,Bangladesh,NA,Dhaka,Dhaka (BD),BGD_DAC
+Khulna,NA,Bangladesh,BGD,Khulna,BGD003,Bangladesh,NA,Khulna,NA,NA
+Rajshahi,NA,Bangladesh,BGD,Rajshahi,BGD004,Bangladesh,NA,Rajshahi,NA,NA
+Bridgetown,NA,Barbados,BRB,Bridgetown,BRB001,Barbados,NA,Bridgetown,NA,NA
+Gomel,NA,Belarus,BLR,Gomel,BLR001,Belarus,NA,Gomel,NA,NA
+Minsk,NA,Belarus,BLR,Minsk,BLR002,Belarus,NA,Minsk,NA,NA
+Antwerp,NA,Belgium,BEL,Antwerp - Metro,BE_02,Belgium,NA,Antwerp,Antwerp (BE),BEL_ANR
 Brussels,brssl,Belgium,BEL,Brussels - Metro,BE_01,Belgium,Brussels,Brussels,Brussels (BE),BEL_BRU
-Liege,,Belgium,BEL,Liege - Metro,BE_03,Belgium,,Liege,Liege (BE),BEL_LGG
-Cotonou,,Benin,BEN,Cotonou,BEN001,Benin,,Cotonou,,
-Cochabamba,,Bolivia,BOL,Cochabamba,BOL001,Bolivia,,Cochabamba,,
-La Paz,,Bolivia,BOL,La Paz,BOL002,Bolivia,,La Paz,La Paz (BO),BOL_LPB
-Santa Cruz,,Bolivia,BOL,Santa Cruz,BOL003,Bolivia,,Santa Cruz,,
-Sarajevo,,Bosnia and Herzegovina,BIH,Sarajevo,BIH001,Bosnia and Herzegovina,,Sarajevo,,
-Gabarone,,Botswana,BWA,Gabarone,BWA001,Botswana,,Gabarone,,
-Aracaju RM,,Brazil,BRA,Aracaju RM,BRAQ1,Brazil,,Aracaju RM,,
-Baixada Santista RM,,Brazil,BRA,Baixada Santista RM,BRAP1,Brazil,,Baixada Santista RM,,
-Belém RM,,Brazil,BRA,Belém RM,BRAE3,Brazil,,Belém RM,,
-Belo Horizonte RM,,Brazil,BRA,Belo Horizonte RM,BRAD7,Brazil,,Belo Horizonte RM,Belo Horizonte (BR),BRA_BHZ
-Brasília,,Brazil,BRA,Brasília,BRA7,Brazil,,Brasília,Brasília (BR),BRA_BSB
-Campo Grande,,Brazil,BRA,Campo Grande,BRAC1,Brazil,,Campo Grande,,
-Cuiabá RM,,Brazil,BRA,Cuiabá RM,BRAB1,Brazil,,Cuiabá RM,Curitiba (BR),BRA_CWB
-Curitiba RM,,Brazil,BRA,Curitiba RM,BRAGA,Brazil,,,,
-Florianópolis RM,,Brazil,BRA,Florianópolis RM,BRAO1,Brazil,,Florianópolis RM,,
-Fortaleza RM,,Brazil,BRA,Fortaleza RM,BRA63,Brazil,,Fortaleza RM,Fortaleza (BR),BRA_FOR
-Goiânia RM,,Brazil,BRA,Goiânia RM,BRA91,Brazil,,Goiânia RM,,
-Grande São Luís RM,,Brazil,BRA,Grande São Luís RM,BRAA1,Brazil,,Grande São Luís RM,,
-João Pessoa RM,,Brazil,BRA,João Pessoa RM,BRAF2,Brazil,,João Pessoa RM,,
-Maceió RM,,Brazil,BRA,Maceió RM,BRA21,Brazil,,Maceió RM,,
-Manaus RM,,Brazil,BRA,Manaus RM,BRA41,Brazil,,Manaus RM,Manaus (BR),BRA_MAO
-Natal RM,,Brazil,BRA,Natal RM,BRAK1,Brazil,,Natal RM,Natal (BR),BRA_NAT
-Norte/Nordeste Catarinense RM,,Brazil,BRA,Norte/Nordeste Catarinense RM,BRAO2,Brazil,,Norte/Nordeste Catarinense RM,,
-Pôrto Alegre RM,,Brazil,BRA,Pôrto Alegre RM,BRAL5,Brazil,,Pôrto Alegre RM,Pôrto Alegre (BR),BRA_POA
-Recife RM,,Brazil,BRA,Recife RM,BRAH5,Brazil,,Recife RM,Recife (BR),BRA_REC
-Ribeirao Prêto,,Brazil,BRA,Ribeirao Prêto,BRAP3,Brazil,,Ribeirao Prêto,,
-Rio De Janeiro RM,,Brazil,BRA,Rio De Janeiro RM,BRAJ6,Brazil,,Rio De Janeiro RM,Rio De Janeiro (BR),BRA_RIO
-Salvador RM,,Brazil,BRA,Salvador RM,BRA55,Brazil,,Salvador RM,Salvador (BR),BRA_SSA
-Sao José dos Campos,,Brazil,BRA,Sao José dos Campos,BRAP4,Brazil,,Sao José dos Campos,,
+Liege,NA,Belgium,BEL,Liege - Metro,BE_03,Belgium,NA,Liege,Liege (BE),BEL_LGG
+Cotonou,NA,Benin,BEN,Cotonou,BEN001,Benin,NA,Cotonou,NA,NA
+Cochabamba,NA,Bolivia,BOL,Cochabamba,BOL001,Bolivia,NA,Cochabamba,NA,NA
+La Paz,NA,Bolivia,BOL,La Paz,BOL002,Bolivia,NA,La Paz,La Paz (BO),BOL_LPB
+Santa Cruz,NA,Bolivia,BOL,Santa Cruz,BOL003,Bolivia,NA,Santa Cruz,NA,NA
+Sarajevo,NA,Bosnia and Herzegovina,BIH,Sarajevo,BIH001,Bosnia and Herzegovina,NA,Sarajevo,NA,NA
+Gabarone,NA,Botswana,BWA,Gabarone,BWA001,Botswana,NA,Gabarone,NA,NA
+Aracaju RM,NA,Brazil,BRA,Aracaju RM,BRAQ1,Brazil,NA,Aracaju RM,NA,NA
+Baixada Santista RM,NA,Brazil,BRA,Baixada Santista RM,BRAP1,Brazil,NA,Baixada Santista RM,NA,NA
+Belém RM,NA,Brazil,BRA,Belém RM,BRAE3,Brazil,NA,Belém RM,NA,NA
+Belo Horizonte RM,NA,Brazil,BRA,Belo Horizonte RM,BRAD7,Brazil,NA,Belo Horizonte RM,Belo Horizonte (BR),BRA_BHZ
+Brasília,NA,Brazil,BRA,Brasília,BRA7,Brazil,NA,Brasília,Brasília (BR),BRA_BSB
+Campo Grande,NA,Brazil,BRA,Campo Grande,BRAC1,Brazil,NA,Campo Grande,NA,NA
+Cuiabá RM,NA,Brazil,BRA,Cuiabá RM,BRAB1,Brazil,NA,Cuiabá RM,Curitiba (BR),BRA_CWB
+Curitiba RM,NA,Brazil,BRA,Curitiba RM,BRAGA,Brazil,NA,Curitiba RM,NA,NA
+Florianópolis RM,NA,Brazil,BRA,Florianópolis RM,BRAO1,Brazil,NA,Florianópolis RM,NA,NA
+Fortaleza RM,NA,Brazil,BRA,Fortaleza RM,BRA63,Brazil,NA,Fortaleza RM,Fortaleza (BR),BRA_FOR
+Goiânia RM,NA,Brazil,BRA,Goiânia RM,BRA91,Brazil,NA,Goiânia RM,NA,NA
+Grande São Luís RM,NA,Brazil,BRA,Grande São Luís RM,BRAA1,Brazil,NA,Grande São Luís RM,NA,NA
+João Pessoa RM,NA,Brazil,BRA,João Pessoa RM,BRAF2,Brazil,NA,João Pessoa RM,NA,NA
+Maceió RM,NA,Brazil,BRA,Maceió RM,BRA21,Brazil,NA,Maceió RM,NA,NA
+Manaus RM,NA,Brazil,BRA,Manaus RM,BRA41,Brazil,NA,Manaus RM,Manaus (BR),BRA_MAO
+Natal RM,NA,Brazil,BRA,Natal RM,BRAK1,Brazil,NA,Natal RM,Natal (BR),BRA_NAT
+Norte/Nordeste Catarinense RM,NA,Brazil,BRA,Norte/Nordeste Catarinense RM,BRAO2,Brazil,NA,Norte/Nordeste Catarinense RM,NA,NA
+Pôrto Alegre RM,NA,Brazil,BRA,Pôrto Alegre RM,BRAL5,Brazil,NA,Pôrto Alegre RM,Pôrto Alegre (BR),BRA_POA
+Recife RM,NA,Brazil,BRA,Recife RM,BRAH5,Brazil,NA,Recife RM,Recife (BR),BRA_REC
+Ribeirao Prêto,NA,Brazil,BRA,Ribeirao Prêto,BRAP3,Brazil,NA,Ribeirao Prêto,NA,NA
+Rio De Janeiro RM,NA,Brazil,BRA,Rio De Janeiro RM,BRAJ6,Brazil,NA,Rio De Janeiro RM,Rio De Janeiro (BR),BRA_RIO
+Salvador RM,NA,Brazil,BRA,Salvador RM,BRA55,Brazil,NA,Salvador RM,Salvador (BR),BRA_SSA
+Sao José dos Campos,NA,Brazil,BRA,Sao José dos Campos,BRAP4,Brazil,NA,Sao José dos Campos,NA,NA
 Sao Paulo,saopl,Brazil,BRA,São Paulo RM,BRAPF,Brazil,Sao Paulo,Sao Paulo,São Paulo (BR),BRA_SAO
-Sorocaba,,Brazil,BRA,Sorocaba,BRAP5,Brazil,,Sorocaba,,
-Teresina,,Brazil,BRA,Teresina,BRAI1,Brazil,,Teresina,,
-Sofia,,Bulgaria,BGR,Sofia - Metro,BG_01,Bulgaria,,Sofia,Sofia (BG),BGR_SOF
-Ouagadougou,,Burkina Faso,BFA,Ouagadougou,BFA001,Burkina Faso,,Ouagadougou,,
-Bujumbura,,Burundi,BDI,Bujumbura,BDI001,Burundi,,Bujumbura,,
-Phnom Penh,,Cambodia,KHM,Phnom Penh,KHM001,Cambodia,,Phnom Penh,Phnom Penh (KH),KHM_PNH
-Douala,,Cameroon,CMR,Douala,CMR001,Cameroon,,Douala,,
-Yaoundé,,Cameroon,CMR,Yaoundé,CMR002,Cameroon,,Yaoundé,,
-Calgary,,Canada,CAN,Calgary,CANA_1,Canada,,Calgary,Calgary (CA),CAN_CAL
-Edmonton,,Canada,CAN,Edmonton,CANA_2,Canada,,Edmonton,Edmonton (CA),CAN_EDM
+Sorocaba,NA,Brazil,BRA,Sorocaba,BRAP5,Brazil,NA,Sorocaba,NA,NA
+Teresina,NA,Brazil,BRA,Teresina,BRAI1,Brazil,NA,Teresina,NA,NA
+Sofia,NA,Bulgaria,BGR,Sofia - Metro,BG_01,Bulgaria,NA,Sofia,Sofia (BG),BGR_SOF
+Ouagadougou,NA,Burkina Faso,BFA,Ouagadougou,BFA001,Burkina Faso,NA,Ouagadougou,NA,NA
+Bujumbura,NA,Burundi,BDI,Bujumbura,BDI001,Burundi,NA,Bujumbura,NA,NA
+Phnom Penh,NA,Cambodia,KHM,Phnom Penh,KHM001,Cambodia,NA,Phnom Penh,Phnom Penh (KH),KHM_PNH
+Douala,NA,Cameroon,CMR,Douala,CMR001,Cameroon,NA,Douala,NA,NA
+Yaoundé,NA,Cameroon,CMR,Yaoundé,CMR002,Cameroon,NA,Yaoundé,NA,NA
+Calgary,NA,Canada,CAN,Calgary,CANA_1,Canada,NA,Calgary,Calgary (CA),CAN_CAL
+Edmonton,NA,Canada,CAN,Edmonton,CANA_2,Canada,NA,Edmonton,Edmonton (CA),CAN_EDM
 Montreal,moncn,Canada,CAN,Montréal,CANI_1,Canada,Montreal,Montreal,Montréal (CA),CAN_MRE
-Ottawa-Gatineau,,Canada,CAN,Ottawa-Gatineau,CANH_2,Canada,,Ottawa-Gatineau,Ottawa-Gatineau (CA),CAN_OTT
-Québec,,Canada,CAN,Québec,CANI_2,Canada,,Québec,Québec (CA),CAN_QUE
+Ottawa-Gatineau,NA,Canada,CAN,Ottawa-Gatineau,CANH_2,Canada,NA,Ottawa-Gatineau,Ottawa-Gatineau (CA),CAN_OTT
+Québec,NA,Canada,CAN,Québec,CANI_2,Canada,NA,Québec,Québec (CA),CAN_QUE
 Toronto,torcn,Canada,CAN,Toronto,CANH_1,Canada,Toronto,Toronto,Toronto (CA),CAN_TOR
 Vancouver,vnccn,Canada,CAN,Vancouver,CANB_1,Canada,Vancouver,Vancouver,Vancouver (CA),CAN_VAN
-Winnipeg,,Canada,CAN,Winnipeg,CANC_1,Canada,,Winnipeg,Winnipeg (CA),CAN_WNP
-Bangui,,Central African Republic,CAF,Bangui,CAF001,Central African Republic,,Bangui,,
-N'Djaména,,Chad,TCD,N'Djaména,TCD001,Chad,,N'Djaména,,
-Concepción,,Chile,CHL,Concepción,CHL8C,Chile,,Concepción,,
-Santiago,,Chile,CHL,Santiago,CHLD,Chile,,,Santiago (CL),CHL_SCL
-Valparaíso,,Chile,CHL,Valparaíso,CHL5C,Chile,,Valparaíso,,
-"Anqing, Anhui",,China,CHN,"Anqing, Anhui",CHNC8,China,,"Anqing, Anhui",,
-"Anshan, Liaoning",,China,CHN,"Anshan, Liaoning",CHN63,China,,"Anshan, Liaoning",,
-"Anyang, Henan",,China,CHN,"Anyang, Henan",CHNG5,China,,"Anyang, Henan",,
-"Baoding, Hebei",,China,CHN,"Baoding, Hebei",CHN36,China,,"Baoding, Hebei",,
-"Baoji, Shaanxi",,China,CHN,"Baoji, Shaanxi",CHNQ3,China,,"Baoji, Shaanxi",,
-"Baotou, Inner Mongolia",,China,CHN,"Baotou, Inner Mongolia",CHN52,China,,"Baotou, Inner Mongolia",,
+Winnipeg,NA,Canada,CAN,Winnipeg,CANC_1,Canada,NA,Winnipeg,Winnipeg (CA),CAN_WNP
+Bangui,NA,Central African Republic,CAF,Bangui,CAF001,Central African Republic,NA,Bangui,NA,NA
+N'Djaména,NA,Chad,TCD,N'Djaména,TCD001,Chad,NA,N'Djaména,NA,NA
+Concepción,NA,Chile,CHL,Concepción,CHL8C,Chile,NA,Concepción,NA,NA
+Santiago,NA,Chile,CHL,Santiago,CHLD,Chile,NA,Santiago,Santiago (CL),CHL_SCL
+Valparaíso,NA,Chile,CHL,Valparaíso,CHL5C,Chile,NA,Valparaíso,NA,NA
+"Anqing, Anhui",NA,China,CHN,"Anqing, Anhui",CHNC8,China,NA,"Anqing, Anhui",NA,NA
+"Anshan, Liaoning",NA,China,CHN,"Anshan, Liaoning",CHN63,China,NA,"Anshan, Liaoning",NA,NA
+"Anyang, Henan",NA,China,CHN,"Anyang, Henan",CHNG5,China,NA,"Anyang, Henan",NA,NA
+"Baoding, Hebei",NA,China,CHN,"Baoding, Hebei",CHN36,China,NA,"Baoding, Hebei",NA,NA
+"Baoji, Shaanxi",NA,China,CHN,"Baoji, Shaanxi",CHNQ3,China,NA,"Baoji, Shaanxi",NA,NA
+"Baotou, Inner Mongolia",NA,China,CHN,"Baotou, Inner Mongolia",CHN52,China,NA,"Baotou, Inner Mongolia",NA,NA
 Beijing,bejng,China,CHN,Beijing,CHN1,China,Beijing,Beijing,Beijing (CN),CHN_BJS
-"Binzhou, Shandong",,China,CHN,"Binzhou, Shandong",CHNFG,China,,"Binzhou, Shandong",,
-"Bozhou, Anhui",,China,CHN,"Bozhou, Anhui",CHNCF,China,,"Bozhou, Anhui",,
-"Cangzhou, Hebei",,China,CHN,"Cangzhou, Hebei",CHN39,China,,"Cangzhou, Hebei",,
-"Changchun, Jilin",,China,CHN,"Changchun, Jilin",CHN71,China,,"Changchun, Jilin","Changchun, Jilin (CN)",CHN_CGQ
-"Changde, Hunan",,China,CHN,"Changde, Hunan",CHNI7,China,,"Changde, Hunan",,
-"Changsha, Hunan",,China,CHN,"Changsha, Hunan",CHNI1,China,,"Changsha, Hunan","Changsha, Hunan (CN)",CHN_CSX
-"Changzhou, Jiangsu",,China,CHN,"Changzhou, Jiangsu",CHNA4,China,,"Changzhou, Jiangsu",,
-"Chengdu, Sichuan",,China,CHN,"Chengdu, Sichuan",CHNN1,China,,"Chengdu, Sichuan","Chengdu, Sichuan (CN)",CHN_CTU
-"Chenzhou, Hunan",,China,CHN,"Chenzhou, Hunan",CHNIA,China,,"Chenzhou, Hunan",,
-"Chifeng, Inner Mongolia",,China,CHN,"Chifeng, Inner Mongolia",CHN54,China,,"Chifeng, Inner Mongolia",,
-Chongqing,,China,CHN,Chongqing,CHNM,China,,Chongqing,Chongqing (CN),CHN_CKG
-"Dalian, Liaoning",,China,CHN,"Dalian, Liaoning",CHN62,China,,"Dalian, Liaoning","Dalian, Liaoning (CN)",CHN_DXG
-"Daqing, Heilongjiang",,China,CHN,"Daqing, Heilongjiang",CHN86,China,,"Daqing, Heilongjiang",,
-"Dazhou, Sichuan",,China,CHN,"Dazhou, Sichuan",CHNNF,China,,"Dazhou, Sichuan",,
-"Deyang, Sichuan",,China,CHN,"Deyang, Sichuan",CHNN5,China,,"Deyang, Sichuan",,
-"Dezhou, Shandong",,China,CHN,"Dezhou, Shandong",CHNFE,China,,"Dezhou, Shandong",,
-"Dongguan, Guangdong",,China,CHN,"Dongguan, Guangdong",CHNJH,China,,"Dongguan, Guangdong","Dongguan, Guangdong (CN)",CHN_DGG
-"Dongying, Shandong",,China,CHN,"Dongying, Shandong",CHNF5,China,,"Dongying, Shandong",,
-"Erdos, Inner Mongolia",,China,CHN,"Erdos, Inner Mongolia",CHN56,China,,"Erdos, Inner Mongolia",,
-"Foshan, Guangdong",,China,CHN,"Foshan, Guangdong",CHNJ6,China,,"Foshan, Guangdong","Foshan, Guangdong (CN)",CHN_FOS
-"Fuyang, Anhui",,China,CHN,"Fuyang, Anhui",CHNCB,China,,"Fuyang, Anhui",,
-"Fuzhou, Fujian",,China,CHN,"Fuzhou, Fujian",CHND1,China,,"Fuzhou, Fujian","Fuzhou, Fujian (CN)",CHN_FZP
-"Ganzhou, Jiangxi",,China,CHN,"Ganzhou, Jiangxi",CHNE7,China,,"Ganzhou, Jiangxi",,
-"Guangzhou, Guangdong",,China,CHN,"Guangzhou, Guangdong",CHNJ1,China,,"Guangzhou, Guangdong","Guangzhou, Guangdong (CN)",CHN_GZP
-"Guigang, Guangxi",,China,CHN,"Guigang, Guangxi",CHNK8,China,,"Guigang, Guangxi",,
-"Guilin, Guangxi",,China,CHN,"Guilin, Guangxi",CHNK3,China,,"Guilin, Guangxi",,
-"Guiyang, Guizhou",,China,CHN,"Guiyang, Guizhou",CHNO1,China,,"Guiyang, Guizhou",,
-"Handan, Hebei",,China,CHN,"Handan, Hebei",CHN34,China,,"Handan, Hebei",,
-"Hangzhou, Zhejiang",,China,CHN,"Hangzhou, Zhejiang",CHNB1,China,,"Hangzhou, Zhejiang","Hangzhou, Zhejiang (CN)",CHN_HGH
-"Harbin, Heilongjiang",,China,CHN,"Harbin, Heilongjiang",CHN81,China,,"Harbin, Heilongjiang","Harbin, Heilongjiang (CN)",CHN_HRB
-"Hefei, Anhui",,China,CHN,"Hefei, Anhui",CHNC1,China,,"Hefei, Anhui",,
-"Hengshui, Hebei",,China,CHN,"Hengshui, Hebei",CHN3B,China,,"Hengshui, Hebei",,
-"Hengyang, Hunan",,China,CHN,"Hengyang, Hunan",CHNI4,China,,"Hengyang, Hunan",,
-"Heze, Shandong",,China,CHN,"Heze, Shandong",CHNFH,China,,"Heze, Shandong",,
-"Hohhot, Inner Mongolia",,China,CHN,"Hohhot, Inner Mongolia",CHN51,China,,"Hohhot, Inner Mongolia",,
+"Binzhou, Shandong",NA,China,CHN,"Binzhou, Shandong",CHNFG,China,NA,"Binzhou, Shandong",NA,NA
+"Bozhou, Anhui",NA,China,CHN,"Bozhou, Anhui",CHNCF,China,NA,"Bozhou, Anhui",NA,NA
+"Cangzhou, Hebei",NA,China,CHN,"Cangzhou, Hebei",CHN39,China,NA,"Cangzhou, Hebei",NA,NA
+"Changchun, Jilin",NA,China,CHN,"Changchun, Jilin",CHN71,China,NA,"Changchun, Jilin","Changchun, Jilin (CN)",CHN_CGQ
+"Changde, Hunan",NA,China,CHN,"Changde, Hunan",CHNI7,China,NA,"Changde, Hunan",NA,NA
+"Changsha, Hunan",NA,China,CHN,"Changsha, Hunan",CHNI1,China,NA,"Changsha, Hunan","Changsha, Hunan (CN)",CHN_CSX
+"Changzhou, Jiangsu",NA,China,CHN,"Changzhou, Jiangsu",CHNA4,China,NA,"Changzhou, Jiangsu",NA,NA
+"Chengdu, Sichuan",NA,China,CHN,"Chengdu, Sichuan",CHNN1,China,NA,"Chengdu, Sichuan","Chengdu, Sichuan (CN)",CHN_CTU
+"Chenzhou, Hunan",NA,China,CHN,"Chenzhou, Hunan",CHNIA,China,NA,"Chenzhou, Hunan",NA,NA
+"Chifeng, Inner Mongolia",NA,China,CHN,"Chifeng, Inner Mongolia",CHN54,China,NA,"Chifeng, Inner Mongolia",NA,NA
+Chongqing,NA,China,CHN,Chongqing,CHNM,China,NA,Chongqing,Chongqing (CN),CHN_CKG
+"Dalian, Liaoning",NA,China,CHN,"Dalian, Liaoning",CHN62,China,NA,"Dalian, Liaoning","Dalian, Liaoning (CN)",CHN_DXG
+"Daqing, Heilongjiang",NA,China,CHN,"Daqing, Heilongjiang",CHN86,China,NA,"Daqing, Heilongjiang",NA,NA
+"Dazhou, Sichuan",NA,China,CHN,"Dazhou, Sichuan",CHNNF,China,NA,"Dazhou, Sichuan",NA,NA
+"Deyang, Sichuan",NA,China,CHN,"Deyang, Sichuan",CHNN5,China,NA,"Deyang, Sichuan",NA,NA
+"Dezhou, Shandong",NA,China,CHN,"Dezhou, Shandong",CHNFE,China,NA,"Dezhou, Shandong",NA,NA
+"Dongguan, Guangdong",NA,China,CHN,"Dongguan, Guangdong",CHNJH,China,NA,"Dongguan, Guangdong","Dongguan, Guangdong (CN)",CHN_DGG
+"Dongying, Shandong",NA,China,CHN,"Dongying, Shandong",CHNF5,China,NA,"Dongying, Shandong",NA,NA
+"Erdos, Inner Mongolia",NA,China,CHN,"Erdos, Inner Mongolia",CHN56,China,NA,"Erdos, Inner Mongolia",NA,NA
+"Foshan, Guangdong",NA,China,CHN,"Foshan, Guangdong",CHNJ6,China,NA,"Foshan, Guangdong","Foshan, Guangdong (CN)",CHN_FOS
+"Fuyang, Anhui",NA,China,CHN,"Fuyang, Anhui",CHNCB,China,NA,"Fuyang, Anhui",NA,NA
+"Fuzhou, Fujian",NA,China,CHN,"Fuzhou, Fujian",CHND1,China,NA,"Fuzhou, Fujian","Fuzhou, Fujian (CN)",CHN_FZP
+"Ganzhou, Jiangxi",NA,China,CHN,"Ganzhou, Jiangxi",CHNE7,China,NA,"Ganzhou, Jiangxi",NA,NA
+"Guangzhou, Guangdong",NA,China,CHN,"Guangzhou, Guangdong",CHNJ1,China,NA,"Guangzhou, Guangdong","Guangzhou, Guangdong (CN)",CHN_GZP
+"Guigang, Guangxi",NA,China,CHN,"Guigang, Guangxi",CHNK8,China,NA,"Guigang, Guangxi",NA,NA
+"Guilin, Guangxi",NA,China,CHN,"Guilin, Guangxi",CHNK3,China,NA,"Guilin, Guangxi",NA,NA
+"Guiyang, Guizhou",NA,China,CHN,"Guiyang, Guizhou",CHNO1,China,NA,"Guiyang, Guizhou",NA,NA
+"Handan, Hebei",NA,China,CHN,"Handan, Hebei",CHN34,China,NA,"Handan, Hebei",NA,NA
+"Hangzhou, Zhejiang",NA,China,CHN,"Hangzhou, Zhejiang",CHNB1,China,NA,"Hangzhou, Zhejiang","Hangzhou, Zhejiang (CN)",CHN_HGH
+"Harbin, Heilongjiang",NA,China,CHN,"Harbin, Heilongjiang",CHN81,China,NA,"Harbin, Heilongjiang","Harbin, Heilongjiang (CN)",CHN_HRB
+"Hefei, Anhui",NA,China,CHN,"Hefei, Anhui",CHNC1,China,NA,"Hefei, Anhui",NA,NA
+"Hengshui, Hebei",NA,China,CHN,"Hengshui, Hebei",CHN3B,China,NA,"Hengshui, Hebei",NA,NA
+"Hengyang, Hunan",NA,China,CHN,"Hengyang, Hunan",CHNI4,China,NA,"Hengyang, Hunan",NA,NA
+"Heze, Shandong",NA,China,CHN,"Heze, Shandong",CHNFH,China,NA,"Heze, Shandong",NA,NA
+"Hohhot, Inner Mongolia",NA,China,CHN,"Hohhot, Inner Mongolia",CHN51,China,NA,"Hohhot, Inner Mongolia",NA,NA
 Hong Kong,hngkn,China,CHN,Hong Kong,HKG,China,Hong Kong SAR,Hong Kong,"Hong Kong, China (HK)",HKG_TOT
-"Huaian, Jiangsu",,China,CHN,"Huaian, Jiangsu",CHNA8,China,,"Huaian, Jiangsu",,
-"Huaihua, Hunan",,China,CHN,"Huaihua, Hunan",CHNIC,China,,"Huaihua, Hunan",,
-"Huanggang, Hubei",,China,CHN,"Huanggang, Hubei",CHNHA,China,,"Huanggang, Hubei",,
-"Huizhou, Guangdong",,China,CHN,"Huizhou, Guangdong",CHNJB,China,,"Huizhou, Guangdong",,
-"Huzhou, Zhejiang",,China,CHN,"Huzhou, Zhejiang",CHNB5,China,,"Huzhou, Zhejiang",,
-"Jiangmen, Guangdong",,China,CHN,"Jiangmen, Guangdong",CHNJ7,China,,"Jiangmen, Guangdong",,
-"Jiaozuo, Henan",,China,CHN,"Jiaozuo, Henan",CHNG8,China,,"Jiaozuo, Henan",,
-"Jiaxing, Zhejiang",,China,CHN,"Jiaxing, Zhejiang",CHNB4,China,,"Jiaxing, Zhejiang",,
-"Jieyang, Guangdong",,China,CHN,"Jieyang, Guangdong",CHNJK,China,,"Jieyang, Guangdong",,
-"Jilin, Jilin",,China,CHN,"Jilin, Jilin",CHN72,China,,"Jilin, Jilin",,
-"Jinan, Shandong",,China,CHN,"Jinan, Shandong",CHNF1,China,,"Jinan, Shandong","Jinan, Shandong (CN)",CHN_TNA
-"Jingzhou, Hubei",,China,CHN,"Jingzhou, Hubei",CHNH9,China,,"Jingzhou, Hubei",,
-"Jinhua, Zhejiang",,China,CHN,"Jinhua, Zhejiang",CHNB7,China,,"Jinhua, Zhejiang",,
-"Jining, Shandong",,China,CHN,"Jining, Shandong",CHNF8,China,,"Jining, Shandong",,
-"Jiujiang, Jiangxi",,China,CHN,"Jiujiang, Jiangxi",CHNE4,China,,"Jiujiang, Jiangxi",,
-"Kaifeng, Henan",,China,CHN,"Kaifeng, Henan",CHNG2,China,,"Kaifeng, Henan",,
-"Kunming, Yunnan",,China,CHN,"Kunming, Yunnan",CHNP1,China,,"Kunming, Yunnan","Kunming, Yunnan (CN)",CHN_KMG
-"Langfang, Hebei",,China,CHN,"Langfang, Hebei",CHN3A,China,,"Langfang, Hebei",,
-"Lanzhou, Gansu",,China,CHN,"Lanzhou, Gansu",CHNR1,China,,"Lanzhou, Gansu",,
-"Lianyungang, Jiangsu",,China,CHN,"Lianyungang, Jiangsu",CHNA7,China,,"Lianyungang, Jiangsu",,
-"Liaocheng, Shandong",,China,CHN,"Liaocheng, Shandong",CHNFF,China,,"Liaocheng, Shandong",,
-"Linfen, Shanxi",,China,CHN,"Linfen, Shanxi",CHN4A,China,,"Linfen, Shanxi",,
-"Linyi, Shandong",,China,CHN,"Linyi, Shandong",CHNFD,China,,"Linyi, Shandong",,
-"Liuan, Anhui",,China,CHN,"Liuan, Anhui",CHNCE,China,,"Liuan, Anhui",,
-"Liuzhou, Guangxi",,China,CHN,"Liuzhou, Guangxi",CHNK2,China,,"Liuzhou, Guangxi",,
-"Luoyang, Henan",,China,CHN,"Luoyang, Henan",CHNG3,China,,"Luoyang, Henan",,
-"Maanshan, Anhui",,China,CHN,"Maanshan, Anhui",CHNC5,China,,"Maanshan, Anhui",,
-"Macao, China",,China,CHN,"Macao, China",MAC2,China,,"Macao, China","Macao, China (MO)",MAC_TOT
-"Maoming, Guangdong",,China,CHN,"Maoming, Guangdong",CHNJ9,China,,"Maoming, Guangdong",,
-"Mianyang, Sichuan",,China,CHN,"Mianyang, Sichuan",CHNN6,China,,"Mianyang, Sichuan",,
-"Nanchang, Jiangxi",,China,CHN,"Nanchang, Jiangxi",CHNE1,China,,"Nanchang, Jiangxi",,
-"Nanchong, Sichuan",,China,CHN,"Nanchong, Sichuan",CHNNB,China,,"Nanchong, Sichuan",,
-"Nanjing, Jiangsu",,China,CHN,"Nanjing, Jiangsu",CHNA1,China,,"Nanjing, Jiangsu","Nanjing, Jiangsu (CN)",CHN_NJP
-"Nanning, Guangxi",,China,CHN,"Nanning, Guangxi",CHNK1,China,,"Nanning, Guangxi",,
-"Nantong, Jiangsu",,China,CHN,"Nantong, Jiangsu",CHNA6,China,,"Nantong, Jiangsu",,
-"Nanyang, Henan",,China,CHN,"Nanyang, Henan",CHNGD,China,,"Nanyang, Henan",,
-"Ningbo, Zhejiang",,China,CHN,"Ningbo, Zhejiang",CHNB2,China,,"Ningbo, Zhejiang","Ningbo, Zhejiang (CN)",CHN_NBP
-"Pingdingshan, Henan",,China,CHN,"Pingdingshan, Henan",CHNG4,China,,"Pingdingshan, Henan",,
-"Puyang, Henan",,China,CHN,"Puyang, Henan",CHNG9,China,,"Puyang, Henan",,
-"Qingdao, Shandong",,China,CHN,"Qingdao, Shandong",CHNF2,China,,"Qingdao, Shandong","Qingdao, Shandong (CN)",CHN_QDP
-"Qingyuan, Guangdong",,China,CHN,"Qingyuan, Guangdong",CHNJG,China,,"Qingyuan, Guangdong",,
-"Qinhuangdao, Hebei",,China,CHN,"Qinhuangdao, Hebei",CHN33,China,,"Qinhuangdao, Hebei",,
-"Qiqihar, Heilongjiang",,China,CHN,"Qiqihar, Heilongjiang",CHN82,China,,"Qiqihar, Heilongjiang",,
-"Quanzhou, Fujian",,China,CHN,"Quanzhou, Fujian",CHND5,China,,"Quanzhou, Fujian",,
-"Qujing, Yunnan",,China,CHN,"Qujing, Yunnan",CHNP2,China,,"Qujing, Yunnan",,
-"Rizhao, Shandong",,China,CHN,"Rizhao, Shandong",CHNFB,China,,"Rizhao, Shandong",,
-Shanghai,,China,CHN,Shanghai,CHN9,China,,Shanghai,Shanghai (CN),CHN_SHA
-"Shangqiu, Henan",,China,CHN,"Shangqiu, Henan",CHNGE,China,,"Shangqiu, Henan",,
-"Shangrao, Jiangxi",,China,CHN,"Shangrao, Jiangxi",CHNEB,China,,"Shangrao, Jiangxi",,
-"Shantou, Guangdong",,China,CHN,"Shantou, Guangdong",CHNJ5,China,,"Shantou, Guangdong",,
-"Shaoxing, Zhejiang",,China,CHN,"Shaoxing, Zhejiang",CHNB6,China,,"Shaoxing, Zhejiang",,
-"Shaoyang, Hunan",,China,CHN,"Shaoyang, Hunan",CHNI5,China,,"Shaoyang, Hunan",,
-"Shenyang, Liaoning",,China,CHN,"Shenyang, Liaoning",CHN61,China,,"Shenyang, Liaoning","Shenyang, Liaoning (CN)",CHN_SHE
-Shenzhen,,China,CHN,Shenzhen,CHNJ3,China,,Shenzhen,Shenzhen (CN),CHN_SZX
-"Shijiazhuang, Hebei",,China,CHN,"Shijiazhuang, Hebei",CHN31,China,,"Shijiazhuang, Hebei","Shijiazhuang, Hebei (CN)",CHN_SJW
-"Suihua, Heilongjiang",,China,CHN,"Suihua, Heilongjiang",CHN8C,China,,"Suihua, Heilongjiang",,
-"Suqian, Jiangsu",,China,CHN,"Suqian, Jiangsu",CHNAD,China,,"Suqian, Jiangsu",,
-"Suzhou, Anhui",,China,CHN,"Suzhou, Anhui",CHNCC,China,,"Suzhou, Anhui",,
-"Suzhou, Jiangsu",,China,CHN,"Suzhou, Jiangsu",CHNA5,China,,"Suzhou, Jiangsu","Suzhou, Jiangsu (CN)",CHN_SZH
-"Taian, Shandong",,China,CHN,"Taian, Shandong",CHNF9,China,,"Taian, Shandong",,
-"Taiyuan, Shanxi",,China,CHN,"Taiyuan, Shanxi",CHN41,China,,"Taiyuan, Shanxi",,
-"Taizhou, Jiangsu",,China,CHN,"Taizhou, Jiangsu",CHNAC,China,,"Taizhou, Jiangsu",,
-"Taizhou, Zhejiang",,China,CHN,"Taizhou, Zhejiang",CHNBA,China,,"Taizhou, Zhejiang",,
-"Tangshan, Hebei",,China,CHN,"Tangshan, Hebei",CHN32,China,,"Tangshan, Hebei",,
-Tianjin,,China,CHN,Tianjin,CHN2,China,,Tianjin,Tianjin (CN),CHN_TSN
-"Urumqi, Xinjiang",,China,CHN,"Urumqi, Xinjiang",CHNU1,China,,"Urumqi, Xinjiang",,
-"Weifang, Shandong",,China,CHN,"Weifang, Shandong",CHNF7,China,,"Weifang, Shandong",,
-"Weihai, Shandong",,China,CHN,"Weihai, Shandong",CHNFA,China,,"Weihai, Shandong",,
-"Weinan, Shaanxi",,China,CHN,"Weinan, Shaanxi",CHNQ5,China,,"Weinan, Shaanxi",,
-"Wenzhou, Zhejiang",,China,CHN,"Wenzhou, Zhejiang",CHNB3,China,,"Wenzhou, Zhejiang","Wenzhou, Zhejiang (CN)",CHN_WZP
-"Wuhan, Hubei",,China,CHN,"Wuhan, Hubei",CHNH1,China,,"Wuhan, Hubei","Wuhan, Hubei (CN)",CHN_WUH
-"Wuhu, Anhui",,China,CHN,"Wuhu, Anhui",CHNC2,China,,"Wuhu, Anhui",,
-"Wuxi, Jiangsu",,China,CHN,"Wuxi, Jiangsu",CHNA2,China,,"Wuxi, Jiangsu","Wuxi, Jiangsu (CN)",CHN_WUX
-"Xiamen, Fujian",,China,CHN,"Xiamen, Fujian",CHND2,China,,"Xiamen, Fujian","Xiamen, Fujian (CN)",CHN_XMP
-"Xian, Shaanxi",,China,CHN,"Xian, Shaanxi",CHNQ1,China,,"Xian, Shaanxi",,
-"Xiangfan, Hubei",,China,CHN,"Xiangfan, Hubei",CHNH5,China,,"Xiangfan, Hubei",,
-"Xianyang, Shaanxi",,China,CHN,"Xianyang, Shaanxi",CHNQ4,China,,"Xianyang, Shaanxi","Xianyang, Shaanxi (CN)",CHN_XYA
-"Xiaogan, Hubei",,China,CHN,"Xiaogan, Hubei",CHNH8,China,,"Xiaogan, Hubei",,
-"Xingtai, Hebei",,China,CHN,"Xingtai, Hebei",CHN35,China,,"Xingtai, Hebei",,
-"Xinxiang, Henan",,China,CHN,"Xinxiang, Henan",CHNG7,China,,"Xinxiang, Henan",,
-"Xinyang, Henan",,China,CHN,"Xinyang, Henan",CHNGF,China,,"Xinyang, Henan",,
-"Xuchang, Henan",,China,CHN,"Xuchang, Henan",CHNGA,China,,"Xuchang, Henan",,
-"Xuzhou, Jiangsu",,China,CHN,"Xuzhou, Jiangsu",CHNA3,China,,"Xuzhou, Jiangsu",,
-"Yancheng, Jiangsu",,China,CHN,"Yancheng, Jiangsu",CHNA9,China,,"Yancheng, Jiangsu",,
-"Yangzhou, Jiangsu",,China,CHN,"Yangzhou, Jiangsu",CHNAA,China,,"Yangzhou, Jiangsu",,
-"Yantai, Shandong",,China,CHN,"Yantai, Shandong",CHNF6,China,,"Yantai, Shandong","Yantai, Shandong (CN)",CHN_YTP
-"Yibin, Sichuan",,China,CHN,"Yibin, Sichuan",CHNND,China,,"Yibin, Sichuan",,
-"Yichang, Hubei",,China,CHN,"Yichang, Hubei",CHNH4,China,,"Yichang, Hubei",,
-"Yichun, Jiangxi",,China,CHN,"Yichun, Jiangxi",CHNE9,China,,"Yichun, Jiangxi",,
-"Yongzhou, Hunan",,China,CHN,"Yongzhou, Hunan",CHNIB,China,,"Yongzhou, Hunan",,
-"Yueyang, Hunan",,China,CHN,"Yueyang, Hunan",CHNI6,China,,"Yueyang, Hunan",,
-"Yulin, Shaanxi",,China,CHN,"Yulin, Shaanxi",CHNQ8,China,,"Yulin, Shaanxi",,
-"Yuncheng, Shanxi",,China,CHN,"Yuncheng, Shanxi",CHN48,China,,"Yuncheng, Shanxi",,
-"Zaozhuang, Shandong",,China,CHN,"Zaozhuang, Shandong",CHNF4,China,,"Zaozhuang, Shandong",,
-"Zhangjiakou, Hebei",,China,CHN,"Zhangjiakou, Hebei",CHN37,China,,"Zhangjiakou, Hebei",,
-"Zhangzhou, Fujian",,China,CHN,"Zhangzhou, Fujian",CHND6,China,,"Zhangzhou, Fujian",,
-"Zhanjiang, Guangdong",,China,CHN,"Zhanjiang, Guangdong",CHNJ8,China,,"Zhanjiang, Guangdong",,
-"Zhaoqing, Guangdong",,China,CHN,"Zhaoqing, Guangdong",CHNJA,China,,"Zhaoqing, Guangdong",,
-"Zhaotong, Yunnan",,China,CHN,"Zhaotong, Yunnan",CHNP5,China,,"Zhaotong, Yunnan",,
-"Zhengzhou, Henan",,China,CHN,"Zhengzhou, Henan",CHNG1,China,,"Zhengzhou, Henan","Zhengzhou, Henan (CN)",CHN_CGO
-"Zhenjiang, Jiangsu",,China,CHN,"Zhenjiang, Jiangsu",CHNAB,China,,"Zhenjiang, Jiangsu",,
-"Zhongshan, Guangdong",,China,CHN,"Zhongshan, Guangdong",CHNJI,China,,"Zhongshan, Guangdong",,
-"Zhoukou, Henan",,China,CHN,"Zhoukou, Henan",CHNGG,China,,"Zhoukou, Henan",,
-"Zhuhai, Guangdong",,China,CHN,"Zhuhai, Guangdong",CHNJ4,China,,"Zhuhai, Guangdong",,
-"Zhumadian, Henan",,China,CHN,"Zhumadian, Henan",CHNGH,China,,"Zhumadian, Henan",,
-"Zhuzhou, Hunan",,China,CHN,"Zhuzhou, Hunan",CHNI2,China,,"Zhuzhou, Hunan",,
-"Zibo, Shandong",,China,CHN,"Zibo, Shandong",CHNF3,China,,"Zibo, Shandong",,
-"Ziyang, Sichuan",,China,CHN,"Ziyang, Sichuan",CHNNI,China,,"Ziyang, Sichuan",,
-"Zunyi, Guizhou",,China,CHN,"Zunyi, Guizhou",CHNO3,China,,"Zunyi, Guizhou",,
-Barranquilla,,Colombia,COL,Barranquilla,COL2C,Colombia,,Barranquilla,,
-Bogotá,,Colombia,COL,Bogotá,COL3,Colombia,,Bogotá,Bogotá (CO),COL_BOG
-Bucaramanga,,Colombia,COL,Bucaramanga,COLLC,Colombia,,Bucaramanga,,
-Cali,,Colombia,COL,Cali,COLOC,Colombia,,Cali,,
-Cartagena,,Colombia,COL,Cartagena,COL4C,Colombia,,Cartagena,Cartagena (CO),COL_CTG
-Cúcuta,,Colombia,COL,Cúcuta,COLIC,Colombia,,Cúcuta,,
-Ibagué,,Colombia,COL,Ibagué,COLNC,Colombia,,Ibagué,,
-Medellín,,Colombia,COL,Medellín,COL1C,Colombia,,Medellín,Medellín (CO),COL_MDE
-Kinshasa,,"Congo, Dem. Rep.",COD,Kinshasa,COD001,Democratic Republic of Congo,,Kinshasa,,
-Brazzaville,,"Congo, Rep.",COG,Brazzaville,COG001,Congo,,Brazzaville,,
-Pointe-Noire,,"Congo, Rep.",COG,Pointe-Noire,COG002,Congo,,Pointe-Noire,,
-San José,,Costa Rica,CRI,San José,CRI001,Costa Rica,,San José,San José (CR),CRI_SJO
-Abidjan,,Cote d'Ivoire,CIV,Abidjan,CIV001,Côte d'Ivoire,,Abidjan,,
-Yamoussoukro,,Cote d'Ivoire,CIV,Yamoussoukro,CIV002,Côte d'Ivoire,,Yamoussoukro,,
-Dubrovnik,,Croatia,HRV,,,,,,Dubrovnik (HR),HRV_DBV
-Zagreb,,Croatia,HRV,Zagreb - Metro,HR_01,Croatia,,Zagreb,Zagreb (HR),HRV_ZAG
-Havana,,Cuba,CUB,Havana,CUB001,Cuba,,Havana,,
-Nicosia,,Cyprus,CYP,Nicosia,CYP001,Cyprus,,Nicosia,,
+"Huaian, Jiangsu",NA,China,CHN,"Huaian, Jiangsu",CHNA8,China,NA,"Huaian, Jiangsu",NA,NA
+"Huaihua, Hunan",NA,China,CHN,"Huaihua, Hunan",CHNIC,China,NA,"Huaihua, Hunan",NA,NA
+"Huanggang, Hubei",NA,China,CHN,"Huanggang, Hubei",CHNHA,China,NA,"Huanggang, Hubei",NA,NA
+"Huizhou, Guangdong",NA,China,CHN,"Huizhou, Guangdong",CHNJB,China,NA,"Huizhou, Guangdong",NA,NA
+"Huzhou, Zhejiang",NA,China,CHN,"Huzhou, Zhejiang",CHNB5,China,NA,"Huzhou, Zhejiang",NA,NA
+"Jiangmen, Guangdong",NA,China,CHN,"Jiangmen, Guangdong",CHNJ7,China,NA,"Jiangmen, Guangdong",NA,NA
+"Jiaozuo, Henan",NA,China,CHN,"Jiaozuo, Henan",CHNG8,China,NA,"Jiaozuo, Henan",NA,NA
+"Jiaxing, Zhejiang",NA,China,CHN,"Jiaxing, Zhejiang",CHNB4,China,NA,"Jiaxing, Zhejiang",NA,NA
+"Jieyang, Guangdong",NA,China,CHN,"Jieyang, Guangdong",CHNJK,China,NA,"Jieyang, Guangdong",NA,NA
+"Jilin, Jilin",NA,China,CHN,"Jilin, Jilin",CHN72,China,NA,"Jilin, Jilin",NA,NA
+"Jinan, Shandong",NA,China,CHN,"Jinan, Shandong",CHNF1,China,NA,"Jinan, Shandong","Jinan, Shandong (CN)",CHN_TNA
+"Jingzhou, Hubei",NA,China,CHN,"Jingzhou, Hubei",CHNH9,China,NA,"Jingzhou, Hubei",NA,NA
+"Jinhua, Zhejiang",NA,China,CHN,"Jinhua, Zhejiang",CHNB7,China,NA,"Jinhua, Zhejiang",NA,NA
+"Jining, Shandong",NA,China,CHN,"Jining, Shandong",CHNF8,China,NA,"Jining, Shandong",NA,NA
+"Jiujiang, Jiangxi",NA,China,CHN,"Jiujiang, Jiangxi",CHNE4,China,NA,"Jiujiang, Jiangxi",NA,NA
+"Kaifeng, Henan",NA,China,CHN,"Kaifeng, Henan",CHNG2,China,NA,"Kaifeng, Henan",NA,NA
+"Kunming, Yunnan",NA,China,CHN,"Kunming, Yunnan",CHNP1,China,NA,"Kunming, Yunnan","Kunming, Yunnan (CN)",CHN_KMG
+"Langfang, Hebei",NA,China,CHN,"Langfang, Hebei",CHN3A,China,NA,"Langfang, Hebei",NA,NA
+"Lanzhou, Gansu",NA,China,CHN,"Lanzhou, Gansu",CHNR1,China,NA,"Lanzhou, Gansu",NA,NA
+"Lianyungang, Jiangsu",NA,China,CHN,"Lianyungang, Jiangsu",CHNA7,China,NA,"Lianyungang, Jiangsu",NA,NA
+"Liaocheng, Shandong",NA,China,CHN,"Liaocheng, Shandong",CHNFF,China,NA,"Liaocheng, Shandong",NA,NA
+"Linfen, Shanxi",NA,China,CHN,"Linfen, Shanxi",CHN4A,China,NA,"Linfen, Shanxi",NA,NA
+"Linyi, Shandong",NA,China,CHN,"Linyi, Shandong",CHNFD,China,NA,"Linyi, Shandong",NA,NA
+"Liuan, Anhui",NA,China,CHN,"Liuan, Anhui",CHNCE,China,NA,"Liuan, Anhui",NA,NA
+"Liuzhou, Guangxi",NA,China,CHN,"Liuzhou, Guangxi",CHNK2,China,NA,"Liuzhou, Guangxi",NA,NA
+"Luoyang, Henan",NA,China,CHN,"Luoyang, Henan",CHNG3,China,NA,"Luoyang, Henan",NA,NA
+"Maanshan, Anhui",NA,China,CHN,"Maanshan, Anhui",CHNC5,China,NA,"Maanshan, Anhui",NA,NA
+"Macao, China",NA,China,CHN,"Macao, China",MAC2,China,NA,"Macao, China","Macao, China (MO)",MAC_TOT
+"Maoming, Guangdong",NA,China,CHN,"Maoming, Guangdong",CHNJ9,China,NA,"Maoming, Guangdong",NA,NA
+"Mianyang, Sichuan",NA,China,CHN,"Mianyang, Sichuan",CHNN6,China,NA,"Mianyang, Sichuan",NA,NA
+"Nanchang, Jiangxi",NA,China,CHN,"Nanchang, Jiangxi",CHNE1,China,NA,"Nanchang, Jiangxi",NA,NA
+"Nanchong, Sichuan",NA,China,CHN,"Nanchong, Sichuan",CHNNB,China,NA,"Nanchong, Sichuan",NA,NA
+"Nanjing, Jiangsu",NA,China,CHN,"Nanjing, Jiangsu",CHNA1,China,NA,"Nanjing, Jiangsu","Nanjing, Jiangsu (CN)",CHN_NJP
+"Nanning, Guangxi",NA,China,CHN,"Nanning, Guangxi",CHNK1,China,NA,"Nanning, Guangxi",NA,NA
+"Nantong, Jiangsu",NA,China,CHN,"Nantong, Jiangsu",CHNA6,China,NA,"Nantong, Jiangsu",NA,NA
+"Nanyang, Henan",NA,China,CHN,"Nanyang, Henan",CHNGD,China,NA,"Nanyang, Henan",NA,NA
+"Ningbo, Zhejiang",NA,China,CHN,"Ningbo, Zhejiang",CHNB2,China,NA,"Ningbo, Zhejiang","Ningbo, Zhejiang (CN)",CHN_NBP
+"Pingdingshan, Henan",NA,China,CHN,"Pingdingshan, Henan",CHNG4,China,NA,"Pingdingshan, Henan",NA,NA
+"Puyang, Henan",NA,China,CHN,"Puyang, Henan",CHNG9,China,NA,"Puyang, Henan",NA,NA
+"Qingdao, Shandong",NA,China,CHN,"Qingdao, Shandong",CHNF2,China,NA,"Qingdao, Shandong","Qingdao, Shandong (CN)",CHN_QDP
+"Qingyuan, Guangdong",NA,China,CHN,"Qingyuan, Guangdong",CHNJG,China,NA,"Qingyuan, Guangdong",NA,NA
+"Qinhuangdao, Hebei",NA,China,CHN,"Qinhuangdao, Hebei",CHN33,China,NA,"Qinhuangdao, Hebei",NA,NA
+"Qiqihar, Heilongjiang",NA,China,CHN,"Qiqihar, Heilongjiang",CHN82,China,NA,"Qiqihar, Heilongjiang",NA,NA
+"Quanzhou, Fujian",NA,China,CHN,"Quanzhou, Fujian",CHND5,China,NA,"Quanzhou, Fujian",NA,NA
+"Qujing, Yunnan",NA,China,CHN,"Qujing, Yunnan",CHNP2,China,NA,"Qujing, Yunnan",NA,NA
+"Rizhao, Shandong",NA,China,CHN,"Rizhao, Shandong",CHNFB,China,NA,"Rizhao, Shandong",NA,NA
+Shanghai,NA,China,CHN,Shanghai,CHN9,China,NA,Shanghai,Shanghai (CN),CHN_SHA
+"Shangqiu, Henan",NA,China,CHN,"Shangqiu, Henan",CHNGE,China,NA,"Shangqiu, Henan",NA,NA
+"Shangrao, Jiangxi",NA,China,CHN,"Shangrao, Jiangxi",CHNEB,China,NA,"Shangrao, Jiangxi",NA,NA
+"Shantou, Guangdong",NA,China,CHN,"Shantou, Guangdong",CHNJ5,China,NA,"Shantou, Guangdong",NA,NA
+"Shaoxing, Zhejiang",NA,China,CHN,"Shaoxing, Zhejiang",CHNB6,China,NA,"Shaoxing, Zhejiang",NA,NA
+"Shaoyang, Hunan",NA,China,CHN,"Shaoyang, Hunan",CHNI5,China,NA,"Shaoyang, Hunan",NA,NA
+"Shenyang, Liaoning",NA,China,CHN,"Shenyang, Liaoning",CHN61,China,NA,"Shenyang, Liaoning","Shenyang, Liaoning (CN)",CHN_SHE
+Shenzhen,NA,China,CHN,Shenzhen,CHNJ3,China,NA,Shenzhen,Shenzhen (CN),CHN_SZX
+"Shijiazhuang, Hebei",NA,China,CHN,"Shijiazhuang, Hebei",CHN31,China,NA,"Shijiazhuang, Hebei","Shijiazhuang, Hebei (CN)",CHN_SJW
+"Suihua, Heilongjiang",NA,China,CHN,"Suihua, Heilongjiang",CHN8C,China,NA,"Suihua, Heilongjiang",NA,NA
+"Suqian, Jiangsu",NA,China,CHN,"Suqian, Jiangsu",CHNAD,China,NA,"Suqian, Jiangsu",NA,NA
+"Suzhou, Anhui",NA,China,CHN,"Suzhou, Anhui",CHNCC,China,NA,"Suzhou, Anhui",NA,NA
+"Suzhou, Jiangsu",NA,China,CHN,"Suzhou, Jiangsu",CHNA5,China,NA,"Suzhou, Jiangsu","Suzhou, Jiangsu (CN)",CHN_SZH
+"Taian, Shandong",NA,China,CHN,"Taian, Shandong",CHNF9,China,NA,"Taian, Shandong",NA,NA
+"Taiyuan, Shanxi",NA,China,CHN,"Taiyuan, Shanxi",CHN41,China,NA,"Taiyuan, Shanxi",NA,NA
+"Taizhou, Jiangsu",NA,China,CHN,"Taizhou, Jiangsu",CHNAC,China,NA,"Taizhou, Jiangsu",NA,NA
+"Taizhou, Zhejiang",NA,China,CHN,"Taizhou, Zhejiang",CHNBA,China,NA,"Taizhou, Zhejiang",NA,NA
+"Tangshan, Hebei",NA,China,CHN,"Tangshan, Hebei",CHN32,China,NA,"Tangshan, Hebei",NA,NA
+Tianjin,NA,China,CHN,Tianjin,CHN2,China,NA,Tianjin,Tianjin (CN),CHN_TSN
+"Urumqi, Xinjiang",NA,China,CHN,"Urumqi, Xinjiang",CHNU1,China,NA,"Urumqi, Xinjiang",NA,NA
+"Weifang, Shandong",NA,China,CHN,"Weifang, Shandong",CHNF7,China,NA,"Weifang, Shandong",NA,NA
+"Weihai, Shandong",NA,China,CHN,"Weihai, Shandong",CHNFA,China,NA,"Weihai, Shandong",NA,NA
+"Weinan, Shaanxi",NA,China,CHN,"Weinan, Shaanxi",CHNQ5,China,NA,"Weinan, Shaanxi",NA,NA
+"Wenzhou, Zhejiang",NA,China,CHN,"Wenzhou, Zhejiang",CHNB3,China,NA,"Wenzhou, Zhejiang","Wenzhou, Zhejiang (CN)",CHN_WZP
+"Wuhan, Hubei",NA,China,CHN,"Wuhan, Hubei",CHNH1,China,NA,"Wuhan, Hubei","Wuhan, Hubei (CN)",CHN_WUH
+"Wuhu, Anhui",NA,China,CHN,"Wuhu, Anhui",CHNC2,China,NA,"Wuhu, Anhui",NA,NA
+"Wuxi, Jiangsu",NA,China,CHN,"Wuxi, Jiangsu",CHNA2,China,NA,"Wuxi, Jiangsu","Wuxi, Jiangsu (CN)",CHN_WUX
+"Xiamen, Fujian",NA,China,CHN,"Xiamen, Fujian",CHND2,China,NA,"Xiamen, Fujian","Xiamen, Fujian (CN)",CHN_XMP
+"Xian, Shaanxi",NA,China,CHN,"Xian, Shaanxi",CHNQ1,China,NA,"Xian, Shaanxi",NA,NA
+"Xiangfan, Hubei",NA,China,CHN,"Xiangfan, Hubei",CHNH5,China,NA,"Xiangfan, Hubei",NA,NA
+"Xianyang, Shaanxi",NA,China,CHN,"Xianyang, Shaanxi",CHNQ4,China,NA,"Xianyang, Shaanxi","Xianyang, Shaanxi (CN)",CHN_XYA
+"Xiaogan, Hubei",NA,China,CHN,"Xiaogan, Hubei",CHNH8,China,NA,"Xiaogan, Hubei",NA,NA
+"Xingtai, Hebei",NA,China,CHN,"Xingtai, Hebei",CHN35,China,NA,"Xingtai, Hebei",NA,NA
+"Xinxiang, Henan",NA,China,CHN,"Xinxiang, Henan",CHNG7,China,NA,"Xinxiang, Henan",NA,NA
+"Xinyang, Henan",NA,China,CHN,"Xinyang, Henan",CHNGF,China,NA,"Xinyang, Henan",NA,NA
+"Xuchang, Henan",NA,China,CHN,"Xuchang, Henan",CHNGA,China,NA,"Xuchang, Henan",NA,NA
+"Xuzhou, Jiangsu",NA,China,CHN,"Xuzhou, Jiangsu",CHNA3,China,NA,"Xuzhou, Jiangsu",NA,NA
+"Yancheng, Jiangsu",NA,China,CHN,"Yancheng, Jiangsu",CHNA9,China,NA,"Yancheng, Jiangsu",NA,NA
+"Yangzhou, Jiangsu",NA,China,CHN,"Yangzhou, Jiangsu",CHNAA,China,NA,"Yangzhou, Jiangsu",NA,NA
+"Yantai, Shandong",NA,China,CHN,"Yantai, Shandong",CHNF6,China,NA,"Yantai, Shandong","Yantai, Shandong (CN)",CHN_YTP
+"Yibin, Sichuan",NA,China,CHN,"Yibin, Sichuan",CHNND,China,NA,"Yibin, Sichuan",NA,NA
+"Yichang, Hubei",NA,China,CHN,"Yichang, Hubei",CHNH4,China,NA,"Yichang, Hubei",NA,NA
+"Yichun, Jiangxi",NA,China,CHN,"Yichun, Jiangxi",CHNE9,China,NA,"Yichun, Jiangxi",NA,NA
+"Yongzhou, Hunan",NA,China,CHN,"Yongzhou, Hunan",CHNIB,China,NA,"Yongzhou, Hunan",NA,NA
+"Yueyang, Hunan",NA,China,CHN,"Yueyang, Hunan",CHNI6,China,NA,"Yueyang, Hunan",NA,NA
+"Yulin, Shaanxi",NA,China,CHN,"Yulin, Shaanxi",CHNQ8,China,NA,"Yulin, Shaanxi",NA,NA
+"Yuncheng, Shanxi",NA,China,CHN,"Yuncheng, Shanxi",CHN48,China,NA,"Yuncheng, Shanxi",NA,NA
+"Zaozhuang, Shandong",NA,China,CHN,"Zaozhuang, Shandong",CHNF4,China,NA,"Zaozhuang, Shandong",NA,NA
+"Zhangjiakou, Hebei",NA,China,CHN,"Zhangjiakou, Hebei",CHN37,China,NA,"Zhangjiakou, Hebei",NA,NA
+"Zhangzhou, Fujian",NA,China,CHN,"Zhangzhou, Fujian",CHND6,China,NA,"Zhangzhou, Fujian",NA,NA
+"Zhanjiang, Guangdong",NA,China,CHN,"Zhanjiang, Guangdong",CHNJ8,China,NA,"Zhanjiang, Guangdong",NA,NA
+"Zhaoqing, Guangdong",NA,China,CHN,"Zhaoqing, Guangdong",CHNJA,China,NA,"Zhaoqing, Guangdong",NA,NA
+"Zhaotong, Yunnan",NA,China,CHN,"Zhaotong, Yunnan",CHNP5,China,NA,"Zhaotong, Yunnan",NA,NA
+"Zhengzhou, Henan",NA,China,CHN,"Zhengzhou, Henan",CHNG1,China,NA,"Zhengzhou, Henan","Zhengzhou, Henan (CN)",CHN_CGO
+"Zhenjiang, Jiangsu",NA,China,CHN,"Zhenjiang, Jiangsu",CHNAB,China,NA,"Zhenjiang, Jiangsu",NA,NA
+"Zhongshan, Guangdong",NA,China,CHN,"Zhongshan, Guangdong",CHNJI,China,NA,"Zhongshan, Guangdong",NA,NA
+"Zhoukou, Henan",NA,China,CHN,"Zhoukou, Henan",CHNGG,China,NA,"Zhoukou, Henan",NA,NA
+"Zhuhai, Guangdong",NA,China,CHN,"Zhuhai, Guangdong",CHNJ4,China,NA,"Zhuhai, Guangdong",NA,NA
+"Zhumadian, Henan",NA,China,CHN,"Zhumadian, Henan",CHNGH,China,NA,"Zhumadian, Henan",NA,NA
+"Zhuzhou, Hunan",NA,China,CHN,"Zhuzhou, Hunan",CHNI2,China,NA,"Zhuzhou, Hunan",NA,NA
+"Zibo, Shandong",NA,China,CHN,"Zibo, Shandong",CHNF3,China,NA,"Zibo, Shandong",NA,NA
+"Ziyang, Sichuan",NA,China,CHN,"Ziyang, Sichuan",CHNNI,China,NA,"Ziyang, Sichuan",NA,NA
+"Zunyi, Guizhou",NA,China,CHN,"Zunyi, Guizhou",CHNO3,China,NA,"Zunyi, Guizhou",NA,NA
+Barranquilla,NA,Colombia,COL,Barranquilla,COL2C,Colombia,NA,Barranquilla,NA,NA
+Bogotá,NA,Colombia,COL,Bogotá,COL3,Colombia,NA,Bogotá,Bogotá (CO),COL_BOG
+Bucaramanga,NA,Colombia,COL,Bucaramanga,COLLC,Colombia,NA,Bucaramanga,NA,NA
+Cali,NA,Colombia,COL,Cali,COLOC,Colombia,NA,Cali,NA,NA
+Cartagena,NA,Colombia,COL,Cartagena,COL4C,Colombia,NA,Cartagena,Cartagena (CO),COL_CTG
+Cúcuta,NA,Colombia,COL,Cúcuta,COLIC,Colombia,NA,Cúcuta,NA,NA
+Ibagué,NA,Colombia,COL,Ibagué,COLNC,Colombia,NA,Ibagué,NA,NA
+Medellín,NA,Colombia,COL,Medellín,COL1C,Colombia,NA,Medellín,Medellín (CO),COL_MDE
+Kinshasa,NA,"Congo, Dem. Rep.",COD,Kinshasa,COD001,Democratic Republic of Congo,NA,Kinshasa,NA,NA
+Brazzaville,NA,"Congo, Rep.",COG,Brazzaville,COG001,Congo,NA,Brazzaville,NA,NA
+Pointe-Noire,NA,"Congo, Rep.",COG,Pointe-Noire,COG002,Congo,NA,Pointe-Noire,NA,NA
+San José,NA,Costa Rica,CRI,San José,CRI001,Costa Rica,NA,San José,San José (CR),CRI_SJO
+Abidjan,NA,Cote d'Ivoire,CIV,Abidjan,CIV001,Côte d'Ivoire,NA,Abidjan,NA,NA
+Yamoussoukro,NA,Cote d'Ivoire,CIV,Yamoussoukro,CIV002,Côte d'Ivoire,NA,Yamoussoukro,NA,NA
+Dubrovnik,NA,Croatia,HRV,NA,NA,NA,NA,Dubrovnik,Dubrovnik (HR),HRV_DBV
+Zagreb,NA,Croatia,HRV,Zagreb - Metro,HR_01,Croatia,NA,Zagreb,Zagreb (HR),HRV_ZAG
+Havana,NA,Cuba,CUB,Havana,CUB001,Cuba,NA,Havana,NA,NA
+Nicosia,NA,Cyprus,CYP,Nicosia,CYP001,Cyprus,NA,Nicosia,NA,NA
 Prague,pragu,Czechia,CZE,Prague - Metro,CZ_01,Czech Republic,Prague,Prague,Prague (CZ),CZE_PRG
 Copenhagen,cpnhg,Denmark,DNK,Copenhagen - Metro,DK_01,Denmark,Copenhagen,Copenhagen,Copenhagen (DK),DNK_CPH
-Djibouti City,,Djibouti,DJI,Djibouti City,DJI001,Djibouti,,Djibouti City,,
-Santo Domingo,,Dominican Republic,DOM,Santo Domingo,DOM002,Dominican Republic,,Santo Domingo,,
-Guayaquil,,Ecuador,ECU,Guayaquil,ECU001,Ecuador,,Guayaquil,Guayaquil (EC),ECU_GYE
-Quito,,Ecuador,ECU,Quito,ECU002,Ecuador,,Quito,Quito (EC),ECU_UIO
-Alexandria,,Egypt,EGY,Alexandria,EGY002,Egypt,,Alexandria,,
-Al-Mansura,,Egypt,EGY,Al-Mansura,EGY006,Egypt,,Al-Mansura,,
-Cairo,,Egypt,EGY,Cairo,EGY001,Egypt,,Cairo,Cairo (EG),EGY_CAI
-Mahalla el-Kubra,,Egypt,EGY,Mahalla el-Kubra,EGY005,Egypt,,Mahalla el-Kubra,,
-Port Said,,Egypt,EGY,Port Said,EGY003,Egypt,,Port Said,,
-Suez,,Egypt,EGY,Suez,EGY004,Egypt,,Suez,,
-San Salvador,,El Salvador,SLV,San Salvador,SLV001,El Salvador,,San Salvador,,
-Asmara,,Eritrea,ERI,Asmara,ERI001,Eritrea,,Asmara,,
-Tallinn,,Estonia,EST,Tallinn - Metro,EE_01,Estonia,,Tallinn,Tallin (EE),EST_TLL
-Addis Ababa,,Ethiopia,ETH,Addis Ababa,ETH001,Ethiopia,,Addis Ababa,,
-Suva,,Fiji,FJI,Suva,FJI001,Fiji,,Suva,,
-Helsinki,,Finland,FIN,Helsinki - Metro,FI_01,Finland,,Helsinki,Helsinki (FI),FIN_HEL
-Bordeaux,,France,FRA,Bordeaux - Metro,FR_07,France,,Bordeaux,Bordeaux (FR),FRA_BOD
-Lille,,France,FRA,Lille - Metro,FR_04,France,,Lille,Lille (FR),FRA_LLE
-Lyon,,France,FRA,Lyon - Metro,FR_03,France,,Lyon,Lyon (FR),FRA_LIO
-Marseille,,France,FRA,Marseille - Metro,FR_02,France,,Marseille,Marseille (FR),FRA_MRS
-Nice-Cannes,,France,FRA,Nice-Cannes - Metro,FR_05,France,,Nice-Cannes,Nice-Cannes (FR),FRA_NCE
+Djibouti City,NA,Djibouti,DJI,Djibouti City,DJI001,Djibouti,NA,Djibouti City,NA,NA
+Santo Domingo,NA,Dominican Republic,DOM,Santo Domingo,DOM002,Dominican Republic,NA,Santo Domingo,NA,NA
+Guayaquil,NA,Ecuador,ECU,Guayaquil,ECU001,Ecuador,NA,Guayaquil,Guayaquil (EC),ECU_GYE
+Quito,NA,Ecuador,ECU,Quito,ECU002,Ecuador,NA,Quito,Quito (EC),ECU_UIO
+Alexandria,NA,Egypt,EGY,Alexandria,EGY002,Egypt,NA,Alexandria,NA,NA
+Al-Mansura,NA,Egypt,EGY,Al-Mansura,EGY006,Egypt,NA,Al-Mansura,NA,NA
+Cairo,NA,Egypt,EGY,Cairo,EGY001,Egypt,NA,Cairo,Cairo (EG),EGY_CAI
+Mahalla el-Kubra,NA,Egypt,EGY,Mahalla el-Kubra,EGY005,Egypt,NA,Mahalla el-Kubra,NA,NA
+Port Said,NA,Egypt,EGY,Port Said,EGY003,Egypt,NA,Port Said,NA,NA
+Suez,NA,Egypt,EGY,Suez,EGY004,Egypt,NA,Suez,NA,NA
+San Salvador,NA,El Salvador,SLV,San Salvador,SLV001,El Salvador,NA,San Salvador,NA,NA
+Asmara,NA,Eritrea,ERI,Asmara,ERI001,Eritrea,NA,Asmara,NA,NA
+Tallinn,NA,Estonia,EST,Tallinn - Metro,EE_01,Estonia,NA,Tallinn,Tallin (EE),EST_TLL
+Addis Ababa,NA,Ethiopia,ETH,Addis Ababa,ETH001,Ethiopia,NA,Addis Ababa,NA,NA
+Suva,NA,Fiji,FJI,Suva,FJI001,Fiji,NA,Suva,NA,NA
+Helsinki,NA,Finland,FIN,Helsinki - Metro,FI_01,Finland,NA,Helsinki,Helsinki (FI),FIN_HEL
+Bordeaux,NA,France,FRA,Bordeaux - Metro,FR_07,France,NA,Bordeaux,Bordeaux (FR),FRA_BOD
+Lille,NA,France,FRA,Lille - Metro,FR_04,France,NA,Lille,Lille (FR),FRA_LLE
+Lyon,NA,France,FRA,Lyon - Metro,FR_03,France,NA,Lyon,Lyon (FR),FRA_LIO
+Marseille,NA,France,FRA,Marseille - Metro,FR_02,France,NA,Marseille,Marseille (FR),FRA_MRS
+Nice-Cannes,NA,France,FRA,Nice-Cannes - Metro,FR_05,France,NA,Nice-Cannes,Nice-Cannes (FR),FRA_NCE
 Paris,paris,France,FRA,Paris - Metro,FR_01,France,Paris Luxury & Upper Upscale Classes,Paris,Paris (FR),FRA_PAR
-Strasbourg,,France,FRA,Strasbourg - Metro,FR_08,France,,Strasbourg,Strasbourg (FR),FRA_SXB
-Toulouse,,France,FRA,Toulouse - Metro,FR_06,France,,Toulouse,Toulouse (FR),FRA_TLS
-Libreville,,Gabon,GAB,Libreville,GAB001,Gabon,,Libreville,,
-Banjul,,Gambia,GMB,Banjul,GMB001,Gambia,,Banjul,,
-Tbilisi,,Georgia,GEO,Tbilisi,GEO001,Georgia,,Tbilisi,,
+Strasbourg,NA,France,FRA,Strasbourg - Metro,FR_08,France,NA,Strasbourg,Strasbourg (FR),FRA_SXB
+Toulouse,NA,France,FRA,Toulouse - Metro,FR_06,France,NA,Toulouse,Toulouse (FR),FRA_TLS
+Libreville,NA,Gabon,GAB,Libreville,GAB001,Gabon,NA,Libreville,NA,NA
+Banjul,NA,Gambia,GMB,Banjul,GMB001,Gambia,NA,Banjul,NA,NA
+Tbilisi,NA,Georgia,GEO,Tbilisi,GEO001,Georgia,NA,Tbilisi,NA,NA
 Berlin,berln,Germany,DEU,Berlin - Metro,DE_01,Germany,Berlin,Berlin,Berlin (DE),DEU_BER
-Bremen,,Germany,DEU,Bremen - Metro,DE_10,Germany,,Bremen,Bremen (DE),DEU_BRE
+Bremen,NA,Germany,DEU,Bremen - Metro,DE_10,Germany,NA,Bremen,Bremen (DE),DEU_BRE
 Cologne,colgn,Germany,DEU,Cologne - Metro,DE_04,Germany,Cologne,Cologne,Cologne (DE),DEU_CGN
-Dortmund,,Germany,DEU,Dortmund - Metro,DE_08,Germany,,Dortmund,Dortmund (DE),DEU_DTM
-Dresden,,Germany,DEU,Dresden - Metro,DE_11,Germany,,Dresden,Dresden (DE),DEU_DRS
-Duisburg,,Germany,DEU,Duisburg - Metro,DE_15,Germany,,Duisburg,Duisburg (DE),DEU_DUI
+Dortmund,NA,Germany,DEU,Dortmund - Metro,DE_08,Germany,NA,Dortmund,Dortmund (DE),DEU_DTM
+Dresden,NA,Germany,DEU,Dresden - Metro,DE_11,Germany,NA,Dresden,Dresden (DE),DEU_DRS
+Duisburg,NA,Germany,DEU,Duisburg - Metro,DE_15,Germany,NA,Duisburg,Duisburg (DE),DEU_DUI
 Dusseldorf,dssld,Germany,DEU,Düsseldorf - Metro,DE_07,Germany,Dusseldorf,Dusseldorf,Düsseldorf (DE),DEU_DUS
-Essen,,Germany,DEU,Essen - Metro,DE_09,Germany,,Essen,Essen (DE),DEU_EEN
+Essen,NA,Germany,DEU,Essen - Metro,DE_09,Germany,NA,Essen,Essen (DE),DEU_EEN
 Frankfurt,frnkf,Germany,DEU,Frankfurt - Metro,DE_05,Germany,Frankfurt Centre,Frankfurt,Frankfurt (DE),DEU_FRA
 Hamburg,hmbrg,Germany,DEU,Hamburg - Metro,DE_02,Germany,Hamburg,Hamburg,Hamburg (DE),DEU_HAM
-Hannover,,Germany,DEU,Hannover - Metro,DE_12,Germany,,Hannover,Hannover (DE),DEU_HAJ
-Leipzig,,Germany,DEU,Leipzig - Metro,DE_13,Germany,,Leipzig,Leipzig (DE),DEU_LEJ
+Hannover,NA,Germany,DEU,Hannover - Metro,DE_12,Germany,NA,Hannover,Hannover (DE),DEU_HAJ
+Leipzig,NA,Germany,DEU,Leipzig - Metro,DE_13,Germany,NA,Leipzig,Leipzig (DE),DEU_LEJ
 Munich,munch,Germany,DEU,Munich - Metro,DE_03,Germany,Munich,Munich,Munich (DE),DEU_MUC
-Nürnberg,,Germany,DEU,Nürnberg - Metro,DE_14,Germany,,Nürnberg,Nürnberg (DE),DEU_NUE
+Nürnberg,NA,Germany,DEU,Nürnberg - Metro,DE_14,Germany,NA,Nürnberg,Nürnberg (DE),DEU_NUE
 Stuttgart,stttg,Germany,DEU,Stuttgart - Metro,DE_06,Germany,Stuttgart Area,Stuttgart,Stuttgart (DE),DEU_STR
-Accra,,Ghana,GHA,Accra,GHA001,Ghana,,Accra,,
-Kumasi,,Ghana,GHA,Kumasi,GHA002,Ghana,,Kumasi,,
+Accra,NA,Ghana,GHA,Accra,GHA001,Ghana,NA,Accra,NA,NA
+Kumasi,NA,Ghana,GHA,Kumasi,GHA002,Ghana,NA,Kumasi,NA,NA
 Athens,athns,Greece,GRC,Athens - Metro,GR_01,Greece,Athens,Athens,Athens (GR),GRC_ATH
-Thessaloniki,,Greece,GRC,Thessaloniki - Metro,GR_02,Greece,,Thessaloniki,Thessaloniki (GR),GRC_SKG
-Guatemala City,,Guatemala,GTM,Guatemala City,GTM001,Guatemala,,Guatemala City,,
-Conakry,,Guinea,GIN,Conakry,GIN001,Guinea,,Conakry,,
-Bissau,,Guinea-Bissau,GNB,Bissau,GNB001,Guinea-Bissau,,Bissau,,
-Georgetown (Guyana),,Guyana,GUY,Georgetown (Guyana),GUY001,Guyana,,Georgetown (Guyana),,
-Port-Au-Prince,,Haiti,HTI,Port-Au-Prince,HTI001,Haiti,,Port-Au-Prince,,
-Tegucigalpa,,Honduras,HND,Tegucigalpa,HND002,Honduras,,Tegucigalpa,,
+Thessaloniki,NA,Greece,GRC,Thessaloniki - Metro,GR_02,Greece,NA,Thessaloniki,Thessaloniki (GR),GRC_SKG
+Guatemala City,NA,Guatemala,GTM,Guatemala City,GTM001,Guatemala,NA,Guatemala City,NA,NA
+Conakry,NA,Guinea,GIN,Conakry,GIN001,Guinea,NA,Conakry,NA,NA
+Bissau,NA,Guinea-Bissau,GNB,Bissau,GNB001,Guinea-Bissau,NA,Bissau,NA,NA
+Georgetown (Guyana),NA,Guyana,GUY,Georgetown (Guyana),GUY001,Guyana,NA,Georgetown (Guyana),NA,NA
+Port-Au-Prince,NA,Haiti,HTI,Port-Au-Prince,HTI001,Haiti,NA,Port-Au-Prince,NA,NA
+Tegucigalpa,NA,Honduras,HND,Tegucigalpa,HND002,Honduras,NA,Tegucigalpa,NA,NA
 Budapest,bdpst,Hungary,HUN,Budapest - Metro,HU_01,Hungary,Budapest,Budapest,Budapest (HU),HUN_BUD
-Reykjavik,,Iceland,ISL,Reykjavik,ISL001,Iceland,,Reykjavik,,
-Agra,,India,IND,Agra,IND062,India,,Agra,Agra (IN),IND_AGR
-Ahmedabad,,India,IND,Ahmedabad,IND012,India,,Ahmedabad,Ahmadabad (IN),IND_ADC
-Aligarh,,India,IND,Aligarh,IND063,India,,Aligarh,,
-Allahabad,,India,IND,Allahabad,IND064,India,,Allahabad,,
-Amravati,,India,IND,Amravati,IND037,India,,Amravati,,
-Amritsar,,India,IND,Amritsar,IND049,India,,Amritsar,,
-Asansol,,India,IND,Asansol,IND073,India,,Asansol,,
-Aurangabad,,India,IND,Aurangabad,IND038,India,,Aurangabad,,
-Bangalore,,India,IND,,,,,,Bangalore (IN),IND_BLR
-Bareilly,,India,IND,Bareilly,IND065,India,,Bareilly,,
-Belgaum,,India,IND,Belgaum,IND025,India,,Belgaum,,
-Bengaluru,,India,IND,Bengaluru,IND024,India,,Bengaluru,,
-Bhavnagar,,India,IND,Bhavnagar,IND013,India,,Bhavnagar,,
-Bhilai Nagar,,India,IND,Bhilai Nagar,IND009,India,,Bhilai Nagar,,
-Bhopal,,India,IND,Bhopal,IND033,India,,Bhopal,,
-Bhubaneswar,,India,IND,Bhubaneswar,IND046,India,,Bhubaneswar,,
-Bikaner,,India,IND,Bikaner,IND052,India,,Bikaner,,
-Bokaro,,India,IND,Bokaro,IND020,India,,Bokaro,,
-Chandigarh,,India,IND,Chandigarh,IND008,India,,Chandigarh,,
-Chennai,,India,IND,Chennai,IND056,India,,Chennai,Chennai (IN),IND_MAA
-Coimbatore,,India,IND,Coimbatore,IND057,India,,Coimbatore,,
-Cuttack,,India,IND,Cuttack,IND047,India,,Cuttack,,
-Delhi,,India,IND,Delhi,IND011,India,,Delhi,Delhi (IN),IND_DEL
-Dhanbad,,India,IND,Dhanbad,IND021,India,,Dhanbad,,
-Faridabad,,India,IND,Faridabad,IND017,India,,Faridabad,,
-Ghaziabad,,India,IND,Ghaziabad,IND066,India,,Ghaziabad,,
-Gorakhpur,,India,IND,Gorakhpur,IND067,India,,Gorakhpur,,
-Guntur,,India,IND,Guntur,IND001,India,,Guntur,,
-Guwahati,,India,IND,Guwahati,IND006,India,,Guwahati,,
-Gwalior,,India,IND,Gwalior,IND034,India,,Gwalior,,
-Hubli-Dharwad,,India,IND,Hubli-Dharwad,IND026,India,,Hubli-Dharwad,,
-Hyderabad (India),,India,IND,Hyderabad (India),IND002,India,,Hyderabad (India),Hyderabad (IN),IND_HYD
-Indore,,India,IND,Indore,IND035,India,,Indore,,
-Jabalpur,,India,IND,Jabalpur,IND036,India,,Jabalpur,,
-Jaipur,,India,IND,Jaipur,IND053,India,,Jaipur,,
-Jakarta,,India,IND,,,,,,Jakarta (ID),IDN_JKT
-Jalandhar,,India,IND,Jalandhar,IND050,India,,Jalandhar,,
-Jammu,,India,IND,Jammu,IND018,India,,Jammu,,
-Jamshedpur,,India,IND,Jamshedpur,IND022,India,,Jamshedpur,,
-Jodhpur,,India,IND,Jodhpur,IND054,India,,Jodhpur,,
-Kannur,,India,IND,Kannur,IND029,India,,Kannur,,
-Kanpur,,India,IND,Kanpur,IND068,India,,Kanpur,,
-Kochi,,India,IND,Kochi,IND030,India,,Kochi,,
-Kolkata,,India,IND,Kolkata,IND075,India,,Kolkata,Kolkata (IN),IND_CCU
-Kota,,India,IND,Kota,IND055,India,,Kota,,
-Kozhikode,,India,IND,Kozhikode,IND031,India,,Kozhikode,,
-Lucknow,,India,IND,Lucknow,IND069,India,,Lucknow,,
-Ludhiana,,India,IND,Ludhiana,IND051,India,,Ludhiana,,
-Madurai,,India,IND,Madurai,IND058,India,,Madurai,,
-Mangalore,,India,IND,Mangalore,IND027,India,,Mangalore,,
-Meerut,,India,IND,Meerut,IND070,India,,Meerut,,
-Moradabad,,India,IND,Moradabad,IND071,India,,Moradabad,,
-Mumbai,,India,IND,Mumbai,IND039,India,,Mumbai,Mumbai (IN),IND_BOM
-Mysore,,India,IND,Mysore,IND028,India,,Mysore,,
-Nagpur,,India,IND,Nagpur,IND040,India,,Nagpur,,
-Nashik,,India,IND,Nashik,IND041,India,,Nashik,,
-Patna,,India,IND,Patna,IND007,India,,Patna,,
-Pondicherry,,India,IND,Pondicherry,IND048,India,,Pondicherry,,
-Pune,,India,IND,Pune,IND043,India,,Pune,Pune (IN),IND_PNQ
-Raipur,,India,IND,Raipur,IND010,India,,Raipur,,
-Rajkot,,India,IND,Rajkot,IND014,India,,Rajkot,,
-Ranchi,,India,IND,Ranchi,IND023,India,,Ranchi,,
-Salem,,India,IND,Salem,IND059,India,,Salem,,
-Solapur,,India,IND,Solapur,IND044,India,,Solapur,,
-Srinagar,,India,IND,Srinagar,IND019,India,,Srinagar,,
-Surat,,India,IND,Surat,IND015,India,,Surat,Surat (IN),IND_STV
-Thiruvananthapuram,,India,IND,Thiruvananthapuram,IND032,India,,Thiruvananthapuram,,
-Tiruchirappalli,,India,IND,Tiruchirappalli,IND060,India,,Tiruchirappalli,,
-Tiruppur,,India,IND,Tiruppur,IND061,India,,Tiruppur,,
-Vadodara,,India,IND,Vadodara,IND016,India,,Vadodara,,
-Varanasi,,India,IND,Varanasi,IND072,India,,Varanasi,,
-Vijayawada,,India,IND,Vijayawada,IND003,India,,Vijayawada,,
-Visakhapatnam,,India,IND,Visakhapatnam,IND004,India,,Visakhapatnam,,
-Warangal,,India,IND,Warangal,IND005,India,,Warangal,,
-Bandar Lampung,,Indonesia,IDN,Bandar Lampung,IDNAC,Indonesia,,,,
-Bandjarmasin,,Indonesia,IDN,Bandjarmasin,IDNKC,Indonesia,,,,
-Bandung,,Indonesia,IDN,Bandung,IDNCC,Indonesia,,,,
-Denpasar,,Indonesia,IDN,Denpasar,IDNHC,Indonesia,,,Denpasar (ID),IDN_DPS
-Jakarta,,Indonesia,IDN,Jakarta,IDNBC,Indonesia,,,,
-Jambi,,Indonesia,IDN,Jambi,IDN6C,Indonesia,,Jambi,,
-Makassar,,Indonesia,IDN,Makassar,IDNOQC,Indonesia,,,,
-Medan,,Indonesia,IDN,Medan,IDN2C,Indonesia,,Medan,Medan (ID),IDN_MES
-Padang,,Indonesia,IDN,Padang,IDN3C,Indonesia,,Padang,,
-Palembang,,Indonesia,IDN,Palembang,IDN7C,Indonesia,,Palembang,,
-Pekan Baru,,Indonesia,IDN,Pekan Baru,IDN45C,Indonesia,,Pekan Baru,,
-Pontianak,,Indonesia,IDN,Pontianak,IDNIC,Indonesia,,,,
-Samarinda,,Indonesia,IDN,Samarinda,IDNLC,Indonesia,,,,
-Semarang,,Indonesia,IDN,Semarang,IDNEC,Indonesia,,,,
-Surabaya,,Indonesia,IDN,Surabaya,IDNGC,Indonesia,,,Surabaya (ID),IDN_SUB
-Yogyakarta,,Indonesia,IDN,Yogyakarta,IDNFC,Indonesia,,,,
-Ahvaz,,Iran,IRN,Ahvaz,IRN001,Iran,,Ahvaz,,
-Esfahan,,Iran,IRN,Esfahan,IRN002,Iran,,Esfahan,,
-Kerman,,Iran,IRN,Kerman,IRN004,Iran,,Kerman,,
-Kermanshah,,Iran,IRN,Kermanshah,IRN005,Iran,,Kermanshah,,
-Mashhad,,Iran,IRN,Mashhad,IRN006,Iran,,Mashhad,,
-Orumiyeh,,Iran,IRN,Orumiyeh,IRN007,Iran,,Orumiyeh,,
-Qom,,Iran,IRN,Qom,IRN008,Iran,,Qom,,
-Rasht,,Iran,IRN,Rasht,IRN009,Iran,,Rasht,,
-Shiraz,,Iran,IRN,Shiraz,IRN010,Iran,,Shiraz,,
-Tabriz,,Iran,IRN,Tabriz,IRN011,Iran,,Tabriz,,
-Tehran,,Iran,IRN,Tehran,IRN012,Iran,,Tehran,Tehran (IR),IRN_THR
-Zahedan,,Iran,IRN,Zahedan,IRN013,Iran,,Zahedan,,
-Baghdad,,Iraq,IRQ,Baghdad,IRQ003,Iraq,,Baghdad,Baghdad (IQ),IRQ_BGW
+Reykjavik,NA,Iceland,ISL,Reykjavik,ISL001,Iceland,NA,Reykjavik,NA,NA
+Agra,NA,India,IND,Agra,IND062,India,NA,Agra,Agra (IN),IND_AGR
+Ahmedabad,NA,India,IND,Ahmedabad,IND012,India,NA,Ahmedabad,Ahmadabad (IN),IND_ADC
+Aligarh,NA,India,IND,Aligarh,IND063,India,NA,Aligarh,NA,NA
+Allahabad,NA,India,IND,Allahabad,IND064,India,NA,Allahabad,NA,NA
+Amravati,NA,India,IND,Amravati,IND037,India,NA,Amravati,NA,NA
+Amritsar,NA,India,IND,Amritsar,IND049,India,NA,Amritsar,NA,NA
+Asansol,NA,India,IND,Asansol,IND073,India,NA,Asansol,NA,NA
+Aurangabad,NA,India,IND,Aurangabad,IND038,India,NA,Aurangabad,NA,NA
+Bangalore,NA,India,IND,NA,NA,NA,NA,Bangalore,Bangalore (IN),IND_BLR
+Bareilly,NA,India,IND,Bareilly,IND065,India,NA,Bareilly,NA,NA
+Belgaum,NA,India,IND,Belgaum,IND025,India,NA,Belgaum,NA,NA
+Bengaluru,NA,India,IND,Bengaluru,IND024,India,NA,Bengaluru,NA,NA
+Bhavnagar,NA,India,IND,Bhavnagar,IND013,India,NA,Bhavnagar,NA,NA
+Bhilai Nagar,NA,India,IND,Bhilai Nagar,IND009,India,NA,Bhilai Nagar,NA,NA
+Bhopal,NA,India,IND,Bhopal,IND033,India,NA,Bhopal,NA,NA
+Bhubaneswar,NA,India,IND,Bhubaneswar,IND046,India,NA,Bhubaneswar,NA,NA
+Bikaner,NA,India,IND,Bikaner,IND052,India,NA,Bikaner,NA,NA
+Bokaro,NA,India,IND,Bokaro,IND020,India,NA,Bokaro,NA,NA
+Chandigarh,NA,India,IND,Chandigarh,IND008,India,NA,Chandigarh,NA,NA
+Chennai,NA,India,IND,Chennai,IND056,India,NA,Chennai,Chennai (IN),IND_MAA
+Coimbatore,NA,India,IND,Coimbatore,IND057,India,NA,Coimbatore,NA,NA
+Cuttack,NA,India,IND,Cuttack,IND047,India,NA,Cuttack,NA,NA
+Delhi,NA,India,IND,Delhi,IND011,India,NA,Delhi,Delhi (IN),IND_DEL
+Dhanbad,NA,India,IND,Dhanbad,IND021,India,NA,Dhanbad,NA,NA
+Faridabad,NA,India,IND,Faridabad,IND017,India,NA,Faridabad,NA,NA
+Ghaziabad,NA,India,IND,Ghaziabad,IND066,India,NA,Ghaziabad,NA,NA
+Gorakhpur,NA,India,IND,Gorakhpur,IND067,India,NA,Gorakhpur,NA,NA
+Guntur,NA,India,IND,Guntur,IND001,India,NA,Guntur,NA,NA
+Guwahati,NA,India,IND,Guwahati,IND006,India,NA,Guwahati,NA,NA
+Gwalior,NA,India,IND,Gwalior,IND034,India,NA,Gwalior,NA,NA
+Hubli-Dharwad,NA,India,IND,Hubli-Dharwad,IND026,India,NA,Hubli-Dharwad,NA,NA
+Hyderabad (India),NA,India,IND,Hyderabad (India),IND002,India,NA,Hyderabad (India),Hyderabad (IN),IND_HYD
+Indore,NA,India,IND,Indore,IND035,India,NA,Indore,NA,NA
+Jabalpur,NA,India,IND,Jabalpur,IND036,India,NA,Jabalpur,NA,NA
+Jaipur,NA,India,IND,Jaipur,IND053,India,NA,Jaipur,NA,NA
+Jakarta,NA,India,IND,NA,NA,NA,NA,Jakarta,Jakarta (ID),IDN_JKT
+Jalandhar,NA,India,IND,Jalandhar,IND050,India,NA,Jalandhar,NA,NA
+Jammu,NA,India,IND,Jammu,IND018,India,NA,Jammu,NA,NA
+Jamshedpur,NA,India,IND,Jamshedpur,IND022,India,NA,Jamshedpur,NA,NA
+Jodhpur,NA,India,IND,Jodhpur,IND054,India,NA,Jodhpur,NA,NA
+Kannur,NA,India,IND,Kannur,IND029,India,NA,Kannur,NA,NA
+Kanpur,NA,India,IND,Kanpur,IND068,India,NA,Kanpur,NA,NA
+Kochi,NA,India,IND,Kochi,IND030,India,NA,Kochi,NA,NA
+Kolkata,NA,India,IND,Kolkata,IND075,India,NA,Kolkata,Kolkata (IN),IND_CCU
+Kota,NA,India,IND,Kota,IND055,India,NA,Kota,NA,NA
+Kozhikode,NA,India,IND,Kozhikode,IND031,India,NA,Kozhikode,NA,NA
+Lucknow,NA,India,IND,Lucknow,IND069,India,NA,Lucknow,NA,NA
+Ludhiana,NA,India,IND,Ludhiana,IND051,India,NA,Ludhiana,NA,NA
+Madurai,NA,India,IND,Madurai,IND058,India,NA,Madurai,NA,NA
+Mangalore,NA,India,IND,Mangalore,IND027,India,NA,Mangalore,NA,NA
+Meerut,NA,India,IND,Meerut,IND070,India,NA,Meerut,NA,NA
+Moradabad,NA,India,IND,Moradabad,IND071,India,NA,Moradabad,NA,NA
+Mumbai,NA,India,IND,Mumbai,IND039,India,NA,Mumbai,Mumbai (IN),IND_BOM
+Mysore,NA,India,IND,Mysore,IND028,India,NA,Mysore,NA,NA
+Nagpur,NA,India,IND,Nagpur,IND040,India,NA,Nagpur,NA,NA
+Nashik,NA,India,IND,Nashik,IND041,India,NA,Nashik,NA,NA
+Patna,NA,India,IND,Patna,IND007,India,NA,Patna,NA,NA
+Pondicherry,NA,India,IND,Pondicherry,IND048,India,NA,Pondicherry,NA,NA
+Pune,NA,India,IND,Pune,IND043,India,NA,Pune,Pune (IN),IND_PNQ
+Raipur,NA,India,IND,Raipur,IND010,India,NA,Raipur,NA,NA
+Rajkot,NA,India,IND,Rajkot,IND014,India,NA,Rajkot,NA,NA
+Ranchi,NA,India,IND,Ranchi,IND023,India,NA,Ranchi,NA,NA
+Salem,NA,India,IND,Salem,IND059,India,NA,Salem,NA,NA
+Solapur,NA,India,IND,Solapur,IND044,India,NA,Solapur,NA,NA
+Srinagar,NA,India,IND,Srinagar,IND019,India,NA,Srinagar,NA,NA
+Surat,NA,India,IND,Surat,IND015,India,NA,Surat,Surat (IN),IND_STV
+Thiruvananthapuram,NA,India,IND,Thiruvananthapuram,IND032,India,NA,Thiruvananthapuram,NA,NA
+Tiruchirappalli,NA,India,IND,Tiruchirappalli,IND060,India,NA,Tiruchirappalli,NA,NA
+Tiruppur,NA,India,IND,Tiruppur,IND061,India,NA,Tiruppur,NA,NA
+Vadodara,NA,India,IND,Vadodara,IND016,India,NA,Vadodara,NA,NA
+Varanasi,NA,India,IND,Varanasi,IND072,India,NA,Varanasi,NA,NA
+Vijayawada,NA,India,IND,Vijayawada,IND003,India,NA,Vijayawada,NA,NA
+Visakhapatnam,NA,India,IND,Visakhapatnam,IND004,India,NA,Visakhapatnam,NA,NA
+Warangal,NA,India,IND,Warangal,IND005,India,NA,Warangal,NA,NA
+Bandar Lampung,NA,Indonesia,IDN,Bandar Lampung,IDNAC,Indonesia,NA,Bandar Lampung,NA,NA
+Bandjarmasin,NA,Indonesia,IDN,Bandjarmasin,IDNKC,Indonesia,NA,Bandjarmasin,NA,NA
+Bandung,NA,Indonesia,IDN,Bandung,IDNCC,Indonesia,NA,Bandung,NA,NA
+Denpasar,NA,Indonesia,IDN,Denpasar,IDNHC,Indonesia,NA,Denpasar,Denpasar (ID),IDN_DPS
+Jakarta,NA,Indonesia,IDN,Jakarta,IDNBC,Indonesia,NA,Jakarta,NA,NA
+Jambi,NA,Indonesia,IDN,Jambi,IDN6C,Indonesia,NA,Jambi,NA,NA
+Makassar,NA,Indonesia,IDN,Makassar,IDNOQC,Indonesia,NA,Makassar,NA,NA
+Medan,NA,Indonesia,IDN,Medan,IDN2C,Indonesia,NA,Medan,Medan (ID),IDN_MES
+Padang,NA,Indonesia,IDN,Padang,IDN3C,Indonesia,NA,Padang,NA,NA
+Palembang,NA,Indonesia,IDN,Palembang,IDN7C,Indonesia,NA,Palembang,NA,NA
+Pekan Baru,NA,Indonesia,IDN,Pekan Baru,IDN45C,Indonesia,NA,Pekan Baru,NA,NA
+Pontianak,NA,Indonesia,IDN,Pontianak,IDNIC,Indonesia,NA,Pontianak,NA,NA
+Samarinda,NA,Indonesia,IDN,Samarinda,IDNLC,Indonesia,NA,Samarinda,NA,NA
+Semarang,NA,Indonesia,IDN,Semarang,IDNEC,Indonesia,NA,Semarang,NA,NA
+Surabaya,NA,Indonesia,IDN,Surabaya,IDNGC,Indonesia,NA,Surabaya,Surabaya (ID),IDN_SUB
+Yogyakarta,NA,Indonesia,IDN,Yogyakarta,IDNFC,Indonesia,NA,Yogyakarta,NA,NA
+Ahvaz,NA,Iran,IRN,Ahvaz,IRN001,Iran,NA,Ahvaz,NA,NA
+Esfahan,NA,Iran,IRN,Esfahan,IRN002,Iran,NA,Esfahan,NA,NA
+Kerman,NA,Iran,IRN,Kerman,IRN004,Iran,NA,Kerman,NA,NA
+Kermanshah,NA,Iran,IRN,Kermanshah,IRN005,Iran,NA,Kermanshah,NA,NA
+Mashhad,NA,Iran,IRN,Mashhad,IRN006,Iran,NA,Mashhad,NA,NA
+Orumiyeh,NA,Iran,IRN,Orumiyeh,IRN007,Iran,NA,Orumiyeh,NA,NA
+Qom,NA,Iran,IRN,Qom,IRN008,Iran,NA,Qom,NA,NA
+Rasht,NA,Iran,IRN,Rasht,IRN009,Iran,NA,Rasht,NA,NA
+Shiraz,NA,Iran,IRN,Shiraz,IRN010,Iran,NA,Shiraz,NA,NA
+Tabriz,NA,Iran,IRN,Tabriz,IRN011,Iran,NA,Tabriz,NA,NA
+Tehran,NA,Iran,IRN,Tehran,IRN012,Iran,NA,Tehran,Tehran (IR),IRN_THR
+Zahedan,NA,Iran,IRN,Zahedan,IRN013,Iran,NA,Zahedan,NA,NA
+Baghdad,NA,Iraq,IRQ,Baghdad,IRQ003,Iraq,NA,Baghdad,Baghdad (IQ),IRQ_BGW
 Dublin,dubln,Ireland,IRL,Dublin - Metro,IE_01,Ireland,Dublin,Dublin,Dublin (IE),IRL_DUB
-Haifa,,Israel,ISR,Haifa,ISR001,Israel,,Haifa,,
-Jerusalem,,Israel,ISR,Jerusalem,ISR002,Israel,,Jerusalem,,
-Tel Aviv,,Israel,ISR,Tel Aviv,ISR003,Israel,,Tel Aviv,Tel Aviv (IL),ISR_TLV
-Bergamo,,Italy,ITA,Bergamo - Metro,IT_06,Italy,,Bergamo,Bergamo (IT),ITA_BGO
-Bologna,,Italy,ITA,Bologna - Metro,IT_08,Italy,,Bologna,,
-Florence,,Italy,ITA,,,,,,Florence (IT),ITA_FLR
-Genova,,Italy,ITA,Genova - Metro,IT_07,Italy,,Genova,Genova (IT),ITA_GOA
+Haifa,NA,Israel,ISR,Haifa,ISR001,Israel,NA,Haifa,NA,NA
+Jerusalem,NA,Israel,ISR,Jerusalem,ISR002,Israel,NA,Jerusalem,NA,NA
+Tel Aviv,NA,Israel,ISR,Tel Aviv,ISR003,Israel,NA,Tel Aviv,Tel Aviv (IL),ISR_TLV
+Bergamo,NA,Italy,ITA,Bergamo - Metro,IT_06,Italy,NA,Bergamo,Bergamo (IT),ITA_BGO
+Bologna,NA,Italy,ITA,Bologna - Metro,IT_08,Italy,NA,Bologna,NA,NA
+Florence,NA,Italy,ITA,NA,NA,NA,NA,Florence,Florence (IT),ITA_FLR
+Genova,NA,Italy,ITA,Genova - Metro,IT_07,Italy,NA,Genova,Genova (IT),ITA_GOA
 Milan,milan,Italy,ITA,Milan - Metro,IT_02,Italy,Milan,Milan,Milan (IT),ITA_MIL
-Naples,,Italy,ITA,Naples - Metro,IT_03,Italy,,Naples,Naples (IT),ITA_NAP
-Palermo,,Italy,ITA,Palermo - Metro,IT_05,Italy,,Palermo,Palermo (IT),ITA_PMO
+Naples,NA,Italy,ITA,Naples - Metro,IT_03,Italy,NA,Naples,Naples (IT),ITA_NAP
+Palermo,NA,Italy,ITA,Palermo - Metro,IT_05,Italy,NA,Palermo,Palermo (IT),ITA_PMO
 Rome,romex,Italy,ITA,Rome - Metro,IT_01,Italy,Rome,Rome,Rome (IT),ITA_ROM
-Turin,,Italy,ITA,Turin - Metro,IT_04,Italy,,Turin,Turin (IT),ITA_TRN
-Venice,,Italy,ITA,,,,,,Venice (IT),ITA_VCE
-Kingston,,Jamaica,JAM,Kingston,JAM001,Jamaica,,Kingston,,
-Aichi,,Japan,JPN,,,,,,Aichi (JP),JPN_NGO
-Ehime,,Japan,JPN,,,,,,Ehime (JP),JPN_MYJ
-Fukuoka-Kitakyushu MMA,,Japan,JPN,Fukuoka-Kitakyushu MMA,JPN_04,Japan,,Fukuoka-Kitakyushu MMA,Fukuoka (JP),JPN_FUK
-Hiroshima MMA,,Japan,JPN,Hiroshima MMA,JPN_07,Japan,,Hiroshima MMA,Hiroshima (JP),JPN_HIJ
-Hokkaido,,Japan,JPN,,,,,,Hokkaido (JP),JPN_SPK
-Kagoshima MA,,Japan,JPN,Kagoshima MA,JPN_12,Japan,,Kagoshima MA,Kagoshima (JP),JPN_KOJ
-Kumamoto MA,,Japan,JPN,Kumamoto MA,JPN_11,Japan,,Kumamoto MA,Kumamoto (JP),JPN_KMJ
-Matsuyama,,Japan,JPN,Matsuyama,JPN_13,Japan,,Matsuyama,,
-Miyagi,,Japan,JPN,,,,,,Miyagi (JP),JPN_SDJ
-Nagoya (Chukyo MMA),,Japan,JPN,Nagoya (Chukyo MMA),JPN_03,Japan,,Nagoya (Chukyo MMA),,
-Niigata MA,,Japan,JPN,Niigata MA,JPN_10,Japan,,Niigata MA,Niigata (JP),JPN_KIJ
-Okayama MA,,Japan,JPN,Okayama MA,JPN_08,Japan,,Okayama MA,Okayama (JP),JPN_OKJ
-Osaka-Kyoto (Keihanshin MMA),,Japan,JPN,Osaka-Kyoto (Keihanshin MMA),JPN_02,Japan,,Osaka-Kyoto (Keihanshin MMA),Osaka (JP),JPN_OSA
-Sapporo MMA,,Japan,JPN,Sapporo MMA,JPN_06,Japan,,Sapporo MMA,,
-Sendai MMA,,Japan,JPN,Sendai MMA,JPN_05,Japan,,Sendai MMA,,
-Shizuoka MMA,,Japan,JPN,Shizuoka MMA,JPN_09,Japan,,Shizuoka MMA,Shizuoka (JP),JPN_SHO
+Turin,NA,Italy,ITA,Turin - Metro,IT_04,Italy,NA,Turin,Turin (IT),ITA_TRN
+Venice,NA,Italy,ITA,NA,NA,NA,NA,Venice,Venice (IT),ITA_VCE
+Kingston,NA,Jamaica,JAM,Kingston,JAM001,Jamaica,NA,Kingston,NA,NA
+Aichi,NA,Japan,JPN,NA,NA,NA,NA,Aichi,Aichi (JP),JPN_NGO
+Ehime,NA,Japan,JPN,NA,NA,NA,NA,Ehime,Ehime (JP),JPN_MYJ
+Fukuoka-Kitakyushu MMA,NA,Japan,JPN,Fukuoka-Kitakyushu MMA,JPN_04,Japan,NA,Fukuoka-Kitakyushu MMA,Fukuoka (JP),JPN_FUK
+Hiroshima MMA,NA,Japan,JPN,Hiroshima MMA,JPN_07,Japan,NA,Hiroshima MMA,Hiroshima (JP),JPN_HIJ
+Hokkaido,NA,Japan,JPN,NA,NA,NA,NA,Hokkaido,Hokkaido (JP),JPN_SPK
+Kagoshima MA,NA,Japan,JPN,Kagoshima MA,JPN_12,Japan,NA,Kagoshima MA,Kagoshima (JP),JPN_KOJ
+Kumamoto MA,NA,Japan,JPN,Kumamoto MA,JPN_11,Japan,NA,Kumamoto MA,Kumamoto (JP),JPN_KMJ
+Matsuyama,NA,Japan,JPN,Matsuyama,JPN_13,Japan,NA,Matsuyama,NA,NA
+Miyagi,NA,Japan,JPN,NA,NA,NA,NA,Miyagi,Miyagi (JP),JPN_SDJ
+Nagoya (Chukyo MMA),NA,Japan,JPN,Nagoya (Chukyo MMA),JPN_03,Japan,NA,Nagoya (Chukyo MMA),NA,NA
+Niigata MA,NA,Japan,JPN,Niigata MA,JPN_10,Japan,NA,Niigata MA,Niigata (JP),JPN_KIJ
+Okayama MA,NA,Japan,JPN,Okayama MA,JPN_08,Japan,NA,Okayama MA,Okayama (JP),JPN_OKJ
+Osaka-Kyoto (Keihanshin MMA),NA,Japan,JPN,Osaka-Kyoto (Keihanshin MMA),JPN_02,Japan,NA,Osaka-Kyoto (Keihanshin MMA),Osaka (JP),JPN_OSA
+Sapporo MMA,NA,Japan,JPN,Sapporo MMA,JPN_06,Japan,NA,Sapporo MMA,NA,NA
+Sendai MMA,NA,Japan,JPN,Sendai MMA,JPN_05,Japan,NA,Sendai MMA,NA,NA
+Shizuoka MMA,NA,Japan,JPN,Shizuoka MMA,JPN_09,Japan,NA,Shizuoka MMA,Shizuoka (JP),JPN_SHO
 Tokyo,tokyo,Japan,JPN,Tokyo (Kanto MMA),JPN_01,Japan,Tokyo,Tokyo,Tokyo (JP),JPN_TYO
-Amman,,Jordan,JOR,Amman,JOR001,Jordan,,Amman,Amman (JO),JOR_AMM
-Almaty,,Kazakhstan,KAZ,Almaty,KAZ001,Kazakhstan,,Almaty,Almaty (KZ),KAZ_ALA
-Astana,,Kazakhstan,KAZ,Astana,KAZ002,Kazakhstan,,Astana,,
-Mombasa,,Kenya,KEN,Mombasa,KEN002,Kenya,,Mombasa,,
-Nairobi,,Kenya,KEN,Nairobi,KEN001,Kenya,,Nairobi,Nairobi (KE),KEN_NBO
-Kuwait City,,Kuwait,KWT,Kuwait City,KWT001,Kuwait,,Kuwait City,Kuwait City (KW),KWT_KWI
-Bishkek,,Kyrgyzstan,KGZ,Bishkek,KYR001,Kyrgyzstan,,Bishkek,,
-Vientiane,,Lao People's Democratic Republic,LAO,Vientiane,LAO001,Lao PDR,,Vientiane,,
-Riga,,Latvia,LVA,Riga - Metro,LV_01,Latvia,,Riga,Riga (LV),LVA_RIX
-Beirut,,Lebanon,LBN,Beirut,LBN001,Lebanon,,Beirut,Beirut (LB),LBN_BEY
-Maseru,,Lesotho,LSO,Maseru,LSO001,Lesotho,,Maseru,,
-Monrovia,,Liberia,LBR,Monrovia,LBR001,Liberia,,Monrovia,,
-Tripoli,,Libya,LBY,Tripoli,LBY001,Libya,,Tripoli,,
-Vilnius,,Lithuania,LTU,Vilnius - Metro,LT_01,Lithuania,,Vilnius,Vilnius (LT),LTU_VNO
-Luxembourg,,Luxembourg,LUX,Luxembourg,LU_01,Luxembourg,,Luxembourg,,
-Antananarivo,,Madagascar,MDG,Antananarivo,MDG001,Madagascar,,Antananarivo,,
-Blantyre City,,Malawi,MWI,Blantyre City,MWI002,Malawi,,Blantyre City,,
-Lilongwe,,Malawi,MWI,Lilongwe,MWI001,Malawi,,Lilongwe,,
-Georgetown (Malaysia),,Malaysia,MYS,Georgetown (Malaysia),MYS9C,Malaysia,,Georgetown,Georgetown (MY),MYS_PEN
-Ipoh,,Malaysia,MYS,Ipoh,MYS7C,Malaysia,,Ipoh,,
-Johor Bahru,,Malaysia,MYS,Johor Bahru,MYS1C,Malaysia,,Johor Bahru,,
-Kota Bharu,,Malaysia,MYS,Kota Bharu,MYS3C,Malaysia,,Kota Bharu,,
-Kota Kinabalu,,Malaysia,MYS,Kota Kinabalu,MYS10C,Malaysia,,Kota Kinabalu,,
-Kuala Lumpur,,Malaysia,MYS,Kuala Lumpur,MYS14C,Malaysia,,Kuala Lumpur,Kuala Lumpur (MY),MYS_KUL
-Kuala Muda,,Malaysia,MYS,Kuala Muda,MYS2C,Malaysia,,Kuala Muda,,
-Kuantan,,Malaysia,MYS,Kuantan,MYS6C,Malaysia,,Kuantan,,
-Kuching,,Malaysia,MYS,Kuching,MYS11C,Malaysia,,Kuching,,
-Malacca,,Malaysia,MYS,Malacca,MYS5C,Malaysia,,Malacca,Malacca (MY),MYS_MKZ
-Seremban,,Malaysia,MYS,Seremban,MYS4C,Malaysia,,Seremban,,
-Male,,Maldives,MDV,Male,MDV001,Maldives,,Male,,
-Bamako,,Mali,MLI,Bamako,MLI001,Mali,,Bamako,,
-Valletta,,Malta,MLT,Valletta,MLT001,Malta,,Valletta,,
-Nouakchott,,Mauritania,MRT,Nouakchott,MRT001,Mauritania,,Nouakchott,,
-Acapulco,,Mexico,MEX,Acapulco,MEXGC,Mexico,,,Acapulco (MX),MEX_ACA
-Aguascalientes,,Mexico,MEX,Aguascalientes,MEX8C,Mexico,,Aguascalientes,,
-Cancun,,Mexico,MEX,Cancún,MEXNC,Mexico,,,Cancún (MX),MEX_CUN
-Chihuahua,,Mexico,MEX,Chihuahua,MEXEC,Mexico,,,,
-Cuernavaca,,Mexico,MEX,Cuernavaca,MEXJC,Mexico,,,,
-Culiacán,,Mexico,MEX,Culiacán,MEXPC,Mexico,,,,
-Guadalajara,,Mexico,MEX,Guadalajara,MEX2C,Mexico,,Guadalajara,Guadalajara (MX),MEX_GDL
-Hermosillo,,Mexico,MEX,Hermosillo,MEXQC,Mexico,,,,
-Juárez,,Mexico,MEX,Juárez,MEXEC2,Mexico,,Juárez,,
-León,,Mexico,MEX,León,MEX7C,Mexico,,León,,
-Matamoros,,Mexico,MEX,Matamoros,MEXSC3,Mexico,,Matamoros,,
-Mérida,,Mexico,MEX,Mérida,MEXVC,Mexico,,,,
-Mexicali,,Mexico,MEX,Mexicali,MEX5C2,Mexico,,Mexicali,,
-Mexico City,,Mexico,MEX,Mexico City,MEX1C,Mexico,,Mexico City,Mexico City (MX),MEX_MEX
-Monterrey,,Mexico,MEX,Monterrey,MEX3C,Mexico,,Monterrey,Monterrey (MX),MEX_TTE
-Morelia,,Mexico,MEX,Morelia,MEXIC,Mexico,,,,
-Oaxaca,,Mexico,MEX,Oaxaca,MEXLC,Mexico,,,,
-Puebla,,Mexico,MEX,Puebla,MEX6C,Mexico,,Puebla,,
-Querétaro,,Mexico,MEX,Querétaro,MEXMC,Mexico,,,,
-Reynosa,,Mexico,MEX,Reynosa,MEXSC2,Mexico,,Reynosa,,
-Saltillo,,Mexico,MEX,Saltillo,MEXBC,Mexico,,,,
-San Luis Potosí,,Mexico,MEX,San Luis Potosí,MEXOC,Mexico,,,,
-Tampico,,Mexico,MEX,Tampico,MEXSC,Mexico,,,,
-Tijuana,,Mexico,MEX,Tijuana,MEX5C,Mexico,,Tijuana,Tijuana (MX),MEX_TIJ
-Toluca,,Mexico,MEX,Toluca,MEX4C,Mexico,,Toluca,,
-Tuxtla Gutiérrez,,Mexico,MEX,Tuxtla Gutiérrez,MEXDC,Mexico,,,,
-Veracruz,,Mexico,MEX,Veracruz,MEXUC,Mexico,,,,
-Xalapa,,Mexico,MEX,Xalapa,MEXUC2,Mexico,,Xalapa,,
-Chișinău,,Moldova,MDA,Chi?in?u,MDA001,Moldova,,Chișinău,,
-Ulaanbaatar,,Mongolia,MNG,Ulaanbaatar,MON001,Mongolia,,Ulaanbaatar,,
-Podgorica,,Montenegro,MNE,Podgorica,MNE001,Montenegro,,Podgorica,,
-Agadir,,Morocco,MAR,Agadir,MAR006,Morocco,,Agadir,,
-Casablanca,,Morocco,MAR,Casablanca,MAR001,Morocco,,Casablanca,Casablanca (MA),MAR_CAS
-Fès,,Morocco,MAR,Fès,MAR003,Morocco,,Fès,,
-Marrakech,,Morocco,MAR,Marrakech,MAR004,Morocco,,Marrakech,Marrakech (MA),MAR_RAK
-Meknès,,Morocco,MAR,Meknès,MAR007,Morocco,,Meknès,,
-Rabat,,Morocco,MAR,Rabat,MAR002,Morocco,,Rabat,,
-Tanger,,Morocco,MAR,Tanger,MAR005,Morocco,,Tanger,,
-Beira,,Mozambique,MOZ,Beira,MOZ002,Mozambique,,Beira,,
-Maputo,,Mozambique,MOZ,Maputo,MOZ001,Mozambique,,Maputo,,
-Mandalay,,Myanmar,MMR,Mandalay,MMR001,Myanmar,,Mandalay,,
-Nay Pyi Taw,,Myanmar,MMR,Nay Pyi Taw,MMR002,Myanmar,,Nay Pyi Taw,,
-Yangon,,Myanmar,MMR,Yangon,MMR003,Myanmar,,Yangon,Yangon (MM),MMR_RGN
-Windhoek,,Namibia,NAM,Windhoek,NAM001,Namibia,,Windhoek,,
-Kathmandu,,Nepal,NPL,Kathmandu,NPL001,Nepal,,Kathmandu,Kathmandu (NP),NPL_KTM
+Amman,NA,Jordan,JOR,Amman,JOR001,Jordan,NA,Amman,Amman (JO),JOR_AMM
+Almaty,NA,Kazakhstan,KAZ,Almaty,KAZ001,Kazakhstan,NA,Almaty,Almaty (KZ),KAZ_ALA
+Astana,NA,Kazakhstan,KAZ,Astana,KAZ002,Kazakhstan,NA,Astana,NA,NA
+Mombasa,NA,Kenya,KEN,Mombasa,KEN002,Kenya,NA,Mombasa,NA,NA
+Nairobi,NA,Kenya,KEN,Nairobi,KEN001,Kenya,NA,Nairobi,Nairobi (KE),KEN_NBO
+Kuwait City,NA,Kuwait,KWT,Kuwait City,KWT001,Kuwait,NA,Kuwait City,Kuwait City (KW),KWT_KWI
+Bishkek,NA,Kyrgyzstan,KGZ,Bishkek,KYR001,Kyrgyzstan,NA,Bishkek,NA,NA
+Vientiane,NA,Lao People's Democratic Republic,LAO,Vientiane,LAO001,Lao PDR,NA,Vientiane,NA,NA
+Riga,NA,Latvia,LVA,Riga - Metro,LV_01,Latvia,NA,Riga,Riga (LV),LVA_RIX
+Beirut,NA,Lebanon,LBN,Beirut,LBN001,Lebanon,NA,Beirut,Beirut (LB),LBN_BEY
+Maseru,NA,Lesotho,LSO,Maseru,LSO001,Lesotho,NA,Maseru,NA,NA
+Monrovia,NA,Liberia,LBR,Monrovia,LBR001,Liberia,NA,Monrovia,NA,NA
+Tripoli,NA,Libya,LBY,Tripoli,LBY001,Libya,NA,Tripoli,NA,NA
+Vilnius,NA,Lithuania,LTU,Vilnius - Metro,LT_01,Lithuania,NA,Vilnius,Vilnius (LT),LTU_VNO
+Luxembourg,NA,Luxembourg,LUX,Luxembourg,LU_01,Luxembourg,NA,Luxembourg,NA,NA
+Antananarivo,NA,Madagascar,MDG,Antananarivo,MDG001,Madagascar,NA,Antananarivo,NA,NA
+Blantyre City,NA,Malawi,MWI,Blantyre City,MWI002,Malawi,NA,Blantyre City,NA,NA
+Lilongwe,NA,Malawi,MWI,Lilongwe,MWI001,Malawi,NA,Lilongwe,NA,NA
+Georgetown (Malaysia),NA,Malaysia,MYS,Georgetown (Malaysia),MYS9C,Malaysia,NA,Georgetown,Georgetown (MY),MYS_PEN
+Ipoh,NA,Malaysia,MYS,Ipoh,MYS7C,Malaysia,NA,Ipoh,NA,NA
+Johor Bahru,NA,Malaysia,MYS,Johor Bahru,MYS1C,Malaysia,NA,Johor Bahru,NA,NA
+Kota Bharu,NA,Malaysia,MYS,Kota Bharu,MYS3C,Malaysia,NA,Kota Bharu,NA,NA
+Kota Kinabalu,NA,Malaysia,MYS,Kota Kinabalu,MYS10C,Malaysia,NA,Kota Kinabalu,NA,NA
+Kuala Lumpur,NA,Malaysia,MYS,Kuala Lumpur,MYS14C,Malaysia,NA,Kuala Lumpur,Kuala Lumpur (MY),MYS_KUL
+Kuala Muda,NA,Malaysia,MYS,Kuala Muda,MYS2C,Malaysia,NA,Kuala Muda,NA,NA
+Kuantan,NA,Malaysia,MYS,Kuantan,MYS6C,Malaysia,NA,Kuantan,NA,NA
+Kuching,NA,Malaysia,MYS,Kuching,MYS11C,Malaysia,NA,Kuching,NA,NA
+Malacca,NA,Malaysia,MYS,Malacca,MYS5C,Malaysia,NA,Malacca,Malacca (MY),MYS_MKZ
+Seremban,NA,Malaysia,MYS,Seremban,MYS4C,Malaysia,NA,Seremban,NA,NA
+Male,NA,Maldives,MDV,Male,MDV001,Maldives,NA,Male,NA,NA
+Bamako,NA,Mali,MLI,Bamako,MLI001,Mali,NA,Bamako,NA,NA
+Valletta,NA,Malta,MLT,Valletta,MLT001,Malta,NA,Valletta,NA,NA
+Nouakchott,NA,Mauritania,MRT,Nouakchott,MRT001,Mauritania,NA,Nouakchott,NA,NA
+Acapulco,NA,Mexico,MEX,Acapulco,MEXGC,Mexico,NA,Acapulco,Acapulco (MX),MEX_ACA
+Aguascalientes,NA,Mexico,MEX,Aguascalientes,MEX8C,Mexico,NA,Aguascalientes,NA,NA
+Cancun,NA,Mexico,MEX,Cancún,MEXNC,Mexico,NA,Cancun,Cancún (MX),MEX_CUN
+Chihuahua,NA,Mexico,MEX,Chihuahua,MEXEC,Mexico,NA,Chihuahua,NA,NA
+Cuernavaca,NA,Mexico,MEX,Cuernavaca,MEXJC,Mexico,NA,Cuernavaca,NA,NA
+Culiacán,NA,Mexico,MEX,Culiacán,MEXPC,Mexico,NA,Culiacán,NA,NA
+Guadalajara,NA,Mexico,MEX,Guadalajara,MEX2C,Mexico,NA,Guadalajara,Guadalajara (MX),MEX_GDL
+Hermosillo,NA,Mexico,MEX,Hermosillo,MEXQC,Mexico,NA,Hermosillo,NA,NA
+Juárez,NA,Mexico,MEX,Juárez,MEXEC2,Mexico,NA,Juárez,NA,NA
+León,NA,Mexico,MEX,León,MEX7C,Mexico,NA,León,NA,NA
+Matamoros,NA,Mexico,MEX,Matamoros,MEXSC3,Mexico,NA,Matamoros,NA,NA
+Mérida,NA,Mexico,MEX,Mérida,MEXVC,Mexico,NA,Mérida,NA,NA
+Mexicali,NA,Mexico,MEX,Mexicali,MEX5C2,Mexico,NA,Mexicali,NA,NA
+Mexico City,NA,Mexico,MEX,Mexico City,MEX1C,Mexico,NA,Mexico City,Mexico City (MX),MEX_MEX
+Monterrey,NA,Mexico,MEX,Monterrey,MEX3C,Mexico,NA,Monterrey,Monterrey (MX),MEX_TTE
+Morelia,NA,Mexico,MEX,Morelia,MEXIC,Mexico,NA,Morelia,NA,NA
+Oaxaca,NA,Mexico,MEX,Oaxaca,MEXLC,Mexico,NA,Oaxaca,NA,NA
+Puebla,NA,Mexico,MEX,Puebla,MEX6C,Mexico,NA,Puebla,NA,NA
+Querétaro,NA,Mexico,MEX,Querétaro,MEXMC,Mexico,NA,Querétaro,NA,NA
+Reynosa,NA,Mexico,MEX,Reynosa,MEXSC2,Mexico,NA,Reynosa,NA,NA
+Saltillo,NA,Mexico,MEX,Saltillo,MEXBC,Mexico,NA,Saltillo,NA,NA
+San Luis Potosí,NA,Mexico,MEX,San Luis Potosí,MEXOC,Mexico,NA,San Luis Potosí,NA,NA
+Tampico,NA,Mexico,MEX,Tampico,MEXSC,Mexico,NA,Tampico,NA,NA
+Tijuana,NA,Mexico,MEX,Tijuana,MEX5C,Mexico,NA,Tijuana,Tijuana (MX),MEX_TIJ
+Toluca,NA,Mexico,MEX,Toluca,MEX4C,Mexico,NA,Toluca,NA,NA
+Tuxtla Gutiérrez,NA,Mexico,MEX,Tuxtla Gutiérrez,MEXDC,Mexico,NA,Tuxtla Gutiérrez,NA,NA
+Veracruz,NA,Mexico,MEX,Veracruz,MEXUC,Mexico,NA,Veracruz,NA,NA
+Xalapa,NA,Mexico,MEX,Xalapa,MEXUC2,Mexico,NA,Xalapa,NA,NA
+Chișinău,NA,Moldova,MDA,Chi?in?u,MDA001,Moldova,NA,Chișinău,NA,NA
+Ulaanbaatar,NA,Mongolia,MNG,Ulaanbaatar,MON001,Mongolia,NA,Ulaanbaatar,NA,NA
+Podgorica,NA,Montenegro,MNE,Podgorica,MNE001,Montenegro,NA,Podgorica,NA,NA
+Agadir,NA,Morocco,MAR,Agadir,MAR006,Morocco,NA,Agadir,NA,NA
+Casablanca,NA,Morocco,MAR,Casablanca,MAR001,Morocco,NA,Casablanca,Casablanca (MA),MAR_CAS
+Fès,NA,Morocco,MAR,Fès,MAR003,Morocco,NA,Fès,NA,NA
+Marrakech,NA,Morocco,MAR,Marrakech,MAR004,Morocco,NA,Marrakech,Marrakech (MA),MAR_RAK
+Meknès,NA,Morocco,MAR,Meknès,MAR007,Morocco,NA,Meknès,NA,NA
+Rabat,NA,Morocco,MAR,Rabat,MAR002,Morocco,NA,Rabat,NA,NA
+Tanger,NA,Morocco,MAR,Tanger,MAR005,Morocco,NA,Tanger,NA,NA
+Beira,NA,Mozambique,MOZ,Beira,MOZ002,Mozambique,NA,Beira,NA,NA
+Maputo,NA,Mozambique,MOZ,Maputo,MOZ001,Mozambique,NA,Maputo,NA,NA
+Mandalay,NA,Myanmar,MMR,Mandalay,MMR001,Myanmar,NA,Mandalay,NA,NA
+Nay Pyi Taw,NA,Myanmar,MMR,Nay Pyi Taw,MMR002,Myanmar,NA,Nay Pyi Taw,NA,NA
+Yangon,NA,Myanmar,MMR,Yangon,MMR003,Myanmar,NA,Yangon,Yangon (MM),MMR_RGN
+Windhoek,NA,Namibia,NAM,Windhoek,NAM001,Namibia,NA,Windhoek,NA,NA
+Kathmandu,NA,Nepal,NPL,Kathmandu,NPL001,Nepal,NA,Kathmandu,Kathmandu (NP),NPL_KTM
 Amsterdam,amstr,Netherlands,NLD,Amsterdam - Metro,NL_01,Netherlands,Amsterdam,Amsterdam,Amsterdam (NL),NLD_AMS
-Rotterdam,,Netherlands,NLD,Rotterdam - Metro,NL_02,Netherlands,,Rotterdam,Rotterdam (NL),NLD_RTM
-The Hague,,Netherlands,NLD,The Hague - Metro,NL_03,Netherlands,,The Hague,The Hague (NL),NLD_HA9
-Utrecht,,Netherlands,NLD,Utrecht - Metro,NL_04,Netherlands,,Utrecht,,
-Auckland,,New Zealand,NZL,Auckland,NZL2,New Zealand,,Auckland,Auckland (NZ),NZL_AKL
-Christchurch,,New Zealand,NZL,Christchurch,NZL11,New Zealand,,Christchurch,Christchurch (NZ),NZL_CHC
-Wellington,,New Zealand,NZL,Wellington,NZL9,New Zealand,,Wellington,Wellington (NZ),NZL_WLG
-Managua,,Nicaragua,NIC,Managua,NIC001,Nicaragua,,Managua,,
-Niamey,,Niger,NER,Niamey,NER001,Niger,,Niamey,,
-Aba,,Nigeria,NGA,Aba,NGA010,Nigeria,,Aba,,
-Abeokuta,,Nigeria,NGA,Abeokuta,NGA015,Nigeria,,Abeokuta,,
-Abuja,,Nigeria,NGA,Abuja,NGA004,Nigeria,,Abuja,Abuja (NG),NGA_ABV
-Benin City,,Nigeria,NGA,Benin City,NGA007,Nigeria,,Benin City,,
-Enugu,,Nigeria,NGA,Enugu,NGA013,Nigeria,,Enugu,,
-Ibadan,,Nigeria,NGA,Ibadan,NGA003,Nigeria,,Ibadan,,
-Ilorin,,Nigeria,NGA,Ilorin,NGA012,Nigeria,,Ilorin,,
-Jos,,Nigeria,NGA,Jos,NGA014,Nigeria,,Jos,,
-Kaduna,,Nigeria,NGA,Kaduna,NGA006,Nigeria,,Kaduna,,
-Kano,,Nigeria,NGA,Kano,NGA002,Nigeria,,Kano,,
-Lagos,,Nigeria,NGA,Lagos,NGA001,Nigeria,,Lagos,Lagos (NG),NGA_LOS
-Maiduguri,,Nigeria,NGA,Maiduguri,NGA011,Nigeria,,Maiduguri,,
-Ogbomosho,,Nigeria,NGA,Ogbomosho,NGA008,Nigeria,,Ogbomosho,,
-Onitsha,,Nigeria,NGA,Onitsha,NGA009,Nigeria,,Onitsha,,
-Port Harcourt,,Nigeria,NGA,Port Harcourt,NGA005,Nigeria,,Port Harcourt,,
-Zaria,,Nigeria,NGA,Zaria,NGA016,Nigeria,,Zaria,,
-Skopje,,North Macedonia,MKD,Skopje,MKD001,Macedonia,,Skopje,,
-Bergen,,Norway,NOR,,,,,,Bergen (NO),NOR_BGO
-Oslo,,Norway,NOR,Oslo - Metro,NO_01,Norway,,Oslo,Oslo (NO),NOR_OSL
-Muscat,,Oman,OMN,Muscat,OMN001,Oman,,Muscat,Muscat (OM),OMN_MCT
-Faisalabad,,Pakistan,PAK,Faisalabad,PAK001,Pakistan,,Faisalabad,,
-Gujranwala,,Pakistan,PAK,Gujranwala,PAK002,Pakistan,,Gujranwala,,
-Hyderabad (Pakistan),,Pakistan,PAK,Hyderabad (Pakistan),PAK003,Pakistan,,Hyderabad,,
-Islamabad,,Pakistan,PAK,Islamabad,PAK004,Pakistan,,Islamabad,,
-Karachi,,Pakistan,PAK,Karachi,PAK005,Pakistan,,Karachi,Karachi (PK),PAK_KHI
-Lahore,,Pakistan,PAK,Lahore,PAK006,Pakistan,,Lahore,Lahore (PK),PAK_LHE
-Multan,,Pakistan,PAK,Multan,PAK007,Pakistan,,Multan,,
-Peshawar,,Pakistan,PAK,Peshawar,PAK008,Pakistan,,Peshawar,,
-Quetta,,Pakistan,PAK,Quetta,PAK009,Pakistan,,Quetta,,
-Rawalpindi,,Pakistan,PAK,Rawalpindi,PAK010,Pakistan,,Rawalpindi,,
-Panama City,,Panama,PAN,Panama City,PAN001,Panama,,Panama City,Panama City (PA),PAN_PTY
-Port Moresby,,Papua New Guinea,PNG,Port Moresby,PNG001,Papua New Guinea,,Port Moresby,,
-Asunción,,Paraguay,PRY,Asunción,PRY001,Paraguay,,Asunción,"Austin, TX (US)",USA_AUS
-Arequipa,,Peru,PER,Arequipa,PER4C,Peru,,Arequipa,,
-Chiclayo,,Peru,PER,Chiclayo,PEREC,Peru,,,,
-Lima,,Peru,PER,Lima,PERF,Peru,,,Lima (PE),PER_LIM
-Trujillo,,Peru,PER,Trujillo,PERDC,Peru,,,,
-Antipolo,,Philippines,PHL,Antipolo,PHL6_7C,Philippines,,Antipolo,,
-Bacolod,,Philippines,PHL,Bacolod,PHL9C,Philippines,,Bacolod,,
-Cagayan de Oro,,Philippines,PHL,Cagayan de Oro,PHL13C,Philippines,,Cagayan de Oro,,
-Cebu City,,Philippines,PHL,Cebu City,PHL10C,Philippines,,Cebu City,Cebu City (PH),PHL_CEB
-Davao City,,Philippines,PHL,Davao City,PHL14C,Philippines,,Davao City,,
-General Santos,,Philippines,PHL,General Santos,PHL15C,Philippines,,General Santos,,
-Manila,,Philippines,PHL,Manila,PHL1,Philippines,,Manila,Manila (PH),PHL_MNL
-San Jose del Monte,,Philippines,PHL,San Jose del Monte,PHL5C,Philippines,,San Jose del Monte,,
-Zamboanga City,,Philippines,PHL,Zamboanga City,PHL12C,Philippines,,Zamboanga City,,
-Cracow,,Poland,POL,Cracow - Metro,PL_02,Poland,,Cracow,Cracow (PL),POL_KRK
-Gdansk,,Poland,POL,Gdansk - Metro,PL_09,Poland,,Gdansk,,
-Katowice,,Poland,POL,Katowice - Metro,PL_08,Poland,,Katowice,,
-Lódz,,Poland,POL,Lódz - Metro,PL_03,Poland,,Lódz,,
-Poznan,,Poland,POL,Poznan - Metro,PL_05,Poland,,Poznan,,
-Szczecin,,Poland,POL,Szczecin - Metro,PL_06,Poland,,Szczecin,,
+Rotterdam,NA,Netherlands,NLD,Rotterdam - Metro,NL_02,Netherlands,NA,Rotterdam,Rotterdam (NL),NLD_RTM
+The Hague,NA,Netherlands,NLD,The Hague - Metro,NL_03,Netherlands,NA,The Hague,The Hague (NL),NLD_HA9
+Utrecht,NA,Netherlands,NLD,Utrecht - Metro,NL_04,Netherlands,NA,Utrecht,NA,NA
+Auckland,NA,New Zealand,NZL,Auckland,NZL2,New Zealand,NA,Auckland,Auckland (NZ),NZL_AKL
+Christchurch,NA,New Zealand,NZL,Christchurch,NZL11,New Zealand,NA,Christchurch,Christchurch (NZ),NZL_CHC
+Wellington,NA,New Zealand,NZL,Wellington,NZL9,New Zealand,NA,Wellington,Wellington (NZ),NZL_WLG
+Managua,NA,Nicaragua,NIC,Managua,NIC001,Nicaragua,NA,Managua,NA,NA
+Niamey,NA,Niger,NER,Niamey,NER001,Niger,NA,Niamey,NA,NA
+Aba,NA,Nigeria,NGA,Aba,NGA010,Nigeria,NA,Aba,NA,NA
+Abeokuta,NA,Nigeria,NGA,Abeokuta,NGA015,Nigeria,NA,Abeokuta,NA,NA
+Abuja,NA,Nigeria,NGA,Abuja,NGA004,Nigeria,NA,Abuja,Abuja (NG),NGA_ABV
+Benin City,NA,Nigeria,NGA,Benin City,NGA007,Nigeria,NA,Benin City,NA,NA
+Enugu,NA,Nigeria,NGA,Enugu,NGA013,Nigeria,NA,Enugu,NA,NA
+Ibadan,NA,Nigeria,NGA,Ibadan,NGA003,Nigeria,NA,Ibadan,NA,NA
+Ilorin,NA,Nigeria,NGA,Ilorin,NGA012,Nigeria,NA,Ilorin,NA,NA
+Jos,NA,Nigeria,NGA,Jos,NGA014,Nigeria,NA,Jos,NA,NA
+Kaduna,NA,Nigeria,NGA,Kaduna,NGA006,Nigeria,NA,Kaduna,NA,NA
+Kano,NA,Nigeria,NGA,Kano,NGA002,Nigeria,NA,Kano,NA,NA
+Lagos,NA,Nigeria,NGA,Lagos,NGA001,Nigeria,NA,Lagos,Lagos (NG),NGA_LOS
+Maiduguri,NA,Nigeria,NGA,Maiduguri,NGA011,Nigeria,NA,Maiduguri,NA,NA
+Ogbomosho,NA,Nigeria,NGA,Ogbomosho,NGA008,Nigeria,NA,Ogbomosho,NA,NA
+Onitsha,NA,Nigeria,NGA,Onitsha,NGA009,Nigeria,NA,Onitsha,NA,NA
+Port Harcourt,NA,Nigeria,NGA,Port Harcourt,NGA005,Nigeria,NA,Port Harcourt,NA,NA
+Zaria,NA,Nigeria,NGA,Zaria,NGA016,Nigeria,NA,Zaria,NA,NA
+Skopje,NA,North Macedonia,MKD,Skopje,MKD001,Macedonia,NA,Skopje,NA,NA
+Bergen,NA,Norway,NOR,NA,NA,NA,NA,Bergen,Bergen (NO),NOR_BGO
+Oslo,NA,Norway,NOR,Oslo - Metro,NO_01,Norway,NA,Oslo,Oslo (NO),NOR_OSL
+Muscat,NA,Oman,OMN,Muscat,OMN001,Oman,NA,Muscat,Muscat (OM),OMN_MCT
+Faisalabad,NA,Pakistan,PAK,Faisalabad,PAK001,Pakistan,NA,Faisalabad,NA,NA
+Gujranwala,NA,Pakistan,PAK,Gujranwala,PAK002,Pakistan,NA,Gujranwala,NA,NA
+Hyderabad (Pakistan),NA,Pakistan,PAK,Hyderabad (Pakistan),PAK003,Pakistan,NA,Hyderabad,NA,NA
+Islamabad,NA,Pakistan,PAK,Islamabad,PAK004,Pakistan,NA,Islamabad,NA,NA
+Karachi,NA,Pakistan,PAK,Karachi,PAK005,Pakistan,NA,Karachi,Karachi (PK),PAK_KHI
+Lahore,NA,Pakistan,PAK,Lahore,PAK006,Pakistan,NA,Lahore,Lahore (PK),PAK_LHE
+Multan,NA,Pakistan,PAK,Multan,PAK007,Pakistan,NA,Multan,NA,NA
+Peshawar,NA,Pakistan,PAK,Peshawar,PAK008,Pakistan,NA,Peshawar,NA,NA
+Quetta,NA,Pakistan,PAK,Quetta,PAK009,Pakistan,NA,Quetta,NA,NA
+Rawalpindi,NA,Pakistan,PAK,Rawalpindi,PAK010,Pakistan,NA,Rawalpindi,NA,NA
+Panama City,NA,Panama,PAN,Panama City,PAN001,Panama,NA,Panama City,Panama City (PA),PAN_PTY
+Port Moresby,NA,Papua New Guinea,PNG,Port Moresby,PNG001,Papua New Guinea,NA,Port Moresby,NA,NA
+Asunción,NA,Paraguay,PRY,Asunción,PRY001,Paraguay,NA,Asunción,"Austin, TX (US)",USA_AUS
+Arequipa,NA,Peru,PER,Arequipa,PER4C,Peru,NA,Arequipa,NA,NA
+Chiclayo,NA,Peru,PER,Chiclayo,PEREC,Peru,NA,Chiclayo,NA,NA
+Lima,NA,Peru,PER,Lima,PERF,Peru,NA,Lima,Lima (PE),PER_LIM
+Trujillo,NA,Peru,PER,Trujillo,PERDC,Peru,NA,Trujillo,NA,NA
+Antipolo,NA,Philippines,PHL,Antipolo,PHL6_7C,Philippines,NA,Antipolo,NA,NA
+Bacolod,NA,Philippines,PHL,Bacolod,PHL9C,Philippines,NA,Bacolod,NA,NA
+Cagayan de Oro,NA,Philippines,PHL,Cagayan de Oro,PHL13C,Philippines,NA,Cagayan de Oro,NA,NA
+Cebu City,NA,Philippines,PHL,Cebu City,PHL10C,Philippines,NA,Cebu City,Cebu City (PH),PHL_CEB
+Davao City,NA,Philippines,PHL,Davao City,PHL14C,Philippines,NA,Davao City,NA,NA
+General Santos,NA,Philippines,PHL,General Santos,PHL15C,Philippines,NA,General Santos,NA,NA
+Manila,NA,Philippines,PHL,Manila,PHL1,Philippines,NA,Manila,Manila (PH),PHL_MNL
+San Jose del Monte,NA,Philippines,PHL,San Jose del Monte,PHL5C,Philippines,NA,San Jose del Monte,NA,NA
+Zamboanga City,NA,Philippines,PHL,Zamboanga City,PHL12C,Philippines,NA,Zamboanga City,NA,NA
+Cracow,NA,Poland,POL,Cracow - Metro,PL_02,Poland,NA,Cracow,Cracow (PL),POL_KRK
+Gdansk,NA,Poland,POL,Gdansk - Metro,PL_09,Poland,NA,Gdansk,NA,NA
+Katowice,NA,Poland,POL,Katowice - Metro,PL_08,Poland,NA,Katowice,NA,NA
+Lódz,NA,Poland,POL,Lódz - Metro,PL_03,Poland,NA,Lódz,NA,NA
+Poznan,NA,Poland,POL,Poznan - Metro,PL_05,Poland,NA,Poznan,NA,NA
+Szczecin,NA,Poland,POL,Szczecin - Metro,PL_06,Poland,NA,Szczecin,NA,NA
 Warsaw,warsw,Poland,POL,Warsaw - Metro,PL_01,Poland,Warsaw,Warsaw,Warsaw (PL),POL_WRS
-Wroclaw,,Poland,POL,Wroclaw - Metro,PL_04,Poland,,Wroclaw,,
-Lisbon,,Portugal,PRT,Lisbon - Metro,PT_01,Portugal,,Lisbon,Lisbon (PT),PRT_LIS
-Porto,,Portugal,PRT,Porto - Metro,PT_02,Portugal,,Porto,Porto (PT),PRT_OPO
-San Juan,,Puerto Rico,PRI,San Juan,PRI1,Puerto Rico,,San Juan,,
-Doha,,Qatar,QAT,Doha,QAT001,Qatar,,Doha,Doha (QA),QAT_DOH
-Bucharest,,Romania,ROU,Bucharest - Metro,RO_01,Romania,,Bucharest,Bucharest (RO),ROM_BUH
-Astrakhan,,Russian Federation,RUS,Astrakhan,RU_31,Russia,,Astrakhan,,
-Barnaul,,Russian Federation,RUS,Barnaul,RU_20,Russia,,Barnaul,,
-Chelyabinsk,,Russian Federation,RUS,Chelyabinsk,RU_09,Russia,,Chelyabinsk,,
-Ekaterinburg,,Russian Federation,RUS,Ekaterinburg,RU_04,Russia,,Ekaterinburg,,
-Irkutsk,,Russian Federation,RUS,Irkutsk,RU_23,Russia,,Irkutsk,,
-Izhevsk,,Russian Federation,RUS,Izhevsk,RU_18,Russia,,Izhevsk,,
-Kazan,,Russian Federation,RUS,Kazan,RU_08,Russia,,Kazan,,
-Khabarovsk,,Russian Federation,RUS,Khabarovsk,RU_25,Russia,,Khabarovsk,,
-Krasnodar,,Russian Federation,RUS,Krasnodar,RU_17,Russia,,Krasnodar,,
-Krasnoyarsk,,Russian Federation,RUS,Krasnoyarsk,RU_14,Russia,,Krasnoyarsk,,
-Lipetsk,,Russian Federation,RUS,Lipetsk,RU_33,Russia,,Lipetsk,,
-Makhachkala,,Russian Federation,RUS,Makhachkala,RU_26,Russia,,Makhachkala,,
+Wroclaw,NA,Poland,POL,Wroclaw - Metro,PL_04,Poland,NA,Wroclaw,NA,NA
+Lisbon,NA,Portugal,PRT,Lisbon - Metro,PT_01,Portugal,NA,Lisbon,Lisbon (PT),PRT_LIS
+Porto,NA,Portugal,PRT,Porto - Metro,PT_02,Portugal,NA,Porto,Porto (PT),PRT_OPO
+San Juan,NA,Puerto Rico,PRI,San Juan,PRI1,Puerto Rico,NA,San Juan,NA,NA
+Doha,NA,Qatar,QAT,Doha,QAT001,Qatar,NA,Doha,Doha (QA),QAT_DOH
+Bucharest,NA,Romania,ROU,Bucharest - Metro,RO_01,Romania,NA,Bucharest,Bucharest (RO),ROM_BUH
+Astrakhan,NA,Russian Federation,RUS,Astrakhan,RU_31,Russia,NA,Astrakhan,NA,NA
+Barnaul,NA,Russian Federation,RUS,Barnaul,RU_20,Russia,NA,Barnaul,NA,NA
+Chelyabinsk,NA,Russian Federation,RUS,Chelyabinsk,RU_09,Russia,NA,Chelyabinsk,NA,NA
+Ekaterinburg,NA,Russian Federation,RUS,Ekaterinburg,RU_04,Russia,NA,Ekaterinburg,NA,NA
+Irkutsk,NA,Russian Federation,RUS,Irkutsk,RU_23,Russia,NA,Irkutsk,NA,NA
+Izhevsk,NA,Russian Federation,RUS,Izhevsk,RU_18,Russia,NA,Izhevsk,NA,NA
+Kazan,NA,Russian Federation,RUS,Kazan,RU_08,Russia,NA,Kazan,NA,NA
+Khabarovsk,NA,Russian Federation,RUS,Khabarovsk,RU_25,Russia,NA,Khabarovsk,NA,NA
+Krasnodar,NA,Russian Federation,RUS,Krasnodar,RU_17,Russia,NA,Krasnodar,NA,NA
+Krasnoyarsk,NA,Russian Federation,RUS,Krasnoyarsk,RU_14,Russia,NA,Krasnoyarsk,NA,NA
+Lipetsk,NA,Russian Federation,RUS,Lipetsk,RU_33,Russia,NA,Lipetsk,NA,NA
+Makhachkala,NA,Russian Federation,RUS,Makhachkala,RU_26,Russia,NA,Makhachkala,NA,NA
 Moscow,moscw,Russian Federation,RUS,Moscow,RU_01,Russia,Moscow,Moscow,Moscow (RU),RUS_MOW
-Nizhniy Novgorod,,Russian Federation,RUS,Nizhniy Novgorod,RU_05,Russia,,Nizhniy Novgorod,,
-Novokuznetsk,,Russian Federation,RUS,Novokuznetsk,RU_27,Russia,,Novokuznetsk,,
-Novosibirsk,,Russian Federation,RUS,Novosibirsk,RU_03,Russia,,Novosibirsk,,
-Omsk,,Russian Federation,RUS,Omsk,RU_07,Russia,,Omsk,,
-Orenburg,,Russian Federation,RUS,Orenburg,RU_28,Russia,,Orenburg,,
-Penza,,Russian Federation,RUS,Penza,RU_32,Russia,,Penza,,
-Perm,,Russian Federation,RUS,Perm,RU_13,Russia,,Perm,,
-Rostov-on-Don,,Russian Federation,RUS,Rostov-on-Don,RU_10,Russia,,Rostov-on-Don,,
-Ryazan,,Russian Federation,RUS,Ryazan,RU_29,Russia,,Ryazan,,
-Samara,,Russian Federation,RUS,Samara,RU_06,Russia,,Samara,,
-Saratov,,Russian Federation,RUS,Saratov,RU_16,Russia,,Saratov,,
-St Petersburg,,Russian Federation,RUS,St Petersburg,RU_02,Russia,,St Petersburg,St Petersburg (RU),RUS_LED
-Tomsk,,Russian Federation,RUS,Tomsk,RU_30,Russia,,Tomsk,,
-Tula,,Russian Federation,RUS,Tula,RU_34,Russia,,Tula,,
-Tyumen,,Russian Federation,RUS,Tyumen,RU_24,Russia,,Tyumen,,
-Ufa,,Russian Federation,RUS,Ufa,RU_11,Russia,,Ufa,,
-Ulyanovsk,,Russian Federation,RUS,Ulyanovsk,RU_19,Russia,,Ulyanovsk,,
-Vladivostok,,Russian Federation,RUS,Vladivostok,RU_21,Russia,,Vladivostok,,
-Volgograd,,Russian Federation,RUS,Volgograd,RU_12,Russia,,Volgograd,,
-Voronezh,,Russian Federation,RUS,Voronezh,RU_15,Russia,,Voronezh,,
-Yaroslavl,,Russian Federation,RUS,Yaroslavl,RU_22,Russia,,Yaroslavl,,
-Kigali,,Rwanda,RWA,Kigali,RWA001,Rwanda,,Kigali,,
-Jeddah,,Saudi Arabia,SAU,Jeddah,SAU005,Saudi Arabia,,Jeddah,Jeddah (SA),SAU_JED
-Mecca,,Saudi Arabia,SAU,Mecca,SAU006,Saudi Arabia,,Mecca,Mecca (SA),SAU_MAK
-Medina,,Saudi Arabia,SAU,Medina,SAU002,Saudi Arabia,,Medina,Medina (SA),SAU_MED
-Riyadh,,Saudi Arabia,SAU,Riyadh,SAU003,Saudi Arabia,,Riyadh,Riyadh (SA),SAU_RUH
-Dakar,,Senegal,SEN,Dakar,SEN001,Senegal,,Dakar,,
-Belgrade,,Serbia,SRB,Belgrade - Metro,RS_01,Serbia,,Belgrade,Belgrade (RS),SRB_BEG
-Freetown,,Sierra Leone,SLE,Freetown,SLE001,Sierra Leone,,Freetown,,
+Nizhniy Novgorod,NA,Russian Federation,RUS,Nizhniy Novgorod,RU_05,Russia,NA,Nizhniy Novgorod,NA,NA
+Novokuznetsk,NA,Russian Federation,RUS,Novokuznetsk,RU_27,Russia,NA,Novokuznetsk,NA,NA
+Novosibirsk,NA,Russian Federation,RUS,Novosibirsk,RU_03,Russia,NA,Novosibirsk,NA,NA
+Omsk,NA,Russian Federation,RUS,Omsk,RU_07,Russia,NA,Omsk,NA,NA
+Orenburg,NA,Russian Federation,RUS,Orenburg,RU_28,Russia,NA,Orenburg,NA,NA
+Penza,NA,Russian Federation,RUS,Penza,RU_32,Russia,NA,Penza,NA,NA
+Perm,NA,Russian Federation,RUS,Perm,RU_13,Russia,NA,Perm,NA,NA
+Rostov-on-Don,NA,Russian Federation,RUS,Rostov-on-Don,RU_10,Russia,NA,Rostov-on-Don,NA,NA
+Ryazan,NA,Russian Federation,RUS,Ryazan,RU_29,Russia,NA,Ryazan,NA,NA
+Samara,NA,Russian Federation,RUS,Samara,RU_06,Russia,NA,Samara,NA,NA
+Saratov,NA,Russian Federation,RUS,Saratov,RU_16,Russia,NA,Saratov,NA,NA
+St Petersburg,NA,Russian Federation,RUS,St Petersburg,RU_02,Russia,NA,St Petersburg,St Petersburg (RU),RUS_LED
+Tomsk,NA,Russian Federation,RUS,Tomsk,RU_30,Russia,NA,Tomsk,NA,NA
+Tula,NA,Russian Federation,RUS,Tula,RU_34,Russia,NA,Tula,NA,NA
+Tyumen,NA,Russian Federation,RUS,Tyumen,RU_24,Russia,NA,Tyumen,NA,NA
+Ufa,NA,Russian Federation,RUS,Ufa,RU_11,Russia,NA,Ufa,NA,NA
+Ulyanovsk,NA,Russian Federation,RUS,Ulyanovsk,RU_19,Russia,NA,Ulyanovsk,NA,NA
+Vladivostok,NA,Russian Federation,RUS,Vladivostok,RU_21,Russia,NA,Vladivostok,NA,NA
+Volgograd,NA,Russian Federation,RUS,Volgograd,RU_12,Russia,NA,Volgograd,NA,NA
+Voronezh,NA,Russian Federation,RUS,Voronezh,RU_15,Russia,NA,Voronezh,NA,NA
+Yaroslavl,NA,Russian Federation,RUS,Yaroslavl,RU_22,Russia,NA,Yaroslavl,NA,NA
+Kigali,NA,Rwanda,RWA,Kigali,RWA001,Rwanda,NA,Kigali,NA,NA
+Jeddah,NA,Saudi Arabia,SAU,Jeddah,SAU005,Saudi Arabia,NA,Jeddah,Jeddah (SA),SAU_JED
+Mecca,NA,Saudi Arabia,SAU,Mecca,SAU006,Saudi Arabia,NA,Mecca,Mecca (SA),SAU_MAK
+Medina,NA,Saudi Arabia,SAU,Medina,SAU002,Saudi Arabia,NA,Medina,Medina (SA),SAU_MED
+Riyadh,NA,Saudi Arabia,SAU,Riyadh,SAU003,Saudi Arabia,NA,Riyadh,Riyadh (SA),SAU_RUH
+Dakar,NA,Senegal,SEN,Dakar,SEN001,Senegal,NA,Dakar,NA,NA
+Belgrade,NA,Serbia,SRB,Belgrade - Metro,RS_01,Serbia,NA,Belgrade,Belgrade (RS),SRB_BEG
+Freetown,NA,Sierra Leone,SLE,Freetown,SLE001,Sierra Leone,NA,Freetown,NA,NA
 Singapore,sngpr,Singapore,SGP,Singapore,SGP,Singapore,Singapore,Singapore,Singapore (SG),SGP_TOT
-Bratislava,,Slovakia,SVK,Bratislava - Metro,SK_01,Slovakia,,Bratislava,,
-Ljubljana,,Slovenia,SVN,Ljubljana - Metro,SI_01,Slovenia,,Ljubljana,,
-Bloemfontein,,South Africa,ZAF,Bloemfontein,ZAF003,South Africa,,Bloemfontein,,
-Cape Town,,South Africa,ZAF,Cape Town,ZAF002,South Africa,,Cape Town,Cape Town (ZA),ZAF_CPT
-Durban,,South Africa,ZAF,Durban,ZAF004,South Africa,,Durban,Durban (ZA),ZAF_DUR
-Johannesburg,,South Africa,ZAF,Johannesburg,ZAF001,South Africa,,Johannesburg,Johannesburg (ZA),ZAF_JNB
-Nelspruit,,South Africa,ZAF,Nelspruit,ZAF008,South Africa,,Nelspruit,,
-Port Elizabeth,,South Africa,ZAF,Port Elizabeth,ZAF007,South Africa,,Port Elizabeth,,
-Pretoria,,South Africa,ZAF,Pretoria,ZAF005,South Africa,,Pretoria,,
-Busan,,South Korea,KOR,Busan,KOR2,South Korea,,Busan,Busan (KR),KOR_PUS
-Daegu,,South Korea,KOR,Daegu,KOR3,South Korea,,Daegu,Daegu (KR),KOR_TAE
-Daejeon,,South Korea,KOR,Daejeon,KOR6,South Korea,,Daejeon,,
-Gwangju,,South Korea,KOR,Gwangju,KOR5,South Korea,,Gwangju,,
-Incheon,,South Korea,KOR,Incheon,KOR4,South Korea,,Incheon,Incheon (KR),KOR_INC
-Seoul,,South Korea,KOR,Seoul,KOR1,South Korea,,Seoul,Seoul (KR),KOR_SEL
-Ulsan,,South Korea,KOR,Ulsan,KOR7,South Korea,,Ulsan,,
+Bratislava,NA,Slovakia,SVK,Bratislava - Metro,SK_01,Slovakia,NA,Bratislava,NA,NA
+Ljubljana,NA,Slovenia,SVN,Ljubljana - Metro,SI_01,Slovenia,NA,Ljubljana,NA,NA
+Bloemfontein,NA,South Africa,ZAF,Bloemfontein,ZAF003,South Africa,NA,Bloemfontein,NA,NA
+Cape Town,NA,South Africa,ZAF,Cape Town,ZAF002,South Africa,NA,Cape Town,Cape Town (ZA),ZAF_CPT
+Durban,NA,South Africa,ZAF,Durban,ZAF004,South Africa,NA,Durban,Durban (ZA),ZAF_DUR
+Johannesburg,NA,South Africa,ZAF,Johannesburg,ZAF001,South Africa,NA,Johannesburg,Johannesburg (ZA),ZAF_JNB
+Nelspruit,NA,South Africa,ZAF,Nelspruit,ZAF008,South Africa,NA,Nelspruit,NA,NA
+Port Elizabeth,NA,South Africa,ZAF,Port Elizabeth,ZAF007,South Africa,NA,Port Elizabeth,NA,NA
+Pretoria,NA,South Africa,ZAF,Pretoria,ZAF005,South Africa,NA,Pretoria,NA,NA
+Busan,NA,South Korea,KOR,Busan,KOR2,South Korea,NA,Busan,Busan (KR),KOR_PUS
+Daegu,NA,South Korea,KOR,Daegu,KOR3,South Korea,NA,Daegu,Daegu (KR),KOR_TAE
+Daejeon,NA,South Korea,KOR,Daejeon,KOR6,South Korea,NA,Daejeon,NA,NA
+Gwangju,NA,South Korea,KOR,Gwangju,KOR5,South Korea,NA,Gwangju,NA,NA
+Incheon,NA,South Korea,KOR,Incheon,KOR4,South Korea,NA,Incheon,Incheon (KR),KOR_INC
+Seoul,NA,South Korea,KOR,Seoul,KOR1,South Korea,NA,Seoul,Seoul (KR),KOR_SEL
+Ulsan,NA,South Korea,KOR,Ulsan,KOR7,South Korea,NA,Ulsan,NA,NA
 Barcelona,brcln,Spain,ESP,Barcelona - Metro,ES_02,Spain,Barcelona,Barcelona,Barcelona (ES),ESP_BCN
-Bilbao,,Spain,ESP,Bilbao - Metro,ES_08,Spain,,Bilbao,,
+Bilbao,NA,Spain,ESP,Bilbao - Metro,ES_08,Spain,NA,Bilbao,NA,NA
 Madrid,madrd,Spain,ESP,Madrid - Metro,ES_01,Spain,Madrid,Madrid,Madrid (ES),ESP_MAD
-Málaga,,Spain,ESP,Málaga - Metro,ES_06,Spain,,Málaga,Málaga (ES),ESP_AGP
-Murcia,,Spain,ESP,Murcia - Metro,ES_07,Spain,,Murcia,Murcia (ES),ESP_MJV
-Sevilla,,Spain,ESP,Sevilla - Metro,ES_04,Spain,,Sevilla,Sevilla (ES),ESP_SVQ
-Valencia (Spain),,Spain,ESP,Valencia - Metro (Spain),ES_03,Spain,,Valencia,Valencia (ES),ESP_VLC
-Zaragoza,,Spain,ESP,Zaragoza - Metro,ES_05,Spain,,Zaragoza,Zaragoza (ES),ESP_ZAZ
-Colombo,,Sri Lanka,LKA,Colombo,LKA001,Sri Lanka,,Colombo,Colombo (LK),LKA_CMB
-Khartoum,,Sudan,SDN,Khartoum,SDN001,Sudan,,Khartoum,,
-Paramaribo,,Suriname,SUR,Paramaribo,SUR001,Suriname,,Paramaribo,,
-Gothenburg,,Sweden,SWE,Gothenburg - Metro,SE_02,Sweden,,Gothenburg,Gothenburg (SE),SWE_GOT
-Stockholm,,Sweden,SWE,Stockholm - Metro,SE_01,Sweden,,Stockholm,Stockholm (SE),SWE_STO
-Basel,,Switzerland,CHE,Basel - Metro,CH_03,Switzerland,,Basel,Basel (CH),CHE_BSL
-Geneva,,Switzerland,CHE,Geneva - Metro,CH_02,Switzerland,,Geneva,Geneva (CH),CHE_GVA
+Málaga,NA,Spain,ESP,Málaga - Metro,ES_06,Spain,NA,Málaga,Málaga (ES),ESP_AGP
+Murcia,NA,Spain,ESP,Murcia - Metro,ES_07,Spain,NA,Murcia,Murcia (ES),ESP_MJV
+Sevilla,NA,Spain,ESP,Sevilla - Metro,ES_04,Spain,NA,Sevilla,Sevilla (ES),ESP_SVQ
+Valencia (Spain),NA,Spain,ESP,Valencia - Metro (Spain),ES_03,Spain,NA,Valencia,Valencia (ES),ESP_VLC
+Zaragoza,NA,Spain,ESP,Zaragoza - Metro,ES_05,Spain,NA,Zaragoza,Zaragoza (ES),ESP_ZAZ
+Colombo,NA,Sri Lanka,LKA,Colombo,LKA001,Sri Lanka,NA,Colombo,Colombo (LK),LKA_CMB
+Khartoum,NA,Sudan,SDN,Khartoum,SDN001,Sudan,NA,Khartoum,NA,NA
+Paramaribo,NA,Suriname,SUR,Paramaribo,SUR001,Suriname,NA,Paramaribo,NA,NA
+Gothenburg,NA,Sweden,SWE,Gothenburg - Metro,SE_02,Sweden,NA,Gothenburg,Gothenburg (SE),SWE_GOT
+Stockholm,NA,Sweden,SWE,Stockholm - Metro,SE_01,Sweden,NA,Stockholm,Stockholm (SE),SWE_STO
+Basel,NA,Switzerland,CHE,Basel - Metro,CH_03,Switzerland,NA,Basel,Basel (CH),CHE_BSL
+Geneva,NA,Switzerland,CHE,Geneva - Metro,CH_02,Switzerland,NA,Geneva,Geneva (CH),CHE_GVA
 Zurich,zurch,Switzerland,CHE,Zurich - Metro,CH_01,Switzerland,Zurich,Zurich,Zurich (CH),CHE_ZRH
-Kaohsiung,,Taiwan,TWN,Kaohsiung,TAI31,Taiwan,,Kaohsiung,,
-Taichung,,Taiwan,TWN,Taichung,TAI21,Taiwan,,Taichung,Taichung (TW),TAW_TXG
-Tainan,,Taiwan,TWN,Tainan,TAI33,Taiwan,,Tainan,Tainan (TW),TAW_TNN
-Taipei,,Taiwan,TWN,Taipei,TAI11C,Taiwan,,Taipei,Taipei (TW),TAW_TPE
-Taoyuan,,Taiwan,TWN,Taoyuan,TAI16,Taiwan,,Taoyuan,Taoyuan (TW),TAW_TYN
-Dushanbe,,Tajikistan,TJK,Dushanbe,TJK001,Tajikistan,,Dushanbe,,
-Arusha,,Tanzania,TZA,Arusha,TZA002,Tanzania,,Arusha,,
-Dar Es Salaam,,Tanzania,TZA,Dar Es Salaam,TZA001,Tanzania,,Dar Es Salaam,Dar Es Salaam (TZ),TZA_DAR
-Dodoma,,Tanzania,TZA,Dodoma,TZA003,Tanzania,,Dodoma,,
-Mwanza,,Tanzania,TZA,Mwanza,TZA004,Tanzania,,Mwanza,,
-Bangkok,,Thailand,THA,Bangkok,THA7,Thailand,,Bangkok,Bangkok (TH),THA_BKK
-Lomé,,Togo,TGO,Lomé,TGO001,Togo,,Lomé,,
-Sfax,,Tunisia,TUN,Sfax,TUN002,Tunisia,,Sfax,,
-Tunis,,Tunisia,TUN,Tunis,TUN001,Tunisia,,Tunis,Tunis (TN),TUN_TUN
-Adana,,Turkey,TUR,Adana - Metro,TR_05,Turkey,,Adana,,
-Ankara,,Turkey,TUR,Ankara - Metro,TR_02,Turkey,,Ankara,Ankara (TR),TUR_ANK
-Antalya,,Turkey,TUR,Antalya - Metro,TR_08,Turkey,,Antalya,Antalya (TR),TUR_AYT
-Bursa,,Turkey,TUR,Bursa - Metro,TR_04,Turkey,,Bursa,,
-Gaziantep,,Turkey,TUR,Gaziantep - Metro,TR_06,Turkey,,Gaziantep,,
-Istanbul,,Turkey,TUR,Istanbul - Metro,TR_01,Turkey,,Istanbul,Istanbul (TR),TUR_IST
-Izmir,,Turkey,TUR,Izmir - Metro,TR_03,Turkey,,Izmir,Izmir (TR),TUR_IZM
-Kayseri,,Turkey,TUR,Kayseri - Metro,TR_09,Turkey,,Kayseri,,
-Konya,,Turkey,TUR,Konya - Metro,TR_07,Turkey,,Konya,,
-Ashgabat,,Turkmenistan,TKM,Ashgabat,TKM001,Turkmenistan,,Ashgabat,,
-Kampala,,Uganda,UGA,Kampala,UGA001,Uganda,,Kampala,,
-Dnipropetrovsk,,Ukraine,UKR,Dnipropetrovsk,UR_04,Ukraine,,Dnipropetrovsk,,
-Kharkiv,,Ukraine,UKR,Kharkiv,UR_02,Ukraine,,Kharkiv,,
-Kiev,,Ukraine,UKR,Kiev,UR_01,Ukraine,,Kiev,Kiev (UA),UKR_IEV
-Lvov,,Ukraine,UKR,Lvov,UR_07,Ukraine,,Lvov,,
-Mykolaiv,,Ukraine,UKR,Mykolaiv,UR_08,Ukraine,,Mykolaiv,,
-Odesa,,Ukraine,UKR,Odesa,UR_03,Ukraine,,Odesa,,
-Zaporizhzhya,,Ukraine,UKR,Zaporizhzhya,UR_06,Ukraine,,Zaporizhzhya,,
+Kaohsiung,NA,Taiwan,TWN,Kaohsiung,TAI31,Taiwan,NA,Kaohsiung,NA,NA
+Taichung,NA,Taiwan,TWN,Taichung,TAI21,Taiwan,NA,Taichung,Taichung (TW),TAW_TXG
+Tainan,NA,Taiwan,TWN,Tainan,TAI33,Taiwan,NA,Tainan,Tainan (TW),TAW_TNN
+Taipei,NA,Taiwan,TWN,Taipei,TAI11C,Taiwan,NA,Taipei,Taipei (TW),TAW_TPE
+Taoyuan,NA,Taiwan,TWN,Taoyuan,TAI16,Taiwan,NA,Taoyuan,Taoyuan (TW),TAW_TYN
+Dushanbe,NA,Tajikistan,TJK,Dushanbe,TJK001,Tajikistan,NA,Dushanbe,NA,NA
+Arusha,NA,Tanzania,TZA,Arusha,TZA002,Tanzania,NA,Arusha,NA,NA
+Dar Es Salaam,NA,Tanzania,TZA,Dar Es Salaam,TZA001,Tanzania,NA,Dar Es Salaam,Dar Es Salaam (TZ),TZA_DAR
+Dodoma,NA,Tanzania,TZA,Dodoma,TZA003,Tanzania,NA,Dodoma,NA,NA
+Mwanza,NA,Tanzania,TZA,Mwanza,TZA004,Tanzania,NA,Mwanza,NA,NA
+Bangkok,NA,Thailand,THA,Bangkok,THA7,Thailand,NA,Bangkok,Bangkok (TH),THA_BKK
+Lomé,NA,Togo,TGO,Lomé,TGO001,Togo,NA,Lomé,NA,NA
+Sfax,NA,Tunisia,TUN,Sfax,TUN002,Tunisia,NA,Sfax,NA,NA
+Tunis,NA,Tunisia,TUN,Tunis,TUN001,Tunisia,NA,Tunis,Tunis (TN),TUN_TUN
+Adana,NA,Turkey,TUR,Adana - Metro,TR_05,Turkey,NA,Adana,NA,NA
+Ankara,NA,Turkey,TUR,Ankara - Metro,TR_02,Turkey,NA,Ankara,Ankara (TR),TUR_ANK
+Antalya,NA,Turkey,TUR,Antalya - Metro,TR_08,Turkey,NA,Antalya,Antalya (TR),TUR_AYT
+Bursa,NA,Turkey,TUR,Bursa - Metro,TR_04,Turkey,NA,Bursa,NA,NA
+Gaziantep,NA,Turkey,TUR,Gaziantep - Metro,TR_06,Turkey,NA,Gaziantep,NA,NA
+Istanbul,NA,Turkey,TUR,Istanbul - Metro,TR_01,Turkey,NA,Istanbul,Istanbul (TR),TUR_IST
+Izmir,NA,Turkey,TUR,Izmir - Metro,TR_03,Turkey,NA,Izmir,Izmir (TR),TUR_IZM
+Kayseri,NA,Turkey,TUR,Kayseri - Metro,TR_09,Turkey,NA,Kayseri,NA,NA
+Konya,NA,Turkey,TUR,Konya - Metro,TR_07,Turkey,NA,Konya,NA,NA
+Ashgabat,NA,Turkmenistan,TKM,Ashgabat,TKM001,Turkmenistan,NA,Ashgabat,NA,NA
+Kampala,NA,Uganda,UGA,Kampala,UGA001,Uganda,NA,Kampala,NA,NA
+Dnipropetrovsk,NA,Ukraine,UKR,Dnipropetrovsk,UR_04,Ukraine,NA,Dnipropetrovsk,NA,NA
+Kharkiv,NA,Ukraine,UKR,Kharkiv,UR_02,Ukraine,NA,Kharkiv,NA,NA
+Kiev,NA,Ukraine,UKR,Kiev,UR_01,Ukraine,NA,Kiev,Kiev (UA),UKR_IEV
+Lvov,NA,Ukraine,UKR,Lvov,UR_07,Ukraine,NA,Lvov,NA,NA
+Mykolaiv,NA,Ukraine,UKR,Mykolaiv,UR_08,Ukraine,NA,Mykolaiv,NA,NA
+Odesa,NA,Ukraine,UKR,Odesa,UR_03,Ukraine,NA,Odesa,NA,NA
+Zaporizhzhya,NA,Ukraine,UKR,Zaporizhzhya,UR_06,Ukraine,NA,Zaporizhzhya,NA,NA
 Abu Dhabi,abdhb,United Arab Emirates,ARE,Abu Dhabi,ARE1C,UAE,Abu Dhabi,Abu Dhabi,Abu Dhabi (AE),ARE_AUH
 Dubai,dubai,United Arab Emirates,ARE,Dubai,ARE2C,UAE,Dubai,Dubai,Dubai (AE),ARE_DXB
-Sharjah,,United Arab Emirates,ARE,Sharjah,ARE3C,UAE,,Sharjah,Sharjah (AE),ARE_SHJ
-Aberdeen,,United Kingdom,GBR,Aberdeen - Metro,UK_17,United Kingdom,,Aberdeen,Aberdeen (UK),GBR_ABD
-Belfast,,United Kingdom,GBR,Belfast - Metro,UK_10,United Kingdom,,Belfast,Belfast (UK),GBR_BEL
+Sharjah,NA,United Arab Emirates,ARE,Sharjah,ARE3C,UAE,NA,Sharjah,Sharjah (AE),ARE_SHJ
+Aberdeen,NA,United Kingdom,GBR,Aberdeen - Metro,UK_17,United Kingdom,NA,Aberdeen,Aberdeen (UK),GBR_ABD
+Belfast,NA,United Kingdom,GBR,Belfast - Metro,UK_10,United Kingdom,NA,Belfast,Belfast (UK),GBR_BEL
 Birmingham,brmng,United Kingdom,GBR,Birmingham - Metro,UK_02,United Kingdom,Birmingham Centre,Birmingham,Birmingham (UK),GBR_BHM
-Brighton,,United Kingdom,GBR,Brighton - Metro,UK_12,United Kingdom,,Brighton,Brighton (UK),GBR_BSH
-Bristol,,United Kingdom,GBR,Bristol - Metro,UK_11,United Kingdom,,Bristol,Bristol (UK),GBR_BRS
-Cardiff,,United Kingdom,GBR,Cardiff - Metro,UK_16,United Kingdom,,Cardiff,Cardiff (UK),GBR_CDF
+Brighton,NA,United Kingdom,GBR,Brighton - Metro,UK_12,United Kingdom,NA,Brighton,Brighton (UK),GBR_BSH
+Bristol,NA,United Kingdom,GBR,Bristol - Metro,UK_11,United Kingdom,NA,Bristol,Bristol (UK),GBR_BRS
+Cardiff,NA,United Kingdom,GBR,Cardiff - Metro,UK_16,United Kingdom,NA,Cardiff,Cardiff (UK),GBR_CDF
 Edinburgh,ednbr,United Kingdom,GBR,Edinburgh - Metro,UK_15,United Kingdom,Edinburgh,Edinburgh,Edinburgh (UK),GBR_EDI
 Glasgow,glsgw,United Kingdom,GBR,Glasgow - Metro,UK_05,United Kingdom,Glasgow Area,Glasgow,Glasgow (UK),GBR_GLW
 Leeds,leeds,United Kingdom,GBR,Leeds-Bradford - Metro,UK_04,United Kingdom,Leeds,Leeds,Leeds-Bradford (UK),GBR_LBA
-Leicester,,United Kingdom,GBR,Leicester - Metro,UK_14,United Kingdom,,Leicester,Leicester (UK),GBR_LCS
-Liverpool,,United Kingdom,GBR,Liverpool - Metro,UK_07,United Kingdom,,Liverpool,Liverpool (UK),GBR_LIV
+Leicester,NA,United Kingdom,GBR,Leicester - Metro,UK_14,United Kingdom,NA,Leicester,Leicester (UK),GBR_LCS
+Liverpool,NA,United Kingdom,GBR,Liverpool - Metro,UK_07,United Kingdom,NA,Liverpool,Liverpool (UK),GBR_LIV
 London,londn,United Kingdom,GBR,London - Metro,UK_01,United Kingdom,London,London,London (UK),GBR_LON
 Manchester,mnchs,United Kingdom,GBR,Manchester - Metro,UK_03,United Kingdom,Manchester Centre,Manchester,Manchester (UK),GBR_MNC
-Newcastle upon Tyne,,United Kingdom,GBR,Newcastle upon Tyne - Metro,UK_06,United Kingdom,,Newcastle upon Tyne,Newcastle upon Tyne (UK),GBR_NCL
-Nottingham,,United Kingdom,GBR,Nottingham - Metro,UK_08,United Kingdom,,Nottingham,Nottingham (UK),GBR_NTG
-Portsmouth-Southampton,,United Kingdom,GBR,Portsmouth-Southampton - Metro,UK_13,United Kingdom,,Portsmouth-Southampton,Portsmouth-Southampton (UK),GBR_PME
-Sheffield,,United Kingdom,GBR,Sheffield - Metro,UK_09,United Kingdom,,Sheffield,Sheffield (UK),GBR_SHE
-Anaheim,orgca,United States,USA,,,United States,"Anaheim-Santa Ana, CA","Anaheim, CA",,
+Newcastle upon Tyne,NA,United Kingdom,GBR,Newcastle upon Tyne - Metro,UK_06,United Kingdom,NA,Newcastle upon Tyne,Newcastle upon Tyne (UK),GBR_NCL
+Nottingham,NA,United Kingdom,GBR,Nottingham - Metro,UK_08,United Kingdom,NA,Nottingham,Nottingham (UK),GBR_NTG
+Portsmouth-Southampton,NA,United Kingdom,GBR,Portsmouth-Southampton - Metro,UK_13,United Kingdom,NA,Portsmouth-Southampton,Portsmouth-Southampton (UK),GBR_PME
+Sheffield,NA,United Kingdom,GBR,Sheffield - Metro,UK_09,United Kingdom,NA,Sheffield,Sheffield (UK),GBR_SHE
+Anaheim,orgca,United States,USA,NA,NA,United States,"Anaheim-Santa Ana, CA","Anaheim, CA",NA,NA
 Atlanta,atlga,United States,USA,"Atlanta-Sandy Springs-Roswell, GA",USM01,United States,"Atlanta, GA","Atlanta, GA","Atlanta, GA (US)",USA_AZI
-Austin,,United States,USA,"Austin-Round Rock, TX",USM31,United States,,"Austin, TX",,
-Baltimore,,United States,USA,"Baltimore-Columbia-Towson, MD",USM02,United States,,"Baltimore, MD","Baltimore, MD (US)",USA_BAL
+Austin,NA,United States,USA,"Austin-Round Rock, TX",USM31,United States,NA,"Austin, TX",NA,NA
+Baltimore,NA,United States,USA,"Baltimore-Columbia-Towson, MD",USM02,United States,NA,"Baltimore, MD","Baltimore, MD (US)",USA_BAL
 Boston,bstma,United States,USA,"Boston-Cambridge-Newton, MA-NH",USM03,United States,"Boston, MA","Boston, MA","Boston, MA (US)",USA_BOS
-Buffalo,,United States,USA,"Buffalo-Cheektowaga-Niagara Falls, NY",USM32,United States,,"Buffalo, NY","Buffalo, NY (US)",USA_BUF
-Charlotte,,United States,USA,"Charlotte-Concord-Gastonia, NC-SC",USM04,United States,,"Charlotte, NC","Charlotte, NC (US)",USA_CRQ
+Buffalo,NA,United States,USA,"Buffalo-Cheektowaga-Niagara Falls, NY",USM32,United States,NA,"Buffalo, NY","Buffalo, NY (US)",USA_BUF
+Charlotte,NA,United States,USA,"Charlotte-Concord-Gastonia, NC-SC",USM04,United States,NA,"Charlotte, NC","Charlotte, NC (US)",USA_CRQ
 Chicago,chcil,United States,USA,"Chicago-Naperville-Elgin, IL-IN-WI",USM05,United States,"Chicago, IL","Chicago, IL","Chicago, IL (US)",USA_CHI
-Cincinnati,,United States,USA,"Cincinnati, OH-KY-IN",USM29,United States,,"Cincinnati, OH","Cincinnati, OH (US)",USA_CVG
-Cleveland,,United States,USA,"Cleveland-Elyria, OH",USM26,United States,,"Cleveland, OH","Cleveland, OH (US)",USA_CLE
-Columbus,,United States,USA,"Columbus, OH",USM33,United States,,"Columbus, OH","Columbus, OH (US)",USA_CMH
+Cincinnati,NA,United States,USA,"Cincinnati, OH-KY-IN",USM29,United States,NA,"Cincinnati, OH","Cincinnati, OH (US)",USA_CVG
+Cleveland,NA,United States,USA,"Cleveland-Elyria, OH",USM26,United States,NA,"Cleveland, OH","Cleveland, OH (US)",USA_CLE
+Columbus,NA,United States,USA,"Columbus, OH",USM33,United States,NA,"Columbus, OH","Columbus, OH (US)",USA_CMH
 Dallas,dlltx,United States,USA,"Dallas-Fort Worth-Arlington, TX",USM06,United States,"Dallas, TX","Dallas, TX","Dallas, TX (US)",USA_DLX
 Denver,dnvco,United States,USA,"Denver-Aurora-Lakewood, CO",USM07,United States,"Denver, CO","Denver, CO","Denver, CO (US)",USA_DEN
 Detroit,dtrmi,United States,USA,"Detroit-Warren-Dearborn, MI",USM08,United States,"Detroit, MI","Detroit, MI","Detroit, MI (US)",USA_DET
-El Paso,,United States,USA,"El Paso, TX",USM34,United States,,"El Paso, TX","El Paso, TX (US)",USA_ELP
-Honolulu,,United States,USA,,,,,,"Honolulu, HI (US)",USA_HNL
+El Paso,NA,United States,USA,"El Paso, TX",USM34,United States,NA,"El Paso, TX","El Paso, TX (US)",USA_ELP
+Honolulu,NA,United States,USA,NA,NA,NA,NA,Honolulu,"Honolulu, HI (US)",USA_HNL
 Houston,hsttx,United States,USA,"Houston-The Woodlands-Sugar Land, TX",USM09,United States,"Houston, TX","Houston, TX","Houston, TX (US)",USA_HKA
-Indianapolis,,United States,USA,"Indianapolis-Carmel-Anderson, IN",USM36,United States,,"Indianapolis, IN","Indianapolis, IN (US)",USA_IND
-Jacksonville,,United States,USA,"Jacksonville, FL",USM37,United States,,"Jacksonville, FL","Jacksonville, FL (US)",USA_JAX
-Kansas City,,United States,USA,"Kansas City, MO-KS",USM28,United States,,"Kansas City, MO","Kansas City, MO (US)",USA_KCK
-Las Vegas,,United States,USA,"Las Vegas-Henderson-Paradise, NV",USM30,United States,,"Las Vegas, NV","Las Vegas, NV (US)",USA_LAS
+Indianapolis,NA,United States,USA,"Indianapolis-Carmel-Anderson, IN",USM36,United States,NA,"Indianapolis, IN","Indianapolis, IN (US)",USA_IND
+Jacksonville,NA,United States,USA,"Jacksonville, FL",USM37,United States,NA,"Jacksonville, FL","Jacksonville, FL (US)",USA_JAX
+Kansas City,NA,United States,USA,"Kansas City, MO-KS",USM28,United States,NA,"Kansas City, MO","Kansas City, MO (US)",USA_KCK
+Las Vegas,NA,United States,USA,"Las Vegas-Henderson-Paradise, NV",USM30,United States,NA,"Las Vegas, NV","Las Vegas, NV (US)",USA_LAS
 Los Angeles,lsaca,United States,USA,"Los Angeles-Long Beach-Anaheim, CA",USM10,United States,"Los Angeles-Long Beach, CA","Los Angeles, CA","Los Angeles, CA (US)",USA_LAX
-Louisville,,United States,USA,"Louisville/Jefferson County, KY-IN",USM38,United States,,"Louisville, KY","Louisville, KY (US)",USA_LUI
-Memphis,,United States,USA,"Memphis, TN-MS-AR",USM39,United States,,"Memphis, TN","Memphis, TN (US)",USA_MEM
+Louisville,NA,United States,USA,"Louisville/Jefferson County, KY-IN",USM38,United States,NA,"Louisville, KY","Louisville, KY (US)",USA_LUI
+Memphis,NA,United States,USA,"Memphis, TN-MS-AR",USM39,United States,NA,"Memphis, TN","Memphis, TN (US)",USA_MEM
 Miami,mimfl,United States,USA,"Miami-Fort Lauderdale-West Palm Beach, FL",USM11,United States,"Miami-Hialeah, FL","Miami, FL","Miami, FL (US)",USA_MIA
-Milwaukee,,United States,USA,"Milwaukee-Waukesha-West Allis, WI",USM40,United States,,"Milwaukee, WI","Milwaukee, WI (US)",USA_MKE
+Milwaukee,NA,United States,USA,"Milwaukee-Waukesha-West Allis, WI",USM40,United States,NA,"Milwaukee, WI","Milwaukee, WI (US)",USA_MKE
 Minneapolis,mnnmn,United States,USA,"Minneapolis-St. Paul-Bloomington, MN-WI",USM12,United States,"Minneapolis-St Paul, MN-WI","Minneapolis, MN","Minneapolis, MN (US)",USA_MES
 Nashville,nshtn,United States,USA,"Nashville-Davidson--Murfreesboro--Franklin, TN",USM41,United States,"Nashville, TN","Nashville, TN","Nashville, TN (US)",USA_BNA
 New Orleans,nwola,United States,USA,"New Orleans-Metairie, LA",USM42,United States,"New Orleans, LA","New Orleans, LA","New Orleans, LA (US)",USA_MSY
 New York,nwyny,United States,USA,"New York-Newark-Jersey City, NY-NJ-PA",USM13,United States,"New York, NY","New York, NY","New York, NY (US)",USA_NYC
-Norfolk,vrbva,United States,USA,"Virginia Beach-Norfolk-Newport News, VA-NC",USM50,United States,"Norfolk-Virginia Beach, VA","Norfolk, VA",,
-Oahu,hnlhi,United States,USA,"Urban Honolulu, HI",USM35,United States,"Oahu Island, HI","Oahu, HI",,
-Oklahoma City,,United States,USA,"Oklahoma City, OK",USM43,United States,,"Oklahoma City, OK","Oklahoma City, OK (US)",USA_OKC
+Norfolk,vrbva,United States,USA,"Virginia Beach-Norfolk-Newport News, VA-NC",USM50,United States,"Norfolk-Virginia Beach, VA","Norfolk, VA",NA,NA
+Oahu,hnlhi,United States,USA,"Urban Honolulu, HI",USM35,United States,"Oahu Island, HI","Oahu, HI",NA,NA
+Oklahoma City,NA,United States,USA,"Oklahoma City, OK",USM43,United States,NA,"Oklahoma City, OK","Oklahoma City, OK (US)",USA_OKC
 Orlando,orlfl,United States,USA,"Orlando-Kissimmee-Sanford, FL",USM27,United States,"Orlando, FL","Orlando, FL","Orlando, FL (US)",USA_ORL
 Philadelphia,phlpa,United States,USA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",USM14,United States,"Philadelphia, PA-NJ","Philadelphia, PA","Philadelphia, PA (US)",USA_PHL
 Phoenix,phnaz,United States,USA,"Phoenix-Mesa-Scottsdale, AZ",USM15,United States,"Phoenix, AZ","Phoenix, AZ","Phoenix, AZ (US)",USA_PHX
-Pittsburgh,,United States,USA,"Pittsburgh, PA",USM16,United States,,"Pittsburgh, PA","Pittsburgh, PA (US)",USA_PIT
-Portland,,United States,USA,"Portland-Vancouver-Hillsboro, OR-WA",USM17,United States,,"Portland, OR","Portland, OR (US)",USA_PDX
-Providence,,United States,USA,"Providence-Warwick, RI-MA",USM44,United States,,"Providence, RI","Providence, RI (US)",USA_PVD
-Richmond,,United States,USA,"Richmond, VA",USM45,United States,,"Richmond, VA","Richmond, VA (US)",USA_RIC
-Riverside,,United States,USA,"Riverside-San Bernardino-Ontario, CA",USM18,United States,,"Riverside, CA","Riverside, CA (US)",USA_RAL
-Sacramento,,United States,USA,"Sacramento--Roseville--Arden-Arcade, CA",USM46,United States,,"Sacramento, CA","Sacramento, CA (US)",USA_SAC
-Salt Lake City,,United States,USA,"Salt Lake City, UT",USM47,United States,,"Salt Lake City, UT","Salt Lake City, UT (US)",USA_SLC
-San Antonio,,United States,USA,"San Antonio-New Braunfels, TX",USM48,United States,,"San Antonio, TX","San Antonio, TX (US)",USA_SAT
+Pittsburgh,NA,United States,USA,"Pittsburgh, PA",USM16,United States,NA,"Pittsburgh, PA","Pittsburgh, PA (US)",USA_PIT
+Portland,NA,United States,USA,"Portland-Vancouver-Hillsboro, OR-WA",USM17,United States,NA,"Portland, OR","Portland, OR (US)",USA_PDX
+Providence,NA,United States,USA,"Providence-Warwick, RI-MA",USM44,United States,NA,"Providence, RI","Providence, RI (US)",USA_PVD
+Richmond,NA,United States,USA,"Richmond, VA",USM45,United States,NA,"Richmond, VA","Richmond, VA (US)",USA_RIC
+Riverside,NA,United States,USA,"Riverside-San Bernardino-Ontario, CA",USM18,United States,NA,"Riverside, CA","Riverside, CA (US)",USA_RAL
+Sacramento,NA,United States,USA,"Sacramento--Roseville--Arden-Arcade, CA",USM46,United States,NA,"Sacramento, CA","Sacramento, CA (US)",USA_SAC
+Salt Lake City,NA,United States,USA,"Salt Lake City, UT",USM47,United States,NA,"Salt Lake City, UT","Salt Lake City, UT (US)",USA_SLC
+San Antonio,NA,United States,USA,"San Antonio-New Braunfels, TX",USM48,United States,NA,"San Antonio, TX","San Antonio, TX (US)",USA_SAT
 San Diego,sndca,United States,USA,"San Diego-Carlsbad, CA",USM19,United States,"San Diego, CA","San Diego, CA","San Diego, CA (US)",USA_SAN
 San Francisco,snfca,United States,USA,"San Francisco-Oakland-Hayward, CA",USM20,United States,"San Francisco/San Mateo, CA","San Francisco, CA","San Francisco, CA (US)",USA_SFO
-San Jose,,United States,USA,"San Jose-Sunnyvale-Santa Clara, CA",USM21,United States,,"San Jose, CA","San Jose, CA (US)",USA_SJC
+San Jose,NA,United States,USA,"San Jose-Sunnyvale-Santa Clara, CA",USM21,United States,NA,"San Jose, CA","San Jose, CA (US)",USA_SJC
 Seattle,sttwa,United States,USA,"Seattle-Tacoma-Bellevue, WA",USM22,United States,"Seattle, WA","Seattle, WA","Seattle, WA (US)",USA_SEA
 St. Louis,stlmo,United States,USA,"St. Louis, MO-IL",USM23,United States,"St Louis, MO-IL","St. Louis, MO","St. Louis, MO (US)",USA_STL
 Tampa,tmpfl,United States,USA,"Tampa-St. Petersburg-Clearwater, FL",USM24,United States,"Tampa-St Petersburg, FL","Tampa, FL","Tampa-St. Pete., FL (US)",USA_TPA
-Tucson,,United States,USA,"Tucson, AZ",USM49,United States,,"Tucson, AZ","Tucson, AZ (US)",USA_TUZ
-Virginia Beach,,United States,USA,,,,,,"Virginia Beach, VA (US)",USA_VAB
+Tucson,NA,United States,USA,"Tucson, AZ",USM49,United States,NA,"Tucson, AZ","Tucson, AZ (US)",USA_TUZ
+Virginia Beach,NA,United States,USA,NA,NA,NA,NA,Virginia Beach,"Virginia Beach, VA (US)",USA_VAB
 Washington,wshdc,United States,USA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",USM25,United States,"Washington, DC-MD-VA","Washington, DC",Washington DC (US),USA_WAS
-Montevideo,,Uruguay,URY,Montevideo,URY001,Uruguay,,Montevideo,Montevideo (UY),URY_MVD
-Tashkent,,Uzbekistan,UZB,Tashkent,UZB001,Uzbekistan,,Tashkent,,
-Barquisimeto,,Venezuela,VEN,Barquisimeto,VEN7C,Venezuela,,Barquisimeto,,
-Caracas,,Venezuela,VEN,Caracas,VEN1C,Venezuela,,Caracas,Caracas (VE),VEN_CCS
-Ciudad Guayana,,Venezuela,VEN,Ciudad Guayana,VEN6C,Venezuela,,Ciudad Guayana,,
-Maracaibo,,Venezuela,VEN,Maracaibo,VEN3C,Venezuela,,Maracaibo,,
-Maracay,,Venezuela,VEN,Maracay,VEN5C,Venezuela,,Maracay,,
-Valencia (Venezuela),,Venezuela,VEN,Valencia (Venezuela),VEN4C,Venezuela,,Valencia,,
-Can Tho,,Viet Nam,VNM,Can Tho,VNM5,Vietnam,,Can Tho,,
-Da Nang,,Viet Nam,VNM,Da Nang,VNM4,Vietnam,,Da Nang,,
-Hà Noi,,Viet Nam,VNM,Hà Noi,VNM2,Vietnam,,Hà Noi,Hà Noi (VN),VNM_HAN
-Hai Phòng,,Viet Nam,VNM,Hai Phòng,VNM3,Vietnam,,Hai Phòng,,
-Ho Chi Minh City,,Viet Nam,VNM,Ho Chi Minh City,VNM1,Vietnam,,Ho Chi Minh City,Ho Chi Minh City (VN),VNM_SGN
-Aden,,Yemen,YEM,Aden,YEM001,Yemen,,Aden,,
-Sana'a',,Yemen,YEM,Sana'a',YEM002,Yemen,,Sana'a',,
-Kitwe,,Zambia,ZIM,Kitwe,ZMB002,Zambia,,Kitwe,,
-Lusaka,,Zambia,ZIM,Lusaka,ZMB001,Zambia,,Lusaka,,
-Ndola,,Zambia,ZIM,Ndola,ZMB003,Zambia,,Ndola,,
-Bulawayo,,Zimbabwe,ZWE,Bulawayo,ZWE002,Zimbabwe,,Bulawayo,,
-Harare,,Zimbabwe,ZWE,Harare,ZWE001,Zimbabwe,,Harare,,
+Montevideo,NA,Uruguay,URY,Montevideo,URY001,Uruguay,NA,Montevideo,Montevideo (UY),URY_MVD
+Tashkent,NA,Uzbekistan,UZB,Tashkent,UZB001,Uzbekistan,NA,Tashkent,NA,NA
+Barquisimeto,NA,Venezuela,VEN,Barquisimeto,VEN7C,Venezuela,NA,Barquisimeto,NA,NA
+Caracas,NA,Venezuela,VEN,Caracas,VEN1C,Venezuela,NA,Caracas,Caracas (VE),VEN_CCS
+Ciudad Guayana,NA,Venezuela,VEN,Ciudad Guayana,VEN6C,Venezuela,NA,Ciudad Guayana,NA,NA
+Maracaibo,NA,Venezuela,VEN,Maracaibo,VEN3C,Venezuela,NA,Maracaibo,NA,NA
+Maracay,NA,Venezuela,VEN,Maracay,VEN5C,Venezuela,NA,Maracay,NA,NA
+Valencia (Venezuela),NA,Venezuela,VEN,Valencia (Venezuela),VEN4C,Venezuela,NA,Valencia,NA,NA
+Can Tho,NA,Viet Nam,VNM,Can Tho,VNM5,Vietnam,NA,Can Tho,NA,NA
+Da Nang,NA,Viet Nam,VNM,Da Nang,VNM4,Vietnam,NA,Da Nang,NA,NA
+Hà Noi,NA,Viet Nam,VNM,Hà Noi,VNM2,Vietnam,NA,Hà Noi,Hà Noi (VN),VNM_HAN
+Hai Phòng,NA,Viet Nam,VNM,Hai Phòng,VNM3,Vietnam,NA,Hai Phòng,NA,NA
+Ho Chi Minh City,NA,Viet Nam,VNM,Ho Chi Minh City,VNM1,Vietnam,NA,Ho Chi Minh City,Ho Chi Minh City (VN),VNM_SGN
+Aden,NA,Yemen,YEM,Aden,YEM001,Yemen,NA,Aden,NA,NA
+Sana'a',NA,Yemen,YEM,Sana'a',YEM002,Yemen,NA,Sana'a',NA,NA
+Kitwe,NA,Zambia,ZIM,Kitwe,ZMB002,Zambia,NA,Kitwe,NA,NA
+Lusaka,NA,Zambia,ZIM,Lusaka,ZMB001,Zambia,NA,Lusaka,NA,NA
+Ndola,NA,Zambia,ZIM,Ndola,ZMB003,Zambia,NA,Ndola,NA,NA
+Bulawayo,NA,Zimbabwe,ZWE,Bulawayo,ZWE002,Zimbabwe,NA,Bulawayo,NA,NA
+Harare,NA,Zimbabwe,ZWE,Harare,ZWE001,Zimbabwe,NA,Harare,NA,NA
