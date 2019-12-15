@@ -38,7 +38,8 @@
 #' \item{oegc_name}{Oxford Economics Global Cities city name}
 #' \item{oegc_loc_code}{Oxford Economics Global Cities location code}
 #' \item{oegc_ctry_name}{Oxford Economics Global Cities country name}
-#' \item{mkt_geocode_friendly}{Market name that works well in geocoding scripts, such as Google API}
+#' \item{mkt_geocode_friendly}{Market name that works well in geocoding
+#' scripts, such as Google API. NA for most markets.}
 #' \item{oe_gct_name}{Oxford Economics Global City Travel city name}
 #' \item{oe_gct_location_code}{Oxford Economics Global City Travel location code}}
 #' \item{note} Note
