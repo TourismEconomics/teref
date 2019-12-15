@@ -11,13 +11,13 @@
 \item{country_name}{Straightforward name for country. Useful to join with ctry_code_book}
 \item{iso3166_1a3}{The ISO 3166 code for the country. This is the three-letter code (alpha-3).
 For further details, see \url{https://www.iso.org/iso-3166-country-codes.html}}
-\item{oe_globalcity_name}{Oxford Economics Global Cities city name}
+\item{oegc_name}{Oxford Economics Global Cities city name}
 \item{oegc_loc_code}{Oxford Economics Global Cities location code}
 \item{oegc_ctry_name}{Oxford Economics Global Cities country name}
-\item{str_text}{STR market name}
 \item{mkt_geocode_friendly}{Market name that works well in geocoding scripts, such as Google API}
 \item{oe_gct_name}{Oxford Economics Global City Travel city name}
-\item{oe_gct_location_code}{Oxford Economics Global City Travel location code}}}
+\item{oe_gct_location_code}{Oxford Economics Global City Travel location code}}
+\item{note} Note}
 \usage{
 cb_city
 }
