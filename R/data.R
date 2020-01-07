@@ -32,7 +32,8 @@
 #' \describe{
 #' \item{mkt_name}{Straightforward name for city}
 #' \item{mkt_sh}{Five-letter code for market}
-#' \item{country_name}{Straightforward name for country. Useful to join with ctry_code_book}
+#' \item{country_name}{Straightforward name for country. Useful to join with ctry_code_book.
+#' Note: The country_name for Hong Kong is Hong Kong to help differentiate it.}
 #' \item{iso3166_1a3}{The ISO 3166 code for the country. This is the three-letter code (alpha-3).
 #' For further details, see \url{https://www.iso.org/iso-3166-country-codes.html}}
 #' \item{oegc_name}{Oxford Economics Global Cities city name}
