@@ -17,7 +17,7 @@
 #' \item{oegts_country_name}{Oxford Economics Global Travel Service country name}
 #' \item{oegts_region_midlev}{Oxford Economics Global Travel Service mid-level region}
 #' \item{oegts_region_highlev}{Oxford Economics Global Travel Service high-level region. These include: Europe, Africa and Middle East, Americas, Asia Pacific, and NA.}
-#' \item{oegts_origin_code}{Oxford Economics Global Travel Service origin code}
+#' \item{oegts_loc_code}{Oxford Economics Global Travel Service location (country) code}
 #' \item{internet_tld}{Country code top-level domain. Most tld codes are identical to ISO 3166-1
 #' codes, with some notable exceptions. For further details,
 #' see \url{https://en.wikipedia.org/wiki/Country_code_top-level_domain}}

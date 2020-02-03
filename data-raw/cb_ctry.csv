@@ -1,4 +1,4 @@
-﻿country_name,ctry_sh,iso3166_1a3,iso3166_snamelc,oegm_ctry_name,oegm_ctry_twoletter,oegc_ctry_name,oegc_loc_code,oegm_region_primary,oegts_country_name,oegts_region_midlev,oegts_region_highlev,oegts_origin_code,internet_tld,note
+﻿country_name,ctry_sh,iso3166_1a3,iso3166_snamelc,oegm_ctry_name,oegm_ctry_twoletter,oegc_ctry_name,oegc_loc_code,oegm_region_primary,oegts_country_name,oegts_region_midlev,oegts_region_highlev,oegts_loc_code,internet_tld,note
 Afghanistan,,AFG,Afghanistan,,,Afghanistan,AFG,,,,,,af,
 Aland Islands,,ALA,Åland Islands,,,,,,,,,,ax,"There is indeed some small symbol above the A in the ISO english short name, hence it sorts lower on the ISO list"
 Albania,,ALB,Albania,,,Albania,ALB,,Albania,Emerging Europe,Europe,ALB,al,
