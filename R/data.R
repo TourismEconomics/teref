@@ -104,7 +104,10 @@
 #' @format A tibble:
 #' \describe{
 #' \item{geoname}{Name of the region in GTS)}
-#' \item{category}{Indicates whether it is a highlev or midlev aggregate in GTS. Or not-elsewhere specified.)}
+#' \item{category}{Indicates whether it is a highlev or midlev aggregate in GTS, or a
+#' continent or global. Not elsewhere specified is categorized as a midlev region. Africa
+#' is categorized as continent, because it shouldn't be summed with the other
+#' highlev or midlev regions.)}
 #' \item{oegts_loc_code}{Three-letter location code used in GTS database}
 "cb_regions_oegts"
 
