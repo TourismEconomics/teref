@@ -70,7 +70,7 @@
 #' Oceania" that are similar in a sense to countries.}
 #' \item{oegtc_region_midlev}{Mid-level regions used in GCT}
 #' \item{oegtc_region_highlev}{High-level regions used in GCT}}
-"cb_ctry_oegtc"
+"cb_ctry_oegct"
 
 #' Variable codes for Global Cities data
 #'
@@ -96,5 +96,16 @@
 #' \item{sh_description}{Short description of indicator}
 #' \item{oe_description}{Description of indicator in database}}
 "cb_var_oegct"
+
+#' Region codes for Global Travel Service data
+#'
+#' Short, lower-case variable codes to use with Global Travel Service data.
+#'
+#' @format A tibble:
+#' \describe{
+#' \item{geoname}{Name of the region in GTS)}
+#' \item{category}{Indicates whether it is a highlev or midlev aggregate in GTS. Or not-elsewhere specified.)}
+#' \item{oegts_loc_code}{Three-letter location code used in GTS database}
+"cb_regions_oegts"
 
 
