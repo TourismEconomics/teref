@@ -111,4 +111,16 @@
 #' \item{oegts_loc_code}{Three-letter location code used in GTS database}
 "cb_regions_oegts"
 
-
+#' Variable codes for Global Travel Service country metrics
+#'
+#' Short, lower-case variable codes to use with Global Travel Service country metrics. The
+#' variables in the "Country Metrics" section of the database do not have origin-specific
+#' data, and are instead indicators about the location country overall.
+#'
+#' @format A tibble:
+#' \describe{
+#' \item{var}{Short, lower-case variable code (no special chracters)}
+#' \item{oe_var}{Variable code in database (includes special characters such as $)}
+#' \item{sh_description}{Short description of indicator}
+#' \item{oe_description}{Description of indicator in database}}
+"cb_var_oegts_cmetric"

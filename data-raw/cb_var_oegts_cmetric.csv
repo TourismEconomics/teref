@@ -1,0 +1,12 @@
+﻿var,oe_var,sh_description,oe_description
+vf,TOURFSTAY,International overnight visits,Overnight tourists arrivals
+nf,FNIGHTSTOT,International nights,Nights in all accommodation types (international)
+nd,RNIGHTSTOT,Domestic nights,Nights in all accommodation types (domestic)
+vout,TOURROUT,Departures,Departures
+xfares,XFARES!$,Inbound transportation,Total inbound transportation (US$ bn)
+xfaresair,XFARESAIR!$,Inbound air transportation,Air inbound transportation (US$ bn)
+mfares,MFARES!$,Outbound transportation,Total outbound transportation (US$ bn)
+mfaresair,MFARESAIR!$,Outbound air transportation,Air outbound transportation (US$ bn)
+spendf,XFVS!$,Inbound travel spend,Total inbound travel (US$ bn)
+spendd,DMSTDM!$,Domestic travel spend,Total domestic travel (US$ bn)
+spendout,MRSA!$,Outbound travel spend,Total outbound travel (US$ bn)

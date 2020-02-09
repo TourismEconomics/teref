@@ -21,6 +21,9 @@ databases and sources. This package contains three reference tables:
     Global Cities database.
   - **cb\_var\_oegct:** Variable codes and descriptions to use with the
     Global City Travel database.
+  - **cb\_var\_oegts\_cmetric:** Variable codes and descriptions to use
+    with the country metric variables in the Global Travel Service
+    database.
 
 ## Installation
 
