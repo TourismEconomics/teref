@@ -1,4 +1,7 @@
 ﻿var,oe_var,sh_description,oe_description
+gdp,GDP,"GDP, real LC","GDP, real LC"
+gdpusd,GDP$,"GDP, real US dollars","GDP, real US$, 2005 price"
+gdpcfxusd,GDP!$,"GDP, nominal US dollars","GDP, nominal US$"
 vf,TOURFSTAY,International overnight visits,Overnight tourists arrivals
 nf,FNIGHTSTOT,International nights,Nights in all accommodation types (international)
 nd,RNIGHTSTOT,Domestic nights,Nights in all accommodation types (domestic)
