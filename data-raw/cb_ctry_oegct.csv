@@ -1,4 +1,4 @@
-orig_ctry_code,geo_name,country_name,oegtc_country_name,geo_type,oegtc_region_midlev,oegtc_region_highlev
+orig_ctry_code,geo_name,country_name,oegct_country_name,geo_type,oegct_region_midlev,oegct_region_highlev
 BGR,Bulgaria,Bulgaria,Bulgaria,country,Emerging Europe,Europe
 CZE,Czechia,Czechia,Czech Republic,country,Emerging Europe,Europe
 HRV,Croatia,Croatia,Croatia,country,Emerging Europe,Europe
