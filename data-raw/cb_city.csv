@@ -707,7 +707,7 @@ San Diego,sndca,United States,"San Diego-Carlsbad, CA",United States,USM19,,"San
 San Francisco,snfca,United States,"San Francisco-Oakland-Hayward, CA",United States,USM20,,"San Francisco, CA (US)",USA_SFO,
 San José,,Costa Rica,San José,Costa Rica,CRI001,,San José (CR),CRI_SJO,
 San Jose del Monte,,Philippines,San Jose del Monte,Philippines,PHL5C,,,,
-"San Jose, CA",,United States,"San Jose-Sunnyvale-Santa Clara, CA",United States,USM21,,"San Jose, CA (US)",USA_SJC,
+"San Jose, CA",snjca,United States,"San Jose-Sunnyvale-Santa Clara, CA",United States,USM21,,"San Jose, CA (US)",USA_SJC,
 San Juan,,Puerto Rico,San Juan,Puerto Rico,PRI1,,,,
 San Luis Potosí,,Mexico,San Luis Potosí,Mexico,MEXOC,,,,
 San Miguel De Tucumán,,Argentina,San Miguel De Tucumán,Argentina,ARGOC,,,,
