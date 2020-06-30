@@ -1,13 +1,13 @@
 ﻿country_name,ctry_sh,iso3166_1a3,iso3166_snamelc,oegm_ctry_name,oegm_ctry_twoletter,oegc_ctry_name,oegc_loc_code,oegm_region_primary,oegts_country_name,oegts_region_midlev,oegts_region_highlev,oegts_loc_code,internet_tld,note
-Afghanistan,,AFG,Afghanistan,,,Afghanistan,AFG,,,Middle East,,,af,Manually assigned oegts_region_midlev
-Aland Islands,,ALA,Åland Islands,,,,,,,Western Europe,,,ax,"There is indeed some small symbol above the A in the ISO english short name, hence it sorts lower on the ISO list. Manually assigned oegts_region_midlev"
+Afghanistan,,AFG,Afghanistan,,,Afghanistan,AFG,,,Middle East,Africa and Middle East,,af,Manually assigned oegts_region_midlev
+Aland Islands,,ALA,Åland Islands,,,,,,,Western Europe,Europe,,ax,"There is indeed some small symbol above the A in the ISO english short name, hence it sorts lower on the ISO list. Manually assigned oegts_region_midlev"
 Albania,,ALB,Albania,,,Albania,ALB,,Albania,Emerging Europe,Europe,ALB,al,
 Algeria,,DZA,Algeria,,,Algeria,DZA,,Algeria,North Africa,Africa and Middle East,DZA,dz,
-American Samoa,,ASM,American Samoa,,,,,,,Oceania,,,as,Manually assigned oegts_region_midlev
-Andorra,,AND,Andorra,,,,,,,Western Europe,,,ad,Manually assigned oegts_region_midlev
+American Samoa,,ASM,American Samoa,,,,,,,Oceania,Asia Pacific,,as,Manually assigned oegts_region_midlev
+Andorra,,AND,Andorra,,,,,,,Western Europe,Europe,,ad,Manually assigned oegts_region_midlev
 Angola,,AGO,Angola,,,Angola,AGO,,Angola,Sub-Saharan Africa,Africa and Middle East,AGO,ao,
 Anguilla,,AIA,Anguilla,,,,,,Anguilla,Caribbean,Americas,AIA,ai,
-Antarctica,,ATA,Antarctica,,,,,,,Oceania,,,aq,Manually assigned oegts_region_midlev
+Antarctica,,ATA,Antarctica,,,,,,,Oceania,Asia Pacific,,aq,Manually assigned oegts_region_midlev
 Antigua and Barbuda,,ATG,Antigua and Barbuda,,,,,,Antigua And Barbuda,Caribbean,Americas,ATG,ag,
 Argentina,arg,ARG,Argentina,ARGENTIN,AG,Argentina,ARG,Americas,Argentina,South America,Americas,ARG,ar,
 Armenia,,ARM,Armenia,,,Armenia,ARM,,Armenia,Emerging Europe,Europe,ARM,am,
@@ -24,9 +24,9 @@ Belgium,bel,BEL,Belgium,BELGIUM,BE,Belgium,BE,Europe,Belgium,Western Europe,Euro
 Belize,,BLZ,Belize,,,,,,Belize,Central America,Americas,BLZ,bz,
 Benin,,BEN,Benin,,,Benin,BEN,,Benin,Sub-Saharan Africa,Africa and Middle East,BEN,bj,
 Bermuda,,BMU,Bermuda,,,,,,Bermuda,Caribbean,Americas,BMU,bm,
-Bhutan,,BTN,Bhutan,,,,,,,South Asia,,,bt,Manually assigned oegts_region_midlev
+Bhutan,,BTN,Bhutan,,,,,,,South Asia,Asia Pacific,,bt,Manually assigned oegts_region_midlev
 Bolivia,,BOL,Bolivia (Plurinational State of),,,Bolivia,BOL,,Bolivia,South America,Americas,BOL,bo,
-"Bonaire, Sint Eustatius and Saba",,BES,"Bonaire, Sint Eustatius and Saba",,,,,,,Caribbean,,,,Manually assigned oegts_region_midlev
+"Bonaire, Sint Eustatius and Saba",,BES,"Bonaire, Sint Eustatius and Saba",,,,,,,Caribbean,Americas,,,Manually assigned oegts_region_midlev
 Bosnia and Herzegovina,,BIH,Bosnia and Herzegovina,,,Bosnia and Herzegovina,BIH,,Bosnia and Herzegovina,Emerging Europe,Europe,BIH,ba,
 Botswana,,BWA,Botswana,,,Botswana,BWA,,Botswana,Sub-Saharan Africa,Africa and Middle East,BWA,bw,
 Bouvet Island,,BVT,Bouvet Island,,,,,,,,,,,
@@ -46,8 +46,8 @@ Central African Republic,,CAF,Central African Republic (the),,,Central African R
 Chad,,TCD,Chad,,,Chad,TCD,,Chad,Sub-Saharan Africa,Africa and Middle East,TCD,td,
 Chile,,CHL,Chile,,,Chile,CHL,,Chile,South America,Americas,CHL,cl,
 China,chn,CHN,China,CHINA,CN,China,CHN,Asia Pacific,China,Northeast Asia,Asia Pacific,CHN,cn,
-Christmas Island,,CXR,Christmas Island,,,,,,,Southeast Asia,,,cx,Manually assigned oegts_region_midlev
-Cocos Keeling Islands,,CCK,Cocos (Keeling) Islands (the),,,,,,,Southeast Asia,,,cc,Manually assigned oegts_region_midlev
+Christmas Island,,CXR,Christmas Island,,,,,,,Southeast Asia,Asia Pacific,,cx,Manually assigned oegts_region_midlev
+Cocos Keeling Islands,,CCK,Cocos (Keeling) Islands (the),,,,,,,Southeast Asia,Asia Pacific,,cc,Manually assigned oegts_region_midlev
 Colombia,,COL,Colombia,,,Colombia,COL,,Colombia,South America,Americas,COL,co,
 Comoros,,COM,Comoros (the),,,,,,Comoros,Sub-Saharan Africa,Africa and Middle East,COM,km,
 "Congo, Dem. Rep.",,COD,Congo (the Democratic Republic of the),,,Democratic Republic of Congo,COD,,"Congo, Dem. Rep.",Sub-Saharan Africa,Africa and Middle East,COD,cd,
@@ -57,18 +57,18 @@ Costa Rica,,CRI,Costa Rica,,,Costa Rica,CRI,,Costa Rica,Central America,Americas
 Cote d'Ivoire,,CIV,Côte d'Ivoire,,,Côte d'Ivoire,CIV,,Cote D'Ivoire,Sub-Saharan Africa,Africa and Middle East,CIV,ci,
 Croatia,,HRV,Croatia,,,Croatia,HR,,Croatia,Emerging Europe,Europe,HRV,hr,
 Cuba,,CUB,Cuba,,,Cuba,CUB,,Cuba,Caribbean,Americas,CUB,cu,
-Curacao,,CUW,Curaçao,,,,,,,Caribbean,,,cw,Manually assigned oegts_region_midlev
+Curacao,,CUW,Curaçao,,,,,,,Caribbean,Americas,,cw,Manually assigned oegts_region_midlev
 Cyprus,cyp,CYP,Cyprus,CYPRUS,CY,Cyprus,CYP,,Cyprus,Emerging Europe,Europe,CYP,cy,
 Czechia,cze,CZE,Czechia,CZECH,CZ,Czech Republic,CZ,Europe,Czech Republic,Emerging Europe,Europe,CZE,cz,
 Denmark,dnk,DNK,Denmark,DENMARK,DN,Denmark,DK,Europe,Denmark,Western Europe,Europe,DNK,dk,
-Djibouti,,DJI,Djibouti,,,Djibouti,DJI,,,Sub-Saharan Africa,,,dj,Manually assigned oegts_region_midlev
+Djibouti,,DJI,Djibouti,,,Djibouti,DJI,,,Sub-Saharan Africa,Africa and Middle East,,dj,Manually assigned oegts_region_midlev
 Dominica,,DMA,Dominica,,,,,,Dominica,Caribbean,Americas,DMA,dm,
 Dominican Republic,,DOM,Dominican Republic (the),,,Dominican Republic,DOM,,Dominican Republic,Caribbean,Americas,DOM,do,
 Ecuador,,ECU,Ecuador,,,Ecuador,ECU,,Ecuador,South America,Americas,ECU,ec,
 Egypt,egy,EGY,Egypt,EGYPTSR,EG,Egypt,EGY,Africa and Middle East,Egypt,North Africa,Africa and Middle East,EGY,eg,
 El Salvador,,SLV,El Salvador,,,El Salvador,SLV,,El Salvador,Central America,Americas,SLV,sv,
-Equatorial Guinea,,GNQ,Equatorial Guinea,,,,,,,Sub-Saharan Africa,,,gq,Manually assigned oegts_region_midlev
-Eritrea,,ERI,Eritrea,,,Eritrea,ERI,,,Sub-Saharan Africa,,,er,Manually assigned oegts_region_midlev
+Equatorial Guinea,,GNQ,Equatorial Guinea,,,,,,,Sub-Saharan Africa,Africa and Middle East,,gq,Manually assigned oegts_region_midlev
+Eritrea,,ERI,Eritrea,,,Eritrea,ERI,,,Sub-Saharan Africa,Africa and Middle East,,er,Manually assigned oegts_region_midlev
 Estonia,,EST,Estonia,,,Estonia,EE,,Estonia,Emerging Europe,Europe,EST,ee,
 Eswatini,,SWZ,Eswatini,,,,,,Swaziland,Sub-Saharan Africa,Africa and Middle East,SWZ,sz,Also known as Swaziland
 Ethiopia,,ETH,Ethiopia,,,Ethiopia,ETH,,Ethiopia,Sub-Saharan Africa,Africa and Middle East,ETH,et,
@@ -78,27 +78,27 @@ Fiji,,FJI,Fiji,,,Fiji,FJI,,Fiji,Oceania,Asia Pacific,FJI,fj,
 Finland,fin,FIN,Finland,FINLAND,FI,Finland,FI,Europe,Finland,Western Europe,Europe,FIN,fi,
 France,fra,FRA,France,FRANCE,FR,France,FR,Europe,France,Western Europe,Europe,FRA,fr,
 French Guiana,,GUF,French Guiana,,,,,,,,,,gf,
-French Polynesia,,PYF,French Polynesia,,,,,,,Oceania,,,pf,Manually assigned oegts_region_midlev
+French Polynesia,,PYF,French Polynesia,,,,,,,Oceania,Asia Pacific,,pf,Manually assigned oegts_region_midlev
 French Southern Territories,,ATF,French Southern Territories (the),,,,,,,,,,tf,
 Gabon,,GAB,Gabon,,,Gabon,GAB,,Gabon,Sub-Saharan Africa,Africa and Middle East,GAB,ga,
 Gambia,,GMB,Gambia (the),,,Gambia,GMB,,"Gambia,  The",Sub-Saharan Africa,Africa and Middle East,GMB,gm,
 Georgia,geo,GEO,Georgia,GEORGIA,,Georgia,GEO,Europe,Georgia,Emerging Europe,Europe,GEO,ge,
 Germany,deu,DEU,Germany,GERMANY,BD,Germany,DE,Europe,Germany,Western Europe,Europe,DEU,de,
 Ghana,,GHA,Ghana,,,Ghana,GHA,,Ghana,Sub-Saharan Africa,Africa and Middle East,GHA,gh,
-Gibraltar,,GIB,Gibraltar,,,,,,,Western Europe,,,gi,Manually assigned oegts_region_midlev
+Gibraltar,,GIB,Gibraltar,,,,,,,Western Europe,Europe,,gi,Manually assigned oegts_region_midlev
 Greece,grc,GRC,Greece,GREECE,GC,Greece,EL,Europe,Greece,Western Europe,Europe,GRC,gr,
 Greenland,,GRL,Greenland,,,,,,,,,,gl,
 Grenada,,GRD,Grenada,,,,,,Grenada,Caribbean,Americas,GRD,gd,
 Guadeloupe,,GLP,Guadeloupe,,,,,,Guadeloupe,Caribbean,Americas,GLP,gp,
 Guam,,GUM,Guam,,,,,,,,,,gu,
 Guatemala,,GTM,Guatemala,,,Guatemala,GTM,,Guatemala,Central America,Americas,GTM,gt,
-Guernsey,,GGY,Guernsey,,,,,,,Western Europe,,,gg,Manually assigned oegts_region_midlev
+Guernsey,,GGY,Guernsey,,,,,,,Western Europe,Europe,,gg,Manually assigned oegts_region_midlev
 Guinea,,GIN,Guinea,,,Guinea,GIN,,Guinea,Sub-Saharan Africa,Africa and Middle East,GIN,gn,
-Guinea-Bissau,,GNB,Guinea-Bissau,,,Guinea-Bissau,GNB,,,Sub-Saharan Africa,,,gw,Manually assigned oegts_region_midlev
+Guinea-Bissau,,GNB,Guinea-Bissau,,,Guinea-Bissau,GNB,,,Sub-Saharan Africa,Africa and Middle East,,gw,Manually assigned oegts_region_midlev
 Guyana,,GUY,Guyana,,,Guyana,GUY,,Guyana,South America,Americas,GUY,gy,
 Haiti,,HTI,Haiti,,,Haiti,HTI,,Haiti,Caribbean,Americas,HTI,ht,
 Heard Island and McDonald Islands,,HMD,Heard Island and McDonald Islands,,,,,,,,,,hm,
-Holy See,,VAT,Holy See (the),,,,,,,Western Europe,,,,Manually assigned oegts_region_midlev
+Holy See,,VAT,Holy See (the),,,,,,,Western Europe,Europe,,,Manually assigned oegts_region_midlev
 Honduras,,HND,Honduras,,,Honduras,HND,,Honduras,Central America,Americas,HND,hn,
 Hong Kong,hkg,HKG,Hong Kong,,,"Hong Kong, China",HKG2,,"Hong Kong, China",Northeast Asia,Asia Pacific,HKG,hk,
 Hungary,hun,HUN,Hungary,HUNGARY,HN,Hungary,HU,Europe,Hungary,Emerging Europe,Europe,HUN,hu,
@@ -108,12 +108,12 @@ Indonesia,idn,IDN,Indonesia,INDONESI,ID,Indonesia,IDN,Asia Pacific,Indonesia,Sou
 Iran,,IRN,Iran (Islamic Republic of),,,Iran,IRN,,"Iran, Islamic Rep.",Middle East,Africa and Middle East,IRN,ir,
 Iraq,,IRQ,Iraq,,,Iraq,IRQ,,Iraq,Middle East,Africa and Middle East,IRQ,iq,
 Ireland,irl,IRL,Ireland,IRELAND,IR,Ireland,IE,Europe,Ireland,Western Europe,Europe,IRL,ie,
-Isle of Man,,IMN,Isle of Man,,,,,,,Western Europe,,,im,Manually assigned oegts_region_midlev
+Isle of Man,,IMN,Isle of Man,,,,,,,Western Europe,Europe,,im,Manually assigned oegts_region_midlev
 Israel,isr,ISR,Israel,ISRAELSR,IS,Israel,ISR,Africa and Middle East,Israel,Middle East,Africa and Middle East,ISR,il,
 Italy,ita,ITA,Italy,ITALY,IT,Italy,IT,Europe,Italy,Western Europe,Europe,ITA,it,
 Jamaica,,JAM,Jamaica,,,Jamaica,JAM,,Jamaica,Caribbean,Americas,JAM,jm,
 Japan,jpn,JPN,Japan,JAPAN,JP,Japan,JPN,Asia Pacific,Japan,Northeast Asia,Asia Pacific,JPN,jp,
-Jersey,,JEY,Jersey,,,,,,,Western Europe,,,je,Manually assigned oegts_region_midlev
+Jersey,,JEY,Jersey,,,,,,,Western Europe,Europe,,je,Manually assigned oegts_region_midlev
 Jordan,jor,JOR,Jordan,JORDAN,,Jordan,JOR,Africa and Middle East,Jordan,Middle East,Africa and Middle East,JOR,jo,
 Kazakhstan,kaz,KAZ,Kazakhstan,KAZAK,,Kazakhstan,KAZ,Europe,Kazakhstan,Emerging Europe,Europe,KAZ,kz,
 Kenya,ken,KEN,Kenya,KENYA,KY,Kenya,KEN,Africa and Middle East,Kenya,Sub-Saharan Africa,Africa and Middle East,KEN,ke,
@@ -124,9 +124,9 @@ Lao People's Democratic Republic,,LAO,Lao People's Democratic Republic (the),,,L
 Latvia,,LVA,Latvia,,,Latvia,LV,,Latvia,Emerging Europe,Europe,LVA,lv,
 Lebanon,,LBN,Lebanon,,,Lebanon,LBN,,Lebanon,Middle East,Africa and Middle East,LBN,lb,
 Lesotho,,LSO,Lesotho,,,Lesotho,LSO,,Lesotho,Sub-Saharan Africa,Africa and Middle East,LSO,ls,
-Liberia,,LBR,Liberia,,,Liberia,LBR,,,Sub-Saharan Africa,,,lr,Manually assigned oegts_region_midlev
+Liberia,,LBR,Liberia,,,Liberia,LBR,,,Sub-Saharan Africa,Africa and Middle East,,lr,Manually assigned oegts_region_midlev
 Libya,,LBY,Libya,,,Libya,LBY,,Libya,North Africa,Africa and Middle East,LBY,ly,
-Liechtenstein,,LIE,Liechtenstein,,,,,,,Western Europe,,,li,Manually assigned oegts_region_midlev
+Liechtenstein,,LIE,Liechtenstein,,,,,,,Western Europe,Europe,,li,Manually assigned oegts_region_midlev
 Lithuania,ltu,LTU,Lithuania,LITH,LT,Lithuania,LT,Europe,Lithuania,Emerging Europe,Europe,LTU,lt,
 Luxembourg,,LUX,Luxembourg,,,Luxembourg,LU,,Luxembourg,Western Europe,Europe,LUX,lu,
 Macao,mac,MAC,Macao,,,"Macao, China",MAC2,,"Macao, China",Northeast Asia,Asia Pacific,MAC,mo,
@@ -136,47 +136,47 @@ Malaysia,,MYS,Malaysia,,,Malaysia,MYS,,Malaysia,Southeast Asia,Asia Pacific,MYS,
 Maldives,,MDV,Maldives,,,Maldives,MDV,,Maldives,South Asia,Asia Pacific,MDV,mv,
 Mali,,MLI,Mali,,,Mali,MLI,,Mali,Sub-Saharan Africa,Africa and Middle East,MLI,ml,
 Malta,mlt,MLT,Malta,MALTA,MT,Malta,MLT,Europe,Malta,Emerging Europe,Europe,MLT,mt,
-Marshall Islands,,MHL,Marshall Islands (the),,,,,,,Oceania,,,mh,Manually assigned oegts_region_midlev
+Marshall Islands,,MHL,Marshall Islands (the),,,,,,,Oceania,Asia Pacific,,mh,Manually assigned oegts_region_midlev
 Martinique,,MTQ,Martinique,,,,,,Martinique,Caribbean,Americas,MTQ,mq,
-Mauritania,,MRT,Mauritania,,,Mauritania,MRT,,,Sub-Saharan Africa,,,mr,Manually assigned oegts_region_midlev
+Mauritania,,MRT,Mauritania,,,Mauritania,MRT,,,Sub-Saharan Africa,Africa and Middle East,,mr,Manually assigned oegts_region_midlev
 Mauritius,,MUS,Mauritius,,,,,,Mauritius,Sub-Saharan Africa,Africa and Middle East,MUS,mu,
-Mayotte,,MYT,Mayotte,,,,,,,Sub-Saharan Africa,,,yt,Manually assigned oegts_region_midlev
+Mayotte,,MYT,Mayotte,,,,,,,Sub-Saharan Africa,Africa and Middle East,,yt,Manually assigned oegts_region_midlev
 Mexico,mex,MEX,Mexico,MEXICO,MX,Mexico,MEX,Americas,Mexico,North America,Americas,MEX,mx,
-Micronesia,,FSM,Micronesia (Federated States of),,,,,,,Southeast Asia,,,fm,Manually assigned oegts_region_midlev
+Micronesia,,FSM,Micronesia (Federated States of),,,,,,,Southeast Asia,Asia Pacific,,fm,Manually assigned oegts_region_midlev
 Moldova,,MDA,Moldova (the Republic of),,,Moldova,MDA,,Moldova,Emerging Europe,Europe,MDA,md,
-Monaco,,MCO,Monaco,,,,,,,Western Europe,,,mc,Manually assigned oegts_region_midlev
+Monaco,,MCO,Monaco,,,,,,,Western Europe,Europe,,mc,Manually assigned oegts_region_midlev
 Mongolia,,MNG,Mongolia,,,Mongolia,MON,,Mongolia,Northeast Asia,Asia Pacific,MNG,mn,
 Montenegro,,MNE,Montenegro,,,Montenegro,MNE,,Montenegro,Emerging Europe,Europe,MNE,me,
-Montserrat,,MSR,Montserrat,,,,,,,Caribbean,,,ms,Manually assigned oegts_region_midlev
+Montserrat,,MSR,Montserrat,,,,,,,Caribbean,Americas,,ms,Manually assigned oegts_region_midlev
 Morocco,,MAR,Morocco,,,Morocco,MAR,,Morocco,North Africa,Africa and Middle East,MAR,ma,
 Mozambique,,MOZ,Mozambique,,,Mozambique,MOZ,,Mozambique,Sub-Saharan Africa,Africa and Middle East,MOZ,mz,
 Myanmar,,MMR,Myanmar,,,Myanmar,MMR,,Myanmar,Southeast Asia,Asia Pacific,MMR,mm,
 Namibia,,NAM,Namibia,,,Namibia,NAM,,Namibia,Sub-Saharan Africa,Africa and Middle East,NAM,na,
-Nauru,,NRU,Nauru,,,,,,,Oceania,,,nr,Manually assigned oegts_region_midlev
+Nauru,,NRU,Nauru,,,,,,,Oceania,Asia Pacific,,nr,Manually assigned oegts_region_midlev
 Nepal,,NPL,Nepal,,,Nepal,NPL,,Nepal,South Asia,Asia Pacific,NPL,np,
 Netherlands,nld,NLD,Netherlands (the),NETH,NL,Netherlands,NL,Europe,Netherlands,Western Europe,Europe,NLD,nl,
 Netherlands Antilles,,ANT,Netherlands Antilles,,,,,,Netherlands Antilles,Caribbean,Americas,ANT,an,ISO3661 alpha-3 code of ANT is transitional reserved
-New Caledonia,,NCL,New Caledonia,,,,,,,Oceania,,,nc,Manually assigned oegts_region_midlev
+New Caledonia,,NCL,New Caledonia,,,,,,,Oceania,Asia Pacific,,nc,Manually assigned oegts_region_midlev
 New Zealand,,NZL,New Zealand,,,New Zealand,NZL,,New Zealand,Oceania,Asia Pacific,NZL,nz,
 Nicaragua,,NIC,Nicaragua,,,Nicaragua,NIC,,Nicaragua,Central America,Americas,NIC,ni,
 Niger,,NER,Niger (the),,,Niger,NER,,Niger,Sub-Saharan Africa,Africa and Middle East,NER,ne,
 Nigeria,,NGA,Nigeria,,,Nigeria,NGA,,Nigeria,Sub-Saharan Africa,Africa and Middle East,NGA,ng,
-Niue,,NIU,Niue,,,,,,,Oceania,,,nu,Manually assigned oegts_region_midlev
-Norfolk Island,,NFK,Norfolk Island,,,,,,,Oceania,,,nf,Manually assigned oegts_region_midlev
-North Korea,,PRK,Korea (the Democratic People's Republic of),,,,,,,Northeast Asia,,,kp,Manually assigned oegts_region_midlev
+Niue,,NIU,Niue,,,,,,,Oceania,Asia Pacific,,nu,Manually assigned oegts_region_midlev
+Norfolk Island,,NFK,Norfolk Island,,,,,,,Oceania,Asia Pacific,,nf,Manually assigned oegts_region_midlev
+North Korea,,PRK,Korea (the Democratic People's Republic of),,,,,,,Northeast Asia,Asia Pacific,,kp,Manually assigned oegts_region_midlev
 North Macedonia,,MKD,North Macedonia,,,Macedonia,MKD,,"Macedonia, FYR",Emerging Europe,Europe,MKD,mk,
-Northern Mariana Islands,,MNP,Northern Mariana Islands (the),,,,,,,Oceania,,,mp,Manually assigned oegts_region_midlev
+Northern Mariana Islands,,MNP,Northern Mariana Islands (the),,,,,,,Oceania,Asia Pacific,,mp,Manually assigned oegts_region_midlev
 Norway,,NOR,Norway,,,Norway,NO,,Norway,Western Europe,Europe,NOR,no,
 Oman,,OMN,Oman,,,Oman,OMN,,Oman,Middle East,Africa and Middle East,OMN,om,
 Pakistan,,PAK,Pakistan,,,Pakistan,PAK,,Pakistan,South Asia,Asia Pacific,PAK,pk,
-Palau,,PLW,Palau,,,,,,,Southeast Asia,,,pw,Manually assigned oegts_region_midlev
-Palestine,,PSE,"Palestine, State of",,,,,,,Middle East,,,ps,Manually assigned oegts_region_midlev
+Palau,,PLW,Palau,,,,,,,Southeast Asia,Asia Pacific,,pw,Manually assigned oegts_region_midlev
+Palestine,,PSE,"Palestine, State of",,,,,,,Middle East,Africa and Middle East,,ps,Manually assigned oegts_region_midlev
 Panama,,PAN,Panama,,,Panama,PAN,,Panama,Central America,Americas,PAN,pa,
-Papua New Guinea,,PNG,Papua New Guinea,,,Papua New Guinea,PNG,,Papua New Guinea,Southeast Asia,Americas,PNG,pg,
+Papua New Guinea,,PNG,Papua New Guinea,,,Papua New Guinea,PNG,,Papua New Guinea,Southeast Asia,Asia Pacific,PNG,pg,
 Paraguay,,PRY,Paraguay,,,Paraguay,PRY,,Paraguay,South America,Americas,PRY,py,
 Peru,,PER,Peru,,,Peru,PER,,Peru,South America,Americas,PER,pe,
 Philippines,,PHL,Philippines (the),,,Philippines,PHL,,Philippines,Southeast Asia,Asia Pacific,PHL,ph,
-Pitcairn,,PCN,Pitcairn,,,,,,,Oceania,,,pn,Manually assigned oegts_region_midlev
+Pitcairn,,PCN,Pitcairn,,,,,,,Oceania,Asia Pacific,,pn,Manually assigned oegts_region_midlev
 Poland,pol,POL,Poland,POLAND,PL,Poland,PL,Europe,Poland,Emerging Europe,Europe,POL,pl,
 Portugal,prt,PRT,Portugal,PORTUGAL,PT,Portugal,PT,Europe,Portugal,Western Europe,Europe,PRT,pt,
 Puerto Rico,,PRI,Puerto Rico,,,Puerto Rico,PRI,,Puerto Rico,Caribbean,Americas,PRI,pr,
@@ -185,15 +185,15 @@ Reunion,,REU,Réunion,,,,,,Reunion,Sub-Saharan Africa,Africa and Middle East,REU
 Romania,,ROU,Romania,,,Romania,RO,,Romania,Emerging Europe,Europe,ROM,ro,
 Russian Federation,rus,RUS,Russian Federation (the),RUSSIA,RU,Russia,RU,Europe,Russia,Emerging Europe,Europe,RUS,ru,
 Rwanda,,RWA,Rwanda,,,Rwanda,RWA,,Rwanda,Sub-Saharan Africa,Africa and Middle East,RWA,rw,
-Saint Barthelemy,,BLM,Saint Barthélemy,,,,,,,Caribbean,,,,Manually assigned oegts_region_midlev
-"Saint Helena, Ascension and Tristan da Cunha",,SHN,"Saint Helena, Ascension and Tristan da Cunha",,,,,,,Sub-Saharan Africa,,,sh,Manually assigned oegts_region_midlev
+Saint Barthelemy,,BLM,Saint Barthélemy,,,,,,,Caribbean,Americas,,,Manually assigned oegts_region_midlev
+"Saint Helena, Ascension and Tristan da Cunha",,SHN,"Saint Helena, Ascension and Tristan da Cunha",,,,,,,Sub-Saharan Africa,Africa and Middle East,,sh,Manually assigned oegts_region_midlev
 Saint Kitts and Nevis,,KNA,Saint Kitts and Nevis,,,,,,St. Kitts and Nevis,Caribbean,Americas,KNA,kn,
 Saint Lucia,,LCA,Saint Lucia,,,,,,St. Lucia,Caribbean,Americas,LCA,lc,
-Saint Martin,,MAF,Saint Martin (French part),,,,,,,Caribbean,,,mf,Manually assigned oegts_region_midlev
-Saint Pierre and Miquelon,,SPM,Saint Pierre and Miquelon,,,,,,,North America,,,,Manually assigned oegts_region_midlev
+Saint Martin,,MAF,Saint Martin (French part),,,,,,,Caribbean,Americas,,mf,Manually assigned oegts_region_midlev
+Saint Pierre and Miquelon,,SPM,Saint Pierre and Miquelon,,,,,,,North America,Americas,,,Manually assigned oegts_region_midlev
 Saint Vincent and the Grenadines,,VCT,Saint Vincent and the Grenadines,,,,,,St. Vincent / Grenadines,Caribbean,Americas,VCT,vc,
-Samoa,,WSM,Samoa,,,,,,,Oceania,,,ws,Manually assigned oegts_region_midlev
-San Marino,,SMR,San Marino,,,,,,,Western Europe,,,sm,Manually assigned oegts_region_midlev
+Samoa,,WSM,Samoa,,,,,,,Oceania,Asia Pacific,,ws,Manually assigned oegts_region_midlev
+San Marino,,SMR,San Marino,,,,,,,Western Europe,Europe,,sm,Manually assigned oegts_region_midlev
 Sao Tome and Principe,,STP,Sao Tome and Principe,,,,,,Sao Tome and Principe,Sub-Saharan Africa,Africa and Middle East,STP,st,
 Saudi Arabia,sau,SAU,Saudi Arabia,SAUDISR,SB,Saudi Arabia,SAU,Africa and Middle East,Saudi Arabia,Middle East,Africa and Middle East,SAU,sa,
 Senegal,,SEN,Senegal,,,Senegal,SEN,,Senegal,Sub-Saharan Africa,Africa and Middle East,SEN,sn,
@@ -205,16 +205,16 @@ Sint Maarten,,SXM,Sint Maarten (Dutch part),,,,,,,,,,sx,
 Slovakia,svk,SVK,Slovakia,SLOVAKIA,SK,Slovakia,SK,Europe,Slovak Republic,Emerging Europe,Europe,SVK,sk,
 Slovenia,,SVN,Slovenia,,,Slovenia,SI,,Slovenia,Emerging Europe,Europe,SVN,si,
 Solomon Islands,,SLB,Solomon Islands,,,,,,Solomon Islands,Oceania,Asia Pacific,SLB,sb,
-Somalia,,SOM,Somalia,,,,,,,Sub-Saharan Africa,,,so,Manually assigned oegts_region_midlev
+Somalia,,SOM,Somalia,,,,,,,Sub-Saharan Africa,Africa and Middle East,,so,Manually assigned oegts_region_midlev
 South Africa,zaf,ZAF,South Africa,SAFRICA,SA,South Africa,ZAF,Africa and Middle East,South Africa,Sub-Saharan Africa,Africa and Middle East,ZAF,za,
 South Georgia and the South Sandwich Islands,,SGS,South Georgia and the South Sandwich Islands,,,,,,,,,,gs,
 South Korea,kor,KOR,Korea (the Republic of),KOREA,KO,South Korea,KOR,Asia Pacific,South Korea,Northeast Asia,Asia Pacific,KOR,kr,
-South Sudan,,SSD,South Sudan,,,,,,,Sub-Saharan Africa,,,ss,Manually assigned oegts_region_midlev
+South Sudan,,SSD,South Sudan,,,,,,,Sub-Saharan Africa,Africa and Middle East,,ss,Manually assigned oegts_region_midlev
 Spain,esp,ESP,Spain,SPAIN,SP,Spain,ES,Europe,Spain,Western Europe,Europe,ESP,es,
 Sri Lanka,,LKA,Sri Lanka,,,Sri Lanka,LKA,,Sri Lanka,South Asia,Asia Pacific,LKA,lk,
 Sudan,,SDN,Sudan (the),,,Sudan,SDN,,Sudan,Sub-Saharan Africa,Africa and Middle East,SDN,sd,
 Suriname,,SUR,Suriname,,,Suriname,SUR,,Suriname,South America,Americas,SUR,sr,
-Svalbard and Jan Mayen,,SJM,Svalbard and Jan Mayen,,,,,,,Western Europe,,,,Manually assigned oegts_region_midlev
+Svalbard and Jan Mayen,,SJM,Svalbard and Jan Mayen,,,,,,,Western Europe,Europe,,,Manually assigned oegts_region_midlev
 Sweden,,SWE,Sweden,,,Sweden,SE,,Sweden,Western Europe,Europe,SWE,se,
 Switzerland,che,CHE,Switzerland,SWITZ,CH,Switzerland,CH,Europe,Switzerland,Western Europe,Europe,CHE,ch,
 Syria,,SYR,Syrian Arab Republic (the),,,,,,Syrian Arab Republic,Middle East,Africa and Middle East,SYR,sy,
@@ -222,15 +222,15 @@ Taiwan,twn,TWN,Taiwan (Province of China),TAIWAN,TA,Taiwan,TAI,Asia Pacific,Taiw
 Tajikistan,,TJK,Tajikistan,,,Tajikistan,TJK,,Tajikistan,Emerging Europe,Europe,TJK,tj,
 Tanzania,,TZA,"Tanzania, the United Republic of",,,Tanzania,TZA,,Tanzania,Sub-Saharan Africa,Africa and Middle East,TZA,tz,
 Thailand,tha,THA,Thailand,THAILAND,TH,Thailand,THA,Asia Pacific,Thailand,Southeast Asia,Asia Pacific,THA,th,
-Timor-Leste,,TLS,Timor-Leste,,,,,,,Southeast Asia,,,tl,Manually assigned oegts_region_midlev
+Timor-Leste,,TLS,Timor-Leste,,,,,,,Southeast Asia,Asia Pacific,,tl,Manually assigned oegts_region_midlev
 Togo,,TGO,Togo,,,Togo,TGO,,Togo,Sub-Saharan Africa,Africa and Middle East,TGO,tg,
-Tokelau,,TKL,Tokelau,,,,,,,Oceania,,,tk,Manually assigned oegts_region_midlev
+Tokelau,,TKL,Tokelau,,,,,,,Oceania,Asia Pacific,,tk,Manually assigned oegts_region_midlev
 Tonga,,TON,Tonga,,,,,,Tonga,Oceania,Asia Pacific,TON,to,
 Trinidad and Tobago,,TTO,Trinidad and Tobago,,,,,,Trinidad And Tobago,Caribbean,Americas,TTO,tt,
 Tunisia,,TUN,Tunisia,,,Tunisia,TUN,,Tunisia,North Africa,Africa and Middle East,TUN,tn,
 Turkey,tur,TUR,Turkey,TURKEY,TK,Turkey,TR,Europe,Turkey,Emerging Europe,Europe,TUR,tr,
 Turkmenistan,,TKM,Turkmenistan,,,Turkmenistan,TKM,,,,,,tm,
-Turks and Caicos Islands,,TCA,Turks and Caicos Islands (the),,,,,,,Caribbean,,,tc,Manually assigned oegts_region_midlev
+Turks and Caicos Islands,,TCA,Turks and Caicos Islands (the),,,,,,,Caribbean,Americas,,tc,Manually assigned oegts_region_midlev
 Tuvalu,,TUV,Tuvalu,,,,,,,,,,tv,
 Uganda,,UGA,Uganda,,,Uganda,UGA,,Uganda,Sub-Saharan Africa,Africa and Middle East,UGA,ug,
 Ukraine,,UKR,Ukraine,,,Ukraine,UR,,Ukraine,Emerging Europe,Europe,UKR,ua,
@@ -245,7 +245,7 @@ Venezuela,,VEN,Venezuela (Bolivarian Republic of),,,Venezuela,VEN,,"Venezuela, R
 Viet Nam,vnm,VNM,Viet Nam,VIETNAM,VT,Vietnam,VNM,Asia Pacific,Vietnam,Southeast Asia,Asia Pacific,VNM,vn,
 Virgin Islands (U.S.),,VIR,Virgin Islands (U.S.),,,,,,Virgin Islands (U.S.),Caribbean,Americas,VIR,vi,
 Wallis and Futuna,,WLF,Wallis and Futuna,,,,,,,,,,wf,
-Western Sahara,,ESH,Western Sahara,,,,,,,North Africa,,,,Manually assigned oegts_region_midlev
+Western Sahara,,ESH,Western Sahara,,,,,,,North Africa,Africa and Middle East,,,Manually assigned oegts_region_midlev
 Yemen,,YEM,Yemen,,,Yemen,YEM,,"Yemen, Rep",Middle East,Africa and Middle East,YEM,ye,
 Zambia,,ZMB,Zambia,,,Zambia,ZMB,,Zambia,Sub-Saharan Africa,Africa and Middle East,ZMB,zm,
 Zimbabwe,,ZWE,Zimbabwe,,,Zimbabwe,ZWE,,Zimbabwe,Sub-Saharan Africa,Africa and Middle East,ZWE,zw,
