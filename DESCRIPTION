@@ -12,3 +12,5 @@ LazyData: true
 URL: https://github.com/TourismEconomics/teref
 BugReports: https://github.com/TourismEconomics/teref/issues
 RoxygenNote: 6.1.1
+Depends: 
+    R (>= 2.10)
