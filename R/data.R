@@ -96,6 +96,9 @@
 #' \item{sh_description}{Short description of indicator}
 #' \item{oe_description}{Description of indicator in database}}
 "cb_var_oegct"
+#' \item{var_type}{The var column is not unique. It is necessary to filter to
+#' the primary var_type. This is because different codes are used for certain totals in the GCT database.}
+#' #' \item{note}{Reminder of differences for US}
 
 #' Region codes for Global Travel Service data
 #'
