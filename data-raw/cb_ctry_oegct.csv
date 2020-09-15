@@ -1,0 +1,80 @@
+orig_ctry_code,geo_name,country_name,oegct_country_name,geo_type,oegct_region_midlev,oegct_region_highlev
+BGR,Bulgaria,Bulgaria,Bulgaria,country,Emerging Europe,Europe
+CZE,Czechia,Czechia,Czech Republic,country,Emerging Europe,Europe
+HRV,Croatia,Croatia,Croatia,country,Emerging Europe,Europe
+HUN,Hungary,Hungary,Hungary,country,Emerging Europe,Europe
+POL,Poland,Poland,Poland,country,Emerging Europe,Europe
+RUS,Russian Federation,Russian Federation,Russian Federation,country,Emerging Europe,Europe
+TUR,Turkey,Turkey,Turkey,country,Emerging Europe,Europe
+UKR,Ukraine,Ukraine,Ukraine,country,Emerging Europe,Europe
+ARE,United Arab Emirates,United Arab Emirates,United Arab Emirates,country,Middle East,Middle East
+IRN,Iran,Iran,"Iran, Islamic Republic",country,Middle East,Middle East
+ISR,Israel,Israel,Israel,country,Middle East,Middle East
+SAU,Saudi Arabia,Saudi Arabia,Saudi Arabia,country,Middle East,Middle East
+EGY,Egypt,Egypt,Egypt,country,North Africa,Africa
+MAR,Morocco,Morocco,Morocco,country,North Africa,Africa
+CAN,Canada,Canada,Canada,country,North America,North America
+MEX,Mexico,Mexico,Mexico,country,North America,North America
+USA,United States,United States,United States,country,North America,North America
+CHN,China,China,China,country,Northeast Asia,Asia Pacific
+HKG,Hong Kong,Hong Kong,Hong Kong,country,Northeast Asia,Asia Pacific
+JPN,Japan,Japan,Japan,country,Northeast Asia,Asia Pacific
+KOR,South Korea,South Korea,"Korea, Republic Of",country,Northeast Asia,Asia Pacific
+MAC,Macao,Macao,Macau,country,Northeast Asia,Asia Pacific
+TAW,Taiwan,Taiwan,Taiwan,country,Northeast Asia,Asia Pacific
+AUS,Australia,Australia,Australia,country,Oceania,Asia Pacific
+ARG,Argentina,Argentina,Argentina,country,South America,Latin America
+BRA,Brazil,Brazil,Brazil,country,South America,Latin America
+IND,India,India,India,country,South Asia,Asia Pacific
+IDN,Indonesia,Indonesia,Indonesia,country,Southeast Asia,Asia Pacific
+MYS,Malaysia,Malaysia,Malaysia,country,Southeast Asia,Asia Pacific
+PHL,Philippines,Philippines,Philippines,country,Southeast Asia,Asia Pacific
+SGP,Singapore,Singapore,Singapore,country,Southeast Asia,Asia Pacific
+THA,Thailand,Thailand,Thailand,country,Southeast Asia,Asia Pacific
+VNM,Viet Nam,Viet Nam,Viet Nam,country,Southeast Asia,Asia Pacific
+ZAF,South Africa,South Africa,South Africa,country,Sub-Saharan Africa,Africa
+AUT,Austria,Austria,Austria,country,Western Europe,Europe
+BEL,Belgium,Belgium,Belgium,country,Western Europe,Europe
+CHE,Switzerland,Switzerland,Switzerland,country,Western Europe,Europe
+DEU,Germany,Germany,Germany,country,Western Europe,Europe
+DNK,Denmark,Denmark,Denmark,country,Western Europe,Europe
+ESP,Spain,Spain,Spain,country,Western Europe,Europe
+FIN,Finland,Finland,Finland,country,Western Europe,Europe
+FRA,France,France,France,country,Western Europe,Europe
+GBR,United Kingdom,United Kingdom,United Kingdom,country,Western Europe,Europe
+GRC,Greece,Greece,Greece,country,Western Europe,Europe
+IRL,Ireland,Ireland,Ireland,country,Western Europe,Europe
+ITA,Italy,Italy,Italy,country,Western Europe,Europe
+NLD,Netherlands,Netherlands,Netherlands,country,Western Europe,Europe
+NOR,Norway,Norway,Norway,country,Western Europe,Europe
+PRT,Portugal,Portugal,Portugal,country,Western Europe,Europe
+SWE,Sweden,Sweden,Sweden,country,Western Europe,Europe
+WLD,World,,World,global,,
+AFR,Africa,,,continent,,Africa
+CAM,Central America,,,region,,Latin America
+CAR,Caribbean,,,region,,Latin America
+EEU,Emerging Europe,,,region,,Europe
+MES,Middle East,,,region,,Middle East
+NAF,North Africa,,,region,,Africa
+NEA,Northeast Asia,,,region,,Asia Pacific
+NES,Not elsewhere specified,,Not elsewhere specified,region,,Not elsewhere specified
+NMA,North America,,,region,,North America
+OCE,Oceania,,,region,,Asia Pacific
+RCAR,Rest of Caribbean,,,partial region,,Latin America
+RCMA,Rest of Central America,,,partial region,,Latin America
+REEU,Rest of Emerging Europe,,,partial region,,Europe
+RMES,Rest of Middle East,,,partial region,,Middle East
+RNAF,Rest of North Africa,,,partial region,,Africa
+RNEA,Rest of Northeast Asia,,,partial region,,Asia Pacific
+RNMA,Rest of North America,,,partial region,,North America
+ROCE,Rest of Oceania,,,partial region,,Asia Pacific
+RSAS,Rest of South Asia,,,partial region,,Asia Pacific
+RSEA,Rest of Southeast Asia,,,partial region,,Asia Pacific
+RSMA,Rest of South America,,,partial region,,Latin America
+RSSA,Rest of Sub-Saharan Africa,,,partial region,,Africa
+RWEU,Rest of Western Europe,,,partial region,,Europe
+SAM,South America,,,region,,Latin America
+SAS,South Asia,,,region,,Asia Pacific
+SEA,Southeast Asia,,,region,,Asia Pacific
+SSA,Sub-Saharan Africa,,,region,,Africa
+WEU,Western Europe,,,region,,Europe

@@ -1,0 +1,9 @@
+var,oe_var,sh_description,oe_description,var_type,note
+vd,TOURRSTAY,Domestic overnight visits,Domestic overnight visits,primary,Overnight visits in paid accommodation
+vf,TOURFSTAY,International overnight visits,International overnight visits,secondary,"Overnight visits in paid accommodation, except US, which is overnight visits (total)"
+vf,VISITXXX,Overnight visits,Overnight visits from,primary,"Overnight visits in paid accommodation, except US, which is overnight visits (total)"
+spendd,DSPEND!$,Domestic travel spend,Total domestic travel spend (US$ mn),primary,
+spendf,XFVS!$,Inbound travel spend,Total inbound travel spend (US$ mn),primary,
+nd,RNIGHTSTOT,Domestic visitor nights,Domestic nights in paid accommodation,primary,Nights in paid accommodation
+nf,FNIGHTSTOT,International visitor nights,International nights in paid accommodation,secondary,Nights in paid accommodation
+nf,NIGHTSXXX,International visitor nights,Nights from,primary,Nights in paid accommodation

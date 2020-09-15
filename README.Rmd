@@ -1,0 +1,46 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# teref
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This package provides reference tables, such as showing the correspondence between country and city names and codes across different databases and sources. This package contains three reference tables:  
+
+* __cb_ctry:__ Country names and codes across databases.  
+* __cb_city:__ City names and codes across databases.
+* __cb_ctry_oegct:__ Country names, codes and regions used in the Global City Travel database.
+* __cb_regions_oegts:__ Region names and codes used in the Global Travel Service database.
+* __cb_var_oegc:__ Variable codes and descriptions to use with the Global Cities database. 
+* __cb_var_oegct:__ Variable codes and descriptions to use with the Global City Travel database.
+* __cb_var_oegts_cmetric:__ Variable codes and descriptions to use with the country metric variables in the Global Travel Service database.
+
+## Installation
+
+You can install the package from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("TourismEconomics/teref")
+```
+
+## Organization
+The tables, or code books, are stored as Rdata files in the "data" directory. 
+
+
+## Suggestions
+
+When using the cb_ctry or the cb_city with the Global Cities database, it is advisable to join based on the oegc_loc_code, rather than the location name, because some city-country situations have the same location name (e.g. Singapore, Luxembourg, Hong Kong, Macao).
