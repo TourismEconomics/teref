@@ -9,6 +9,7 @@
 #' \item{iso3166_1a3}{The ISO 3166 code for the country. This is the three-letter code (alpha-3).
 #' For further details, see \url{https://www.iso.org/iso-3166-country-codes.html}}
 #' \item{iso3166_snamelc}{The ISO 3166 English short name}
+#' \item{oegm_ctry_name_old}{Oxford Economics global model country name, from the old model interface}
 #' \item{oegm_ctry_name}{Oxford Economics global model country name}
 #' \item{oegm_ctry_twoletter}{Oxford Economics global model two-letter code}
 #' \item{oegc_ctry_name}{Oxford Economics Global Cities country name}
