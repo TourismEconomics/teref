@@ -2,7 +2,7 @@ library(dplyr)
 library(readr)
 library(usethis)
 
-cb_ctry <- read_csv(file="data-raw/cb_ctry.csv", col_names = TRUE, col_types = "cccccccccccccccc")
+cb_ctry <- read_csv(file="data-raw/cb_ctry.csv", col_names = TRUE, col_types = "ccccccccccccccccc")
 
 
 # check for duplicates

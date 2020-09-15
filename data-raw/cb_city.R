@@ -18,7 +18,7 @@ stopifnot(nrow(a)==0)
 #
 # cb_city <- cb_city %>%
 #   left_join(cb_ctry_a, by=c("country_name"))
-
+#
 # cb_city <- cb_city %>%
 #   select(mkt_name, mkt_sh, country_name, iso3166_1a3,
 #          oegc_name, oegc_loc_code, oegc_ctry_name, mkt_geocode_friendly, oe_gct_name,

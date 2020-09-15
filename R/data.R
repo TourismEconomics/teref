@@ -11,7 +11,8 @@
 #' \item{iso3166_snamelc}{The ISO 3166 English short name}
 #' \item{oegm_ctry_name_old}{Oxford Economics global model country name, from the old model interface}
 #' \item{oegm_ctry_name}{Oxford Economics global model country name}
-#' \item{oegm_ctry_twoletter}{Oxford Economics global model two-letter code}
+#' \item{oegm_ctry_twoletter}{Oxford Economics global model two-letter code, from old model interface}
+#' \item{oegm_ctry_threeletter}{Oxford Economics global model three-letter code}
 #' \item{oegc_ctry_name}{Oxford Economics Global Cities country name}
 #' \item{oegc_loc_code}{Oxford Economics Global Cities country location code}
 #' \item{oegm_region_primary}{Oxford Economics global model primary region}
