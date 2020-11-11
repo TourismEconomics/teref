@@ -97,10 +97,11 @@
 #' \item{oe_var}{Variable code in database (includes special characters such as $)}
 #' \item{sh_description}{Short description of indicator}
 #' \item{oe_description}{Description of indicator in database}}
-"cb_var_oegct"
 #' \item{var_type}{The var column is not unique. It is necessary to filter to
 #' the primary var_type. This is because different codes are used for certain totals in the GCT database.}
-#' #' \item{note}{Reminder of differences for US}
+#' \item{note}{Reminder of differences for US}
+"cb_var_oegct"
+
 
 #' Region codes for Global Travel Service data
 #'
@@ -129,3 +130,14 @@
 #' \item{sh_description}{Short description of indicator}
 #' \item{oe_description}{Description of indicator in database}}
 "cb_var_oegts_cmetric"
+
+
+#' Variable codes for STR metrics
+#'
+#' Short, lower-case variable codes to use with STR concepts.
+#'
+#' @format A tibble:
+#' \describe{
+#' \item{var}{Short, lower-case variable code (no special chracters)}
+#' \item{description}{Description of indicator)}
+"cb_var_str"

@@ -1,0 +1,17 @@
+﻿variable,description
+supt,"supply, total room nights available"
+demt,"demand, total room nights occupied"
+rmrevt,"room revenue, total room revenue"
+occ,occupancy rate
+adr,average daily rate
+revpar,RevPAR
+supd,average daily suppply
+demd,average daily room nights occupied
+demdsa,"average daily demand, seasonally adjusted"
+supdsa,"average daily supply, seasonally adjusted"
+adrsa,"average daily rate, seasonally adjusted"
+revparsa,"RevPAR, seasonally adjusted"
+strdays,number of days in period according to STR
+cenprop,number of properties according to STR Census
+cenrooms,number of rooms according to STR Census
+partrate,percentage of rooms participating in STR
