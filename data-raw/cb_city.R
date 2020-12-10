@@ -3,7 +3,7 @@ library(usethis)
 #library(here)
 
 
-cb_city <- read_csv(file="data-raw/cb_city.csv", col_names = TRUE, col_types = "cccccccccc")
+cb_city <- read_csv(file="data-raw/cb_city.csv", col_names = TRUE, col_types = "cccccccccccc")
 
  # cb_city <- cb_city %>%
  #  mutate(mkt_geocode_friendly = mkt_name)

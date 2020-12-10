@@ -35,17 +35,18 @@
 #' \item{mkt_name}{Straightforward name for city}
 #' \item{mkt_sh}{Five-letter code for market}
 #' \item{country_name}{Straightforward name for country. Useful to join with ctry_code_book.
-#' Note: The country_name for Hong Kong is Hong Kong to help differentiate it.}
-#' \item{iso3166_1a3}{The ISO 3166 code for the country. This is the three-letter code (alpha-3).
+#' Note: The country_name for Hong Kong is Hong Kong to help differentiate it.
 #' For further details, see \url{https://www.iso.org/iso-3166-country-codes.html}}
 #' \item{oegc_name}{Oxford Economics Global Cities city name}
-#' \item{oegc_loc_code}{Oxford Economics Global Cities location code}
 #' \item{oegc_ctry_name}{Oxford Economics Global Cities country name}
+#' \item{oegc_loc_code}{Oxford Economics Global Cities location code}
 #' \item{mkt_geocode_friendly}{Market name that works well in geocoding
 #' scripts, such as Google API. NA for most markets.}
 #' \item{oe_gct_name}{Oxford Economics Global City Travel city name}
-#' \item{oe_gct_location_code}{Oxford Economics Global City Travel location code}}
-#' \item{note} Note
+#' \item{oe_gct_location_code}{Oxford Economics Global City Travel location code}
+#' \item{oe_nacities_name}{Oxford Economics North American Cities name}
+#' \item{oe_nacities_location_code}{Oxford Economics Global City Travel location code}
+#' \item{note}{Note}}
 "cb_city"
 
 #' Country codes for Global City Travel data
