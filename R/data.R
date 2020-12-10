@@ -6,8 +6,7 @@
 #' \describe{
 #' \item{country_name}{Straightforward name for country}
 #' \item{ctry_sh}{Three-letter, lower case short code for country}
-#' \item{iso3166_1a3}{The ISO 3166 code for the country. This is the three-letter code (alpha-3).
-#' For further details, see \url{https://www.iso.org/iso-3166-country-codes.html}}
+#' \item{iso3166_1a3}{The ISO 3166 code for the country. This is the three-letter code (alpha-3). For further details, see \url{https://www.iso.org/iso-3166-country-codes.html}}
 #' \item{iso3166_snamelc}{The ISO 3166 English short name}
 #' \item{oegm_ctry_name_old}{Oxford Economics global model country name, from the old model interface}
 #' \item{oegm_ctry_name}{Oxford Economics global model country name}
@@ -20,9 +19,7 @@
 #' \item{oegts_region_midlev}{Oxford Economics Global Travel Service mid-level region}
 #' \item{oegts_region_highlev}{Oxford Economics Global Travel Service high-level region. These include: Europe, Africa and Middle East, Americas, Asia Pacific, and NA.}
 #' \item{oegts_loc_code}{Oxford Economics Global Travel Service location (country) code}
-#' \item{internet_tld}{Country code top-level domain. Most tld codes are identical to ISO 3166-1
-#' codes, with some notable exceptions. For further details,
-#' see \url{https://en.wikipedia.org/wiki/Country_code_top-level_domain}}
+#' \item{internet_tld}{Country code top-level domain. Most tld codes are identical to ISO 3166-1 codes, with some notable exceptions. For further details, see \url{https://en.wikipedia.org/wiki/Country_code_top-level_domain}}
 #' \item{note}{Note}}
 "cb_ctry"
 
@@ -34,14 +31,11 @@
 #' \describe{
 #' \item{mkt_name}{Straightforward name for city}
 #' \item{mkt_sh}{Five-letter code for market}
-#' \item{country_name}{Straightforward name for country. Useful to join with ctry_code_book.
-#' Note: The country_name for Hong Kong is Hong Kong to help differentiate it.
-#' For further details, see \url{https://www.iso.org/iso-3166-country-codes.html}}
+#' \item{country_name}{Straightforward name for country. Useful to join with ctry_code_book. Note: The country_name for Hong Kong is Hong Kong to help differentiate it.}
 #' \item{oegc_name}{Oxford Economics Global Cities city name}
 #' \item{oegc_ctry_name}{Oxford Economics Global Cities country name}
 #' \item{oegc_loc_code}{Oxford Economics Global Cities location code}
-#' \item{mkt_geocode_friendly}{Market name that works well in geocoding
-#' scripts, such as Google API. NA for most markets.}
+#' \item{mkt_geocode_friendly}{Market name that works well in geocoding scripts, such as Google API. NA for most markets.}
 #' \item{oe_gct_name}{Oxford Economics Global City Travel city name}
 #' \item{oe_gct_location_code}{Oxford Economics Global City Travel location code}
 #' \item{oe_nacities_name}{Oxford Economics North American Cities name}
@@ -97,10 +91,10 @@
 #' \item{var}{Short, lower-case variable code (no special chracters)}
 #' \item{oe_var}{Variable code in database (includes special characters such as $)}
 #' \item{sh_description}{Short description of indicator}
-#' \item{oe_description}{Description of indicator in database}}
+#' \item{oe_description}{Description of indicator in database}
 #' \item{var_type}{The var column is not unique. It is necessary to filter to
 #' the primary var_type. This is because different codes are used for certain totals in the GCT database.}
-#' \item{note}{Reminder of differences for US}
+#' \item{note}{Reminder of differences for US}}
 "cb_var_oegct"
 
 
@@ -115,7 +109,7 @@
 #' continent or global. Not elsewhere specified is categorized as a midlev region. Africa
 #' is categorized as continent, because it shouldn't be summed with the other
 #' highlev or midlev regions.)}
-#' \item{oegts_loc_code}{Three-letter location code used in GTS database}
+#' \item{oegts_loc_code}{Three-letter location code used in GTS database}}
 "cb_regions_oegts"
 
 #' Variable codes for Global Travel Service country metrics
@@ -140,5 +134,5 @@
 #' @format A tibble:
 #' \describe{
 #' \item{var}{Short, lower-case variable code (no special chracters)}
-#' \item{description}{Description of indicator)}
+#' \item{description}{Description of indicator)}}
 "cb_var_str"
