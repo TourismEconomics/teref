@@ -2,7 +2,11 @@ library(dplyr)
 library(readr)
 library(usethis)
 
-cb_daily_date_2019 <- read_csv(file="data-raw/cb_daily_date_2019.csv", col_names = TRUE, col_types = "cc")
+cb_daily_date_2019 <- read_csv(file="data-raw/cb_daily_date_2019.csv", col_names = TRUE, col_types = "cc") %>%
+  mutate(date = as.Date(date),
+         date_2019 = as.Date(date))
+
+
 
 
 # check for duplicates
