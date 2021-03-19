@@ -136,3 +136,14 @@
 #' \item{var}{Short, lower-case variable code (no special chracters)}
 #' \item{description}{Description of indicator)}}
 "cb_var_str"
+
+#' Daily dates corresponding to dates in 2019
+#'
+#' For each day in several years, this table shows the comparable date in 2019.
+#'
+#' @format A tibble:
+#' \describe{
+#' \item{date}{Date}
+#' \item{date_2019}{Corresponding date in 2019)}}
+"cb_daily_date_2019"
+
