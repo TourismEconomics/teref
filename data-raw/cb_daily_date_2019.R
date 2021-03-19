@@ -3,8 +3,8 @@ library(readr)
 library(usethis)
 
 cb_daily_date_2019 <- read_csv(file="data-raw/cb_daily_date_2019.csv", col_names = TRUE, col_types = "cc") %>%
-  mutate(date = as.Date(date, "%d/%m/%Y"),
-         date_2019 = as.Date(date, "%d/%m/%Y"))
+  mutate(date = as.Date(date, "%m/%d/%Y"),
+         date_2019 = as.Date(date, "%m/%d/%Y"))
 
 
 
