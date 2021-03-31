@@ -99,6 +99,7 @@ The American National Standards Institute (ANSI) is the sole U.S. representative
 American National Standards Institute codes (ANSI codes) are standardized numeric or alphabetic codes issued by the American National Standards Institute (ANSI) to ensure uniform identification of geographic entities through all federal government agencies. The American National Standards Institute (ANSI) has taken over the management of geographic codes from the National Institute of Standards and Technology (NIST). Under NIST, the codes adhered to the Federal Information Processing Standards (FIPS). ANSI now issues two types of codes. They continue to issue the commonly used FIPS codes, although the acronym has now changed to Federal Information Processing Series, because it is no longer considered the standard.
 
 #### 
+
 Source references
 
 ##### Delineation files that define CBSAs and metro divisions
