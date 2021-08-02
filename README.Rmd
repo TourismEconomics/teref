@@ -50,7 +50,7 @@ When using the cb_ctry or the cb_city with the Global Cities database, it is adv
 
 ### CBSA and County File Preparation
 
-Background notes on the approach to prepare the CBSA and county file. a
+Background notes on the approach to prepare the CBSA and county file.
 
 #### Terms
 
