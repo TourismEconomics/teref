@@ -22,3 +22,5 @@ spendfb,XBIZTRAVTT!$,Business inbound spend,Business inbound travel (US$ bn)
 spendib,ALLBIZTT!$,Internal business T&T spending,Internal business T&T spending (US$ bn)
 spendil,ALLPERTT!$,Internal leisure T&T spending,Internal leisure T&T spending (US$ bn)
 ttcapital,IFTT!$,T&T capital investment,T&T capital investment (US$ bn)
+spenddb,DMSTBIZ!$,Business domestic travel,Business domestic travel (US$ bn)
+vftotal,TOURF,Total visitor arrivals,Total visitor arrivals
