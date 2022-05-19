@@ -54,10 +54,10 @@ Comoros,,COM,Comoros (the),,,,,Comoros,COM,,,,Comoros,Sub-Saharan Africa,Africa 
 "Congo, Rep.",,COG,Congo (the),,Congo,,,"Congo, Rep.",COG,Congo,COG,,"Congo, Rep.",Sub-Saharan Africa,Africa and Middle East,COG,cg,
 Cook Islands,,COK,Cook Islands (the),,,,,,,,,,,,,,ck,
 Costa Rica,,CRI,Costa Rica,,Costa Rica,,,Costa Rica,CRI,Costa Rica,CRI,,Costa Rica,Central America,Americas,CRI,cr,
-Cote d'Ivoire,,CIV,Côte d'Ivoire,,Côte d'Ivoire,,,Cote d'Ivoire,CIV,Côte d'Ivoire,CIV,,Cote D'Ivoire,Sub-Saharan Africa,Africa and Middle East,CIV,ci,
+Cote d'Ivoire,,CIV,Côte d'Ivoire,,Côte d'Ivoire,,,Cote d'Ivoire,CIV,Côte d'Ivoire,CIV,,Cote d'Ivoire,Sub-Saharan Africa,Africa and Middle East,CIV,ci,
 Croatia,,HRV,Croatia,,Croatia,,,Croatia,HRV,Croatia,HR,,Croatia,Emerging Europe,Europe,HRV,hr,
 Cuba,,CUB,Cuba,,Cuba,,,Cuba,CUB,Cuba,CUB,,Cuba,Caribbean,Americas,CUB,cu,
-Curacao,,CUW,Curaçao,,,,,Curacao,CUR,,,,,Caribbean,Americas,,cw,Manually assigned oegts_region_midlev
+Curacao,,CUW,Curaçao,,,,,Curacao,CUR,,,,Curacao,Caribbean,Americas,,cw,Manually assigned oegts_region_midlev
 Cyprus,cyp,CYP,Cyprus,CYPRUS,Cyprus,CY,,Cyprus,CYP,Cyprus,CYP,,Cyprus,Emerging Europe,Europe,CYP,cy,
 Czechia,cze,CZE,Czechia,CZECH,Czech Republic,CZ,,Czech Republic,CZE,Czech Republic,CZ,Europe,Czech Republic,Emerging Europe,Europe,CZE,cz,
 Denmark,dnk,DNK,Denmark,DENMARK,Denmark,DN,,Denmark,DNK,Denmark,DK,Europe,Denmark,Western Europe,Europe,DNK,dk,
@@ -71,7 +71,7 @@ El Salvador,,SLV,El Salvador,,El Salvador,,,El Salvador,SLV,El Salvador,SLV,,El 
 Equatorial Guinea,,GNQ,Equatorial Guinea,,,,,Equatorial Guinea,GNQ,,,,,Sub-Saharan Africa,Africa and Middle East,,gq,Manually assigned oegts_region_midlev
 Eritrea,,ERI,Eritrea,,Eritrea,,,Eritrea,ERI,Eritrea,ERI,,,Sub-Saharan Africa,Africa and Middle East,,er,Manually assigned oegts_region_midlev
 Estonia,,EST,Estonia,,Estonia,,,Estonia,EST,Estonia,EE,,Estonia,Emerging Europe,Europe,EST,ee,
-Eswatini,,SWZ,Eswatini,,,,,eSwatini,SWZ,,,,Swaziland,Sub-Saharan Africa,Africa and Middle East,SWZ,sz,Also known as Swaziland
+Eswatini,,SWZ,Eswatini,,,,,eSwatini,SWZ,,,,eSwatini,Sub-Saharan Africa,Africa and Middle East,SWZ,sz,Also known as Swaziland
 Ethiopia,,ETH,Ethiopia,,Ethiopia,,,Ethiopia,ETH,Ethiopia,ETH,,Ethiopia,Sub-Saharan Africa,Africa and Middle East,ETH,et,
 Falkland Islands,,FLK,Falkland Islands (the) [Malvinas],,,,,,,,,,,,,,fk,
 Faroe Islands,,FRO,Faroe Islands (the),,,,,,,,,,,,,,fo,
