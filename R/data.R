@@ -20,6 +20,8 @@
 #' \item{oegts_region_highlev}{Oxford Economics Global Travel Service high-level region. These include: Europe, Africa and Middle East, Americas, Asia Pacific, and NA.}
 #' \item{oegts_loc_code}{Oxford Economics Global Travel Service location (country) code}
 #' \item{internet_tld}{Country code top-level domain. Most tld codes are identical to ISO 3166-1 codes, with some notable exceptions. For further details, see \url{https://en.wikipedia.org/wiki/Country_code_top-level_domain}}
+#' \item{oag_country_name}{Country names used by OAG}}
+#' \item{oag_country_code}{Country codes used by OAG. Better to use this for joins rather than OAG country codes.}}
 #' \item{note}{Note}}
 "cb_ctry"
 

@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 
 This package provides reference tables, such as showing the correspondence between country and city names and codes across different databases and sources. This package contains three reference tables:
 
--   **cb_ctry:** Country names and codes across databases.  
+-   **cb_ctry:** Country names and codes across databases.\
 -   **cb_city:** City names and codes across databases.
 -   **cb_ctry_oegct:** Country names, codes and regions used in the Global City Travel database.
 -   **cb_regions_oegts:** Region names and codes used in the Global Travel Service database.
@@ -72,7 +72,7 @@ Census Bureau uses geographic identifiers (geoids). Census provides a descriptio
 
 Based on this [page](https://mcdc.missouri.edu/geography/sumlevs/), we have the following description.
 
--   A single code — the *geoID* — identifies every geographic entity in census data products. The geoID (sometimes called *geocode*, *areaID*, etc.) may be up to 40 characters long. Longer codes usually represent smaller entities. GeoIDs have a specific format for all areas:
+-   A single code --- the *geoID* --- identifies every geographic entity in census data products. The geoID (sometimes called *geocode*, *areaID*, etc.) may be up to 40 characters long. Longer codes usually represent smaller entities. GeoIDs have a specific format for all areas:
 
     -   Characters 1-3: summary level (see below)
 
