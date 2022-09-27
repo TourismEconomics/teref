@@ -20,7 +20,7 @@ Bahrain,,BHR,Bahrain,,Bahrain,,,Bahrain,BHR,Bahrain,BHR,,Bahrain,Middle East,Afr
 Bangladesh,,BGD,Bangladesh,,Bangladesh,,,Bangladesh,BGD,Bangladesh,BGD,,Bangladesh,South Asia,Asia Pacific,BGD,bd,Bangladesh,BD,
 Barbados,,BRB,Barbados,,Barbados,,,Barbados,BRB,Barbados,BRB,,Barbados,Caribbean,Americas,BRB,bb,Barbados,BB,
 Belarus,,BLR,Belarus,,Belarus,,,Belarus,BLR,Belarus,BLR,,Belarus,Emerging Europe,Europe,BLR,by,Belarus,BY,
-Belgium,bel,BEL,Belgium,BELGIUM,Belgium,BE,,Belgium,BEL,Belgium,BE,Europe,Belgium,Western Europe,Europe,BEL,be,Belgium,BE,
+Belgium,bel,BEL,Belgium,BELGIUM,Belgium,BE,BEL,Belgium,BEL,Belgium,BE,Europe,Belgium,Western Europe,Europe,BEL,be,Belgium,BE,
 Belize,,BLZ,Belize,,,,,Belize,BLZ,,,,Belize,Central America,Americas,BLZ,bz,Belize,BZ,
 Benin,,BEN,Benin,,Benin,,,Benin,BEN,Benin,BEN,,Benin,Sub-Saharan Africa,Africa and Middle East,BEN,bj,Benin,BJ,
 Bermuda,,BMU,Bermuda,,,,,Bermuda,BMU,,,,Bermuda,Caribbean,Americas,BMU,bm,Bermuda,BM,
@@ -77,14 +77,14 @@ Falkland Islands,,FLK,Falkland Islands (the) [Malvinas],,,,,,,,,,,South America,
 Faroe Islands,,FRO,Faroe Islands (the),,,,,,,,,,,Western Europe,Europe,,fo,Faroe Islands,FO,Manually assigned oegts_region_midlev
 Fiji,,FJI,Fiji,,Fiji,,,Fiji,FJI,Fiji,FJI,,Fiji,Oceania,Asia Pacific,FJI,fj,Fiji,FJ,
 Finland,fin,FIN,Finland,FINLAND,Finland,FI,,Finland,FIN,Finland,FI,Europe,Finland,Western Europe,Europe,FIN,fi,Finland,FI,
-France,fra,FRA,France,FRANCE,France,FR,,France,FRA,France,FR,Europe,France,Western Europe,Europe,FRA,fr,France,FR,
+France,fra,FRA,France,FRANCE,France,FR,FRA,France,FRA,France,FR,Europe,France,Western Europe,Europe,FRA,fr,France,FR,
 French Guiana,,GUF,French Guiana,,,,,,,,,,,South America,Americas,,gf,French Guiana,GF,Manually assigned oegts_region_midlev
 French Polynesia,,PYF,French Polynesia,,,,,,,,,,,Oceania,Asia Pacific,,pf,French Polynesia,PF,Manually assigned oegts_region_midlev
 French Southern Territories,,ATF,French Southern Territories (the),,,,,,,,,,,Sub-Saharan Africa,Africa and Middle East,,tf,,,Manually assigned oegts_region_midlev
 Gabon,,GAB,Gabon,,Gabon,,,Gabon,GAB,Gabon,GAB,,Gabon,Sub-Saharan Africa,Africa and Middle East,GAB,ga,Gabon,GA,
 Gambia,,GMB,Gambia (the),,Gambia,,,"Gambia,  The",GMB,Gambia,GMB,,"Gambia,  The",Sub-Saharan Africa,Africa and Middle East,GMB,gm,Gambia,GM,
 Georgia,geo,GEO,Georgia,GEORGIA,Georgia,,,Georgia,GEO,Georgia,GEO,Europe,Georgia,Emerging Europe,Europe,GEO,ge,Georgia,GE,
-Germany,deu,DEU,Germany,GERMANY,Germany,BD,,Germany,DEU,Germany,DE,Europe,Germany,Western Europe,Europe,DEU,de,Germany,DE,
+Germany,deu,DEU,Germany,GERMANY,Germany,BD,DEU,Germany,DEU,Germany,DE,Europe,Germany,Western Europe,Europe,DEU,de,Germany,DE,
 Ghana,,GHA,Ghana,,Ghana,,,Ghana,GHA,Ghana,GHA,,Ghana,Sub-Saharan Africa,Africa and Middle East,GHA,gh,Ghana,GH,
 Gibraltar,,GIB,Gibraltar,,,,,,,,,,,Western Europe,Europe,,gi,Gibraltar,GI,Manually assigned oegts_region_midlev
 Greece,grc,GRC,Greece,GREECE,Greece,GC,,Greece,GRC,Greece,EL,Europe,Greece,Western Europe,Europe,GRC,gr,Greece,GR,
@@ -111,7 +111,7 @@ Iraq,,IRQ,Iraq,,Iraq,,,Iraq,IRQ,Iraq,IRQ,,Iraq,Middle East,Africa and Middle Eas
 Ireland,irl,IRL,Ireland,IRELAND,Ireland,IR,,Ireland,IRL,Ireland,IE,Europe,Ireland,Western Europe,Europe,IRL,ie,Ireland Republic of,IE,
 Isle of Man,,IMN,Isle of Man,,,,,,,,,,,Western Europe,Europe,,im,,,Manually assigned oegts_region_midlev
 Israel,isr,ISR,Israel,ISRAELSR,Israel,IS,,Israel,ISR,Israel,ISR,Africa and Middle East,Israel,Middle East,Africa and Middle East,ISR,il,Israel,IL,
-Italy,ita,ITA,Italy,ITALY,Italy,IT,,Italy,ITA,Italy,IT,Europe,Italy,Western Europe,Europe,ITA,it,Italy,IT,
+Italy,ita,ITA,Italy,ITALY,Italy,IT,ITA,Italy,ITA,Italy,IT,Europe,Italy,Western Europe,Europe,ITA,it,Italy,IT,
 Jamaica,,JAM,Jamaica,,Jamaica,,,Jamaica,JAM,Jamaica,JAM,,Jamaica,Caribbean,Americas,JAM,jm,Jamaica,JM,
 Japan,jpn,JPN,Japan,JAPAN,Japan,JP,JPN,Japan,JPN,Japan,JPN,Asia Pacific,Japan,Northeast Asia,Asia Pacific,JPN,jp,Japan,JP,
 Jersey,,JEY,Jersey,,,,,,,,,,,Western Europe,Europe,,je,,,Manually assigned oegts_region_midlev
@@ -155,10 +155,10 @@ Myanmar,,MMR,Myanmar,,Myanmar,,,Myanmar,MMR,Myanmar,MMR,,Myanmar,Southeast Asia,
 Namibia,,NAM,Namibia,,Namibia,,,Namibia,NAM,Namibia,NAM,,Namibia,Sub-Saharan Africa,Africa and Middle East,NAM,na,Namibia,NA,
 Nauru,,NRU,Nauru,,,,,,,,,,,Oceania,Asia Pacific,,nr,Nauru,NR,Manually assigned oegts_region_midlev
 Nepal,,NPL,Nepal,,Nepal,,,Nepal,NPL,Nepal,NPL,,Nepal,South Asia,Asia Pacific,NPL,np,Nepal,NP,
-Netherlands,nld,NLD,Netherlands (the),NETH,Netherlands,NL,,Netherlands,NLD,Netherlands,NL,Europe,Netherlands,Western Europe,Europe,NLD,nl,Netherlands,NL,
+Netherlands,nld,NLD,Netherlands (the),NETH,Netherlands,NL,NLD,Netherlands,NLD,Netherlands,NL,Europe,Netherlands,Western Europe,Europe,NLD,nl,Netherlands,NL,
 Netherlands Antilles,,ANT,Netherlands Antilles,,,,,,,,,,Netherlands Antilles,Caribbean,Americas,ANT,an,,,ISO3661 alpha-3 code of ANT is transitional reserved
 New Caledonia,,NCL,New Caledonia,,,,,,,,,,,Oceania,Asia Pacific,,nc,New Caledonia,NC,Manually assigned oegts_region_midlev
-New Zealand,,NZL,New Zealand,,New Zealand,,,New Zealand,NZL,New Zealand,NZL,,New Zealand,Oceania,Asia Pacific,NZL,nz,New Zealand,NZ,
+New Zealand,,NZL,New Zealand,,New Zealand,,NZL,New Zealand,NZL,New Zealand,NZL,,New Zealand,Oceania,Asia Pacific,NZL,nz,New Zealand,NZ,
 Nicaragua,,NIC,Nicaragua,,Nicaragua,,,Nicaragua,NIC,Nicaragua,NIC,,Nicaragua,Central America,Americas,NIC,ni,Nicaragua,NI,
 Niger,,NER,Niger (the),,Niger,,,Niger,NER,Niger,NER,,Niger,Sub-Saharan Africa,Africa and Middle East,NER,ne,Niger,NE,
 Nigeria,,NGA,Nigeria,,Nigeria,,,Nigeria,NGA,Nigeria,NGA,,Nigeria,Sub-Saharan Africa,Africa and Middle East,NGA,ng,Nigeria,NG,
@@ -217,7 +217,7 @@ Sudan,,SDN,Sudan (the),,Sudan,,,Sudan,SDN,Sudan,SDN,,Sudan,Sub-Saharan Africa,Af
 Suriname,,SUR,Suriname,,Suriname,,,Suriname,SUR,Suriname,SUR,,Suriname,South America,Americas,SUR,sr,Suriname,SR,
 Svalbard and Jan Mayen,,SJM,Svalbard and Jan Mayen,,,,,,,,,,,Western Europe,Europe,,,,,Manually assigned oegts_region_midlev
 Sweden,,SWE,Sweden,,Sweden,,,Sweden,SWE,Sweden,SE,,Sweden,Western Europe,Europe,SWE,se,Sweden,SE,
-Switzerland,che,CHE,Switzerland,SWITZ,Switzerland,CH,,Switzerland,CHE,Switzerland,CH,Europe,Switzerland,Western Europe,Europe,CHE,ch,Switzerland,CH,
+Switzerland,che,CHE,Switzerland,SWITZ,Switzerland,CH,CHE,Switzerland,CHE,Switzerland,CH,Europe,Switzerland,Western Europe,Europe,CHE,ch,Switzerland,CH,
 Syria,,SYR,Syrian Arab Republic (the),,,,,Syrian Arab Republic,SYR,,,,Syrian Arab Republic,Middle East,Africa and Middle East,SYR,sy,Syrian Arab Republic,SY,
 Taiwan,twn,TWN,Taiwan (Province of China),TAIWAN,Taiwan,TA,,Taiwan,TAI,Taiwan,TAI,Asia Pacific,Taiwan,Northeast Asia,Asia Pacific,TAW,tw,Chinese Taipei,TW,
 Tajikistan,,TJK,Tajikistan,,Tajikistan,,,Tajikistan,TJK,Tajikistan,TJK,,Tajikistan,Emerging Europe,Europe,TJK,tj,Tajikistan,TJ,
