@@ -24,3 +24,6 @@ spendil,ALLPERTT!$,Internal leisure T&T spending,Internal leisure T&T spending (
 ttcapital,IFTT!$,T&T capital investment,T&T capital investment (US$ bn)
 spenddb,DMSTBIZ!$,Business domestic travel,Business domestic travel (US$ bn)
 vftotal,TOURF,Total visitor arrivals,Total visitor arrivals
+outtolh,OUTTO_LH,Outbound long haul overnight trips,Long haul overnight trips by destination
+outtomh,OUTTO_MH,Outbound medium haul overnight trips,Medium haul overnight trips by destination
+outtosh,OUTTO_SH,Outbound short haul overnight trips,Short haul overnight trips by destination
